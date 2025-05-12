@@ -9,7 +9,8 @@ tags: []
 slug: /best-laptop-for-video-editing/
 lastmod: 2025-05-07T12:21:24+03:00
 ---
-> **We may earn a commission when you click and buy from Amazon.com.**
+
+> **'We may earn a commission when you click and buy from Amazon.com.'**
 >
 
 ---

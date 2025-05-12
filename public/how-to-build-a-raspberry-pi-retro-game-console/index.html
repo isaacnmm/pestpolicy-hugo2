@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>How to Build a Raspberry Pi Retro Game Console | Insights</title>
+<meta name="keywords" content="">
+<meta name="description" content="
+We may earn a commission when you click and buy from Amazon.com.
+
+It&rsquo;s no brainier that retro gamers have always desired to create their &ldquo;general game console,&rdquo; which would enable them to play games from various systems.
+
+The critical considerations for this seemingly &ldquo;idea build&rdquo; have been excellent connectivity to the Television set, comfortable for gaming using aRetropie Controller, and average price.
+However, with the
+RetroPie
+software and Raspberry Pi 3, the &ldquo;idea build&rdquo; is now achievable. You can now play many retro games in PlayStation, Game Boy, and the Super NES all at a low cost of building the emulation system.
+
+How to Build a Raspberry Pi Retro Game Console
+1. Install the Raspberry Pi to the Raspberry case
+Your Raspberry Pi will not come with a case unless you go for the bundled offer. However, to protect your Raspberry Pi, it is vital that you install a case for your Raspberry Pi.
+Factors to consider while selecting the Raspberry Pi case are design, easy access for your board, port access, and durability.
+Please choose a case that Raspberry Pi that has a heat sink. Notably, I will select the Raspberry Pi case that will not require screws and screwdriver to safeguard.">
+<meta name="author" content="Isaac">
+<link rel="canonical" href="http://localhost:1313/how-to-build-a-raspberry-pi-retro-game-console/">
+<meta name="google-site-verification" content="wcIIamJKWxC3IcPXe02IZlAEWcGk828ZThxeK1w3aUQ">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.f49d66caae9ea0fd43f21f29e71a8d3e284517ed770f2aa86fa012953ad3c9ef.css" integrity="sha256-9J1myq6eoP1D8h8p5xqNPihFF&#43;13Dyqob6ASlTrTye8=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/how-to-build-a-raspberry-pi-retro-game-console/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-track {
+                background: 0 0;
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-thumb {
+                border-color: var(--theme);
+            }
+        }
+
+    </style>
+</noscript><meta property="og:url" content="http://localhost:1313/how-to-build-a-raspberry-pi-retro-game-console/">
+  <meta property="og:site_name" content="Insights">
+  <meta property="og:title" content="How to Build a Raspberry Pi Retro Game Console">
+  <meta property="og:description" content=" We may earn a commission when you click and buy from Amazon.com.
+It’s no brainier that retro gamers have always desired to create their “general game console,” which would enable them to play games from various systems.
+The critical considerations for this seemingly “idea build” have been excellent connectivity to the Television set, comfortable for gaming using aRetropie Controller, and average price. However, with the RetroPie software and Raspberry Pi 3, the “idea build” is now achievable. You can now play many retro games in PlayStation, Game Boy, and the Super NES all at a low cost of building the emulation system. How to Build a Raspberry Pi Retro Game Console 1. Install the Raspberry Pi to the Raspberry case Your Raspberry Pi will not come with a case unless you go for the bundled offer. However, to protect your Raspberry Pi, it is vital that you install a case for your Raspberry Pi. Factors to consider while selecting the Raspberry Pi case are design, easy access for your board, port access, and durability. Please choose a case that Raspberry Pi that has a heat sink. Notably, I will select the Raspberry Pi case that will not require screws and screwdriver to safeguard.">
+  <meta property="og:locale" content="en-us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2025-05-04T19:07:54+00:00">
+    <meta property="article:modified_time" content="2025-05-07T12:21:27+03:00">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="How to Build a Raspberry Pi Retro Game Console">
+<meta name="twitter:description" content="
+We may earn a commission when you click and buy from Amazon.com.
+
+It&rsquo;s no brainier that retro gamers have always desired to create their &ldquo;general game console,&rdquo; which would enable them to play games from various systems.
+
+The critical considerations for this seemingly &ldquo;idea build&rdquo; have been excellent connectivity to the Television set, comfortable for gaming using aRetropie Controller, and average price.
+However, with the
+RetroPie
+software and Raspberry Pi 3, the &ldquo;idea build&rdquo; is now achievable. You can now play many retro games in PlayStation, Game Boy, and the Super NES all at a low cost of building the emulation system.
+
+How to Build a Raspberry Pi Retro Game Console
+1. Install the Raspberry Pi to the Raspberry case
+Your Raspberry Pi will not come with a case unless you go for the bundled offer. However, to protect your Raspberry Pi, it is vital that you install a case for your Raspberry Pi.
+Factors to consider while selecting the Raspberry Pi case are design, easy access for your board, port access, and durability.
+Please choose a case that Raspberry Pi that has a heat sink. Notably, I will select the Raspberry Pi case that will not require screws and screwdriver to safeguard.">
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "Posts",
+      "item": "http://localhost:1313/posts/"
+    }, 
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "name": "How to Build a Raspberry Pi Retro Game Console",
+      "item": "http://localhost:1313/how-to-build-a-raspberry-pi-retro-game-console/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "How to Build a Raspberry Pi Retro Game Console",
+  "name": "How to Build a Raspberry Pi Retro Game Console",
+  "description": " We may earn a commission when you click and buy from Amazon.com.\nIt\u0026rsquo;s no brainier that retro gamers have always desired to create their \u0026ldquo;general game console,\u0026rdquo; which would enable them to play games from various systems.\nThe critical considerations for this seemingly \u0026ldquo;idea build\u0026rdquo; have been excellent connectivity to the Television set, comfortable for gaming using aRetropie Controller, and average price. However, with the RetroPie software and Raspberry Pi 3, the \u0026ldquo;idea build\u0026rdquo; is now achievable. You can now play many retro games in PlayStation, Game Boy, and the Super NES all at a low cost of building the emulation system. How to Build a Raspberry Pi Retro Game Console 1. Install the Raspberry Pi to the Raspberry case Your Raspberry Pi will not come with a case unless you go for the bundled offer. However, to protect your Raspberry Pi, it is vital that you install a case for your Raspberry Pi. Factors to consider while selecting the Raspberry Pi case are design, easy access for your board, port access, and durability. Please choose a case that Raspberry Pi that has a heat sink. Notably, I will select the Raspberry Pi case that will not require screws and screwdriver to safeguard.\n",
+  "keywords": [
+    
+  ],
+  "articleBody": " We may earn a commission when you click and buy from Amazon.com.\nIt’s no brainier that retro gamers have always desired to create their “general game console,” which would enable them to play games from various systems.\nThe critical considerations for this seemingly “idea build” have been excellent connectivity to the Television set, comfortable for gaming using aRetropie Controller, and average price. However, with the RetroPie software and Raspberry Pi 3, the “idea build” is now achievable. You can now play many retro games in PlayStation, Game Boy, and the Super NES all at a low cost of building the emulation system. How to Build a Raspberry Pi Retro Game Console 1. Install the Raspberry Pi to the Raspberry case Your Raspberry Pi will not come with a case unless you go for the bundled offer. However, to protect your Raspberry Pi, it is vital that you install a case for your Raspberry Pi. Factors to consider while selecting the Raspberry Pi case are design, easy access for your board, port access, and durability. Please choose a case that Raspberry Pi that has a heat sink. Notably, I will select the Raspberry Pi case that will not require screws and screwdriver to safeguard.\n2. Install SD-card image for RetroPie RetroPie is a Raspberry Pi software bundle, combining projects such as EmulationStation and RetroArch , which is Raspbian created by Linux. Notably, you’ll find it easy to start with RetroPie through an installation of the SD image that is a suitable system created over the Raspbian OS. RetroPie combines suite utilities and tools to make it easy to run ROMs for different old-fashioned gaming stages. However, your Raspberry Pi will not have its internal hard drive, and thus you’ll need to employ a microSD card to store the RetroPie files and operating system. Therefore, you’ll require to download the appropriate version of the SD-Card Image. However, note that you’ll find two kinds of SD-Card Image:\nSD-Card Image for the Raspberry Pi 2 and 3 SD-Card Image for your Raspberry Zero W, Pi Zero, B+, B, A, \u0026 A+. 3. Format the MicroSD for Raspberry Pi Operations If your Raspberry Pi SD card is above 32 GB, you’ll need to format to FAT32 so that it can work with the retro games you’ll install. As I had outlined earlier , all SD cards bigger than 32GB will have the SDXC card, which is not compatible with NOOBS. Therefore, to use such as 64GB and above SD card in Raspberry Pi, you’ll need to format the card to the exFAT filesystem. Notably, the default SD Formatter tool format the SD cards 64GB or bigger to exFAT. However, the bootloader that is inside the GPU is only compatible with the FAT system. For Windows, use the FAT32 Format that you can download and run on your PC to format your SD card to FAT32 ready for Raspberry Pi operations. For Mac OS and Linux, use the SD Formatter plus the FAT32 Format tools.\n4. Mac - Installing operating system images For Mac, you’ll install the RetroPie image using the ApplePi-Baker tool. However, after downloading and installing the utility, you’ll need SUDO access for writing and reading the Raspberry Pi SD card .\nInstall and launch the SD card, after which you enter the Mac access. Once you found the ApplePi-Baker utility, you’ll need to click, on the left side, your Raspberry Pi SD card. After this, hit the “Restore Backup” and then the Image (RetroPie SD-Card). 5. Windows - Installing operating system images For windows, you’ll need to download the Win32DiskImager from the resource page . Therefore, insert the SD Card and run the Win32DiskImager.exe. From the running application, choose the desired #.img’ image file and hit the write button.\n6. Install the Raspberry Pi SD card \u0026 peripherals and link to the internet Your next step will require that you properly install the SD card to the Raspberry Pi slot. Also, install the HDMI cable, USB game controller, and keyboard.\nFor the display, you can link your TV or monitor using an HDMI cable. Remember that you’ll only switch on power to your Raspberry Pi after linking all the Pi peripherals. Therefore, finally, connect the Raspberry Pi MicroUSB power supply . To get game ROMs, you’ll require to link the Raspberry Pi to the internet and find explanation scraping and gaming evaluation. You can connect your Pi to the internet through: WiFi RetroPie For the WiFi, you’ll need to link all the Pi peripheral and then hit the RetroPie menu on the Raspberry Pi and hit WI-FI. WiFi in-built If you have Wireless Pi Zero and Raspberry Pi 3, then you can connect to the internet through the in-built WiFi. WiFi dongle If none of the above WIFI options are available, then you can purchase a USB WiFi adapter that will allow you to link to the internet. Ethernet Cable (CAT5) Notably, not all of us fancy the WIFI connection to the internet. Therefore, you can use the Ethernet (CAT5) cable to link your PI to the internet. 7. Expand the SD card and link the Raspberry Pi I must say that the SD card is now bigger than before. Therefore, if you have an SD card that has a capacity of over 4GB, you’ll need to expand it using raspi-config by running the sudo raspi-config command line. After finishing the installation and expansion, reboot the Raspberry Pi.\n8. Connect the Raspberry Pi To copy the game ROMs, you’ll now link the Raspberry Pi with the PC, which will enable you to rework its configuration files readily.\n9. Set up controller and search Game ROMs For your retro game controller to function with the Raspberry Pi, you’ll need to set up the USB controller.\nFor your retro gaming, you’ll need to visitsitesthat offer legal and priceless ROMs that you can download to your device. You can install the ROMs through a USB thumb drive or SFTP/ SSH or other methods . ",
+  "wordCount" : "998",
+  "inLanguage": "en",
+  "datePublished": "2025-05-04T19:07:54Z",
+  "dateModified": "2025-05-07T12:21:27+03:00",
+  "author":{
+    "@type": "Person",
+    "name": "Isaac"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "http://localhost:1313/how-to-build-a-raspberry-pi-retro-game-console/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Insights",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "http://localhost:1313/favicon.ico"
+    }
+  }
+}
+</script>
+</head>
+
+<body class="" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+    }
+
+</script>
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="http://localhost:1313/" accesskey="h" title="Insights (Alt + H)">Insights</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu">
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title entry-hint-parent">
+      How to Build a Raspberry Pi Retro Game Console
+    </h1>
+    <div class="post-meta"><span title='2025-05-04 19:07:54 +0000 +0000'>May 4, 2025</span>&nbsp;·&nbsp;Isaac
+
+</div>
+  </header> 
+  <div class="post-content"><blockquote>
+<p><strong>We may earn a commission when you click and buy from Amazon.com.</strong></p></blockquote>
+<hr>
+<p>It&rsquo;s no brainier that retro gamers have always desired to create their &ldquo;general game console,&rdquo; which would enable them to play games from various systems.</p>
+<ul>
+<li>The critical considerations for this seemingly &ldquo;idea build&rdquo; have been excellent connectivity to the Television set, comfortable for gaming using a<a href="https://pestpolicy.com/best-controller-for-retropie/">Retropie Controller</a>, and average price.
+However, with the
+<a href="https://retropie.org.uk/">RetroPie</a>
+software and Raspberry Pi 3, the &ldquo;idea build&rdquo; is now achievable. You can now play many retro games in PlayStation, Game Boy, and the Super NES all at a low cost of building the emulation system.</li>
+</ul>
+<h2 id="how-to-build-a-raspberry-pi-retro-game-console">How to Build a Raspberry Pi Retro Game Console<a hidden class="anchor" aria-hidden="true" href="#how-to-build-a-raspberry-pi-retro-game-console">#</a></h2>
+<h3 id="1-install-the-raspberry-pi-to-the-raspberry-case">1. Install the Raspberry Pi to the Raspberry case<a hidden class="anchor" aria-hidden="true" href="#1-install-the-raspberry-pi-to-the-raspberry-case">#</a></h3>
+<p>Your Raspberry Pi will not come with a case unless you go for the bundled offer. However, to protect your Raspberry Pi, it is vital that you install a case for your Raspberry Pi.
+Factors to consider while selecting the Raspberry Pi case are design, easy access for your board, port access, and durability.
+Please choose a case that Raspberry Pi that has a heat sink. Notably, I will select the Raspberry Pi case that will not require screws and screwdriver to safeguard.</p>
+<h3 id="2-install-sd-card-image-for-retropie">2. Install SD-card image for RetroPie<a hidden class="anchor" aria-hidden="true" href="#2-install-sd-card-image-for-retropie">#</a></h3>
+<p>RetroPie is a Raspberry Pi software bundle, combining projects such as
+<a href="http://www.emulationstation.org/">EmulationStation</a>
+and
+<a href="http://www.libretro.com/">RetroArch</a>
+, which is Raspbian created by Linux.
+Notably, you&rsquo;ll find it easy to start with RetroPie through an installation of the SD image that is a suitable system created over the Raspbian OS.
+RetroPie combines suite utilities and tools to make it easy to run ROMs for different old-fashioned gaming stages. However, your Raspberry Pi will not have its internal hard drive, and thus you&rsquo;ll need to employ a microSD card to store the RetroPie files and operating system.
+Therefore, you&rsquo;ll require to
+<a href="https://retropie.org.uk/download/">download</a>
+the appropriate version of the SD-Card Image. However, note that you&rsquo;ll find two kinds of SD-Card Image:</p>
+<ul>
+<li>SD-Card Image for the Raspberry Pi 2 and 3</li>
+<li>SD-Card Image for your Raspberry Zero W, Pi Zero, B+, B, A, &amp; A+.</li>
+</ul>
+<h3 id="3-format-the-microsd-for-raspberry-pi-operations">3. Format the MicroSD for Raspberry Pi Operations<a hidden class="anchor" aria-hidden="true" href="#3-format-the-microsd-for-raspberry-pi-operations">#</a></h3>
+<p>If your
+<a href="https://pestpolicy.com/best-sd-card-for-raspberry-pi-3/">Raspberry Pi SD card</a>
+is above 32 GB, you&rsquo;ll need to
+<a href="https://pestpolicy.com/format-sd-card-to-fat32/">format to FAT32</a>
+so that it can work with the retro games you&rsquo;ll install. As I had outlined
+<a href="https://pestpolicy.com/format-sd-card-to-fat32/">earlier</a>
+, all SD cards bigger than 32GB will have the SDXC card, which is not compatible with NOOBS.
+Therefore, to use such as 64GB and above SD card in Raspberry Pi, you&rsquo;ll need to format the card to the exFAT filesystem.
+Notably, the default SD Formatter tool format the SD cards 64GB or bigger to exFAT. However, the bootloader that is inside the GPU is only compatible with the FAT system.
+For Windows, use the
+<a href="https://pestpolicy.com/">FAT32 Format</a>
+that you can download and run on your PC to format your SD card to FAT32 ready for Raspberry Pi operations. For Mac OS and Linux, use the
+<a href="https://www.sdcard.org/downloads/formatter_4/">SD Formatter</a>
+plus the FAT32 Format tools.</p>
+<h3 id="4-mac--installing-operating-system-images">4. Mac - Installing operating system images<a hidden class="anchor" aria-hidden="true" href="#4-mac--installing-operating-system-images">#</a></h3>
+<p>For Mac, you&rsquo;ll install the RetroPie image using the
+<a href="http://www.pibakery.org/download.html">ApplePi-Baker</a>
+tool.
+However, after downloading and installing the utility, you&rsquo;ll need SUDO access for writing and reading the
+<a href="https://pestpolicy.com/best-sd-card-for-raspberry-pi-3/">Raspberry Pi SD card</a>
+.</p>
+<ul>
+<li>Install and launch the SD card, after which you enter the Mac access.
+Once you found the
+<a href="http://www.pibakery.org/download.html">ApplePi-Baker</a>
+utility, you&rsquo;ll need to click, on the left side, your Raspberry Pi SD card. After this, hit the &ldquo;Restore Backup&rdquo; and then the Image (RetroPie SD-Card).</li>
+</ul>
+<h3 id="5-windows---installing-operating-system-images">5. Windows - Installing operating system images<a hidden class="anchor" aria-hidden="true" href="#5-windows---installing-operating-system-images">#</a></h3>
+<p>For windows, you&rsquo;ll need to download the Win32DiskImager from the
+<a href="http://www.raspberrypi.org/downloads">resource page</a>
+.
+Therefore, insert the SD Card and run the Win32DiskImager.exe. From the running application, choose the desired #.img&rsquo; image file and hit the write button.</p>
+<h3 id="6-install-the-raspberry-pi-sd-card--peripherals-and-link-to-the-internet">6. Install the Raspberry Pi SD card &amp; peripherals and link to the internet<a hidden class="anchor" aria-hidden="true" href="#6-install-the-raspberry-pi-sd-card--peripherals-and-link-to-the-internet">#</a></h3>
+<p>Your next step will require that you properly install the SD card to the Raspberry Pi slot. Also, install the HDMI cable, USB game controller, and keyboard.</p>
+<ul>
+<li>For the display, you can link your TV or monitor using an HDMI cable.
+Remember that you&rsquo;ll only switch on power to your Raspberry Pi after linking all the Pi peripherals. Therefore, finally, connect the
+<a href="https://pestpolicy.com/best-power-supply-raspberry-pi-3/">Raspberry Pi MicroUSB power supply</a>
+.
+To get game ROMs, you&rsquo;ll require to link the Raspberry Pi to the internet and find explanation scraping and gaming evaluation. You can connect your Pi to the internet through:</li>
+</ul>
+<ol>
+<li>WiFi  RetroPie
+For the WiFi, you&rsquo;ll need to link all the Pi peripheral and then hit the RetroPie menu on the Raspberry Pi and hit WI-FI.</li>
+<li>WiFi  in-built
+If you have Wireless Pi Zero and Raspberry Pi 3, then you can connect to the internet through the in-built WiFi.</li>
+<li>WiFi dongle
+If none of the above WIFI options are available, then you can purchase a USB WiFi adapter that will allow you to link to the internet.</li>
+<li>Ethernet Cable (CAT5)
+Notably, not all of us fancy the WIFI connection to the internet. Therefore, you can use the Ethernet (CAT5) cable to link your PI to the internet.</li>
+</ol>
+<h3 id="7-expand-the-sd-card-and-link-the-raspberry-pi">7. Expand the SD card and link the Raspberry Pi<a hidden class="anchor" aria-hidden="true" href="#7-expand-the-sd-card-and-link-the-raspberry-pi">#</a></h3>
+<p>I must say that the SD card is now bigger than before. Therefore, if you have an SD card that has a capacity of over 4GB, you&rsquo;ll need to expand it using
+<a href="https://elinux.org/RPi_raspi-config">raspi-config</a>
+by running the sudo raspi-config command line.
+After finishing the installation and expansion, reboot the Raspberry Pi.</p>
+<h3 id="8-connect-the-raspberry-pi">8. Connect the Raspberry Pi<a hidden class="anchor" aria-hidden="true" href="#8-connect-the-raspberry-pi">#</a></h3>
+<p>To copy the game ROMs, you&rsquo;ll now link the Raspberry Pi with the PC, which will enable you to rework its configuration files readily.</p>
+<h3 id="9-set-up-controller-and-searchgame-roms">9. Set up controller and search Game ROMs<a hidden class="anchor" aria-hidden="true" href="#9-set-up-controller-and-searchgame-roms">#</a></h3>
+<p>For your
+<a href="https://pestpolicy.com/best-controller-for-retropie/">retro game controller</a>
+to function with the Raspberry Pi, you&rsquo;ll need to set up the USB controller.</p>
+<ul>
+<li>For your retro gaming, you&rsquo;ll need to visit<a href="MAMEdev.org">sites</a>that offer legal and priceless ROMs that you can download to your device.
+You can install the ROMs through a USB thumb drive or SFTP/ SSH or other
+<a href="https://github.com/retropie/retropie-setup/wiki">methods</a>
+.</li>
+</ul>
+
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+    </ul>
+  </footer>
+</article>
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2025 <a href="http://localhost:1313/">Insights</a></span> · 
+
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>
