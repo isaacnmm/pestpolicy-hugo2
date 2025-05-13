@@ -26,7 +26,7 @@ Lil-Gadgets Untangled Pro has great size for your baby, blocking the necessary e
 .
 L
 il-Gadgets Untangled Pro will be great for home use or during a vacation with its soft and breathable mesh (SoftTouch) and thus can be won for long periods (even 12 hours).
-![](/assets/img/03/Best-Noise-Cancelling-Headphones-for-Babies.bmp)
+
 Further, the headphones' SharePort allows multiple kids to use the Bluetooth connection for one Lil-Gadgets Untangled Pro. But don't limit the kid's volume to unacceptable levels in noisy surroundings.
 On design, this baby's headphone comes in lightweight circumaural, white, purple, pink, green, blue, and black. They have stylish plush earpads and headband that's also leather-like and perforated.
 Its internal driver is 40mm with a 30 Ohms impedance and a 20Hz to 20kHz frequency range. You can end or answer the phone calls using a power button that's in the outer panel of the left earcup.

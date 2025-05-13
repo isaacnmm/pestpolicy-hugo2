@@ -16,7 +16,7 @@ lastmod: 2025-05-07T12:21:24+03:00
 When the primer is fully dry, get a
 [deep-pile paint roller](https://www.pinterest.com/pin/122371314860759495/)
 , popularly known as the best paint roller, for textured walls to paint on the surfaces with the "W" / "M" technique.
-![](/assets/img/img/)
+
 You'll require to use
 texture paint or texture
 material - this will work with all the various texture types invented, abstract, simulated, or

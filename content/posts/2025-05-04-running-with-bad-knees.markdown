@@ -14,7 +14,7 @@ lastmod: 2025-05-07T12:21:28+03:00
 
 ---
 Having a bad knee? Here are the rules: dont run, lift or squat! Right? Wrong! You should consider bad knees as just a hurdle to overcome, and never an excuse to evade running and exercise - running with bad knees.
-![](/assets/img/img/)
+
 However, take caution while running with a bad knee since any weight-bearing exercise could increase knee pain.
 
 I know, there are significant arguments out there that running with a bad knee could lead to osteoarthritis. However, according to a recent study by

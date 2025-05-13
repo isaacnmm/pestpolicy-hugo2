@@ -17,7 +17,7 @@ Fiberglass enjoys an age-old reputation as a strong and robust material, making 
 [fiberglass boats](https://www3.epa.gov/airquality/ctg_act/200809_voc_epa453_r-08-004_fiberglass_boat_manufacturing_materials.pdf)
 .
 Without a doubt, a boat made of fiberglass guarantees you many years of excellent service provided that you maintain it well.
-![](/assets/img/img/)
+
 One way to take good care and maintain such a boat is by
 [painting the fiberglass boat](https://pestpolicy.com/how-to-paint-a-fiberglass-boat/)
 regularly. Below is our detailed list of quality Paint for Fiberglass Boats 2025.

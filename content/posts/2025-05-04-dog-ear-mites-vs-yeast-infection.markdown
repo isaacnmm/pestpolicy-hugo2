@@ -17,7 +17,7 @@ lastmod: 2025-05-07T12:21:26+03:00
 and
 [Yeast Infections](https://vcahospitals.com/know-your-pet/yeast-dermatitis-in-dogs)
 are major problems facing most dog/pet owners.
-![](/assets/img/12/Pest-Control.jpg)
+
 Could you be having challenges while differentiating between the Dog Ear Mites and Yeast Infections? Then, this article is for you.
 **Dog Ear Mites (also known as Otodectes cynotis mites) is a parasitic infection that is caused by tiny parasites called ear mites. **
 **It is characterized by red inflammation and severe irritations. **

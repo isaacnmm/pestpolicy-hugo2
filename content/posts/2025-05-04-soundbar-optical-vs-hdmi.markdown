@@ -16,7 +16,7 @@ lastmod: 2025-05-07T12:21:28+03:00
 Is Soundbar optical vs HDMI - digital-audio? Connecting your
 [soundbar](https://pestpolicy.com/best-soundbars-for-under-100/)
 to the audio system or AV receiver requires using either an Optical or HDMI connection (digital-audio).
-![](/assets/img/12/Pest-Control.jpg)
+
 Remember the old day of coaxial cable for video and audio signals to your TV? The new connection, new challenges?
 Well, in this article, I've outlined the differences between these Digital-Audio connections - Soundbar Optical Vs HDMI.
 In summary, comparing Optical Vs HDMI, I would

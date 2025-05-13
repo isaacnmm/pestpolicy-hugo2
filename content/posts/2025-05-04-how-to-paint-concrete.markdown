@@ -16,7 +16,7 @@ lastmod: 2025-05-07T12:21:27+03:00
 Having an impressive concrete outlook is the dream of every homeowner. However, achieving an
 [excellent paint finish](https://pestpolicy.com/what-kind-of-paint-can-be-used-on-concrete/)
 is usually faced with several challenges, especially when the wrong procedure is used while painting.
-![](/assets/img/img/)
+
 Perhaps you are facing peeling challenges or even mold growth over your concrete surface and wonder how to go about it. Do you just coat the concrete with paint, strip, or wash the entire surface?
 *Well, in this article, we shall be discussing how to paint concrete. You begin your task by selecting appropriate tools/materials, carry out surface preparation, seal/fill any surface damage, sand/polish where necessary before applying a concrete-based primer, if necessary.*
 *Moreover, choosing correct concrete paint and prepare accordingly, carry out a procedural application with a roller, a paintbrush, or a paint sprayer, and then leave the concrete surface to dry naturally or in an agitated atmosphere. Indeed, the concrete finish coat shouldnt be touched when still wet or sanded whatsoever after the paint has dried. *

@@ -27,7 +27,7 @@ Bed bugs prefer hiding in locations where it is easy for them to bite on a host 
 ) and slip back into hiding without being noticed. So, apart from your bed, bed bugs will also hide in your carpet.
 
 This is especially possible where your furniture presses against the wall leaving dark corners beneath. They also hide below the carpet and the spaces between the carpet and baseboard or the wall.
-![](/assets/img/03/Can-Bed-Bugs-Live-in-Carpet-300x200.jpg)
+
 If you have an infestation, youre likely to see bed bugs at the edges of your carpet behind the sofa set, cupboard or bed. In case you dont see live bed bugs, their eggs or carcasses in these places are a clear evidence of their presence.
 
 When bed bugs inhabit your carpet, they can create a very big challenge for pest eradication. Sometimes they get entangled in the fibres of the carpet and become extremely hard to locate.

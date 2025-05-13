@@ -16,7 +16,7 @@ lastmod: 2025-05-07T12:21:26+03:00
 Looking for the best
 [vocal mic](http://artsites.ucsc.edu/EMS/Music/tech_background/TE-20/teces_20.html)
 under 200? Getting excellent voice recordings depends on the quality of the vocal mic you use.
-![](/assets/img/img/)
+
 But you dont have to break a bank to get a high-performance mic for your voice recording or streaming projects.
 If youre operating on a tight budget, you can get a quality mic under 200.  Its a review of 7 most outstanding vocal microphones under 200 in the market today.
 Related:

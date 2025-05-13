@@ -19,7 +19,7 @@ Motherboard performance, in addition to the
 quality, will affect your gaming experience. This post will assist you to choose your ultimate motherboard for the great gaming PC you need to build.
 ## Step by Step Guide on How To Choose A Motherboard
 For example, Hardware fitting, a key aspect to consider while building your gaming PC is dependent on your motherboard structure and technology.
-![](/assets/img/img/)
+
 ### 1. Form Factor
 A motherboards
 [form factor](https://en.wikipedia.org/wiki/Computer_form_factor)

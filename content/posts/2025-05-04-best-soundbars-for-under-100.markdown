@@ -16,7 +16,7 @@ lastmod: 2025-05-07T12:21:25+03:00
 If you're looking for a
 [budget soundbar](https://www.fhsu.edu/technology/purchasing-procedures/)
 , here's a compilation of my best soundbars for under 100.
-![](/assets/img/12/Pest-Control.jpg)
+
 You'll find the
 [soundbars worth a lot](https://pestpolicy.com/are-soundbars-worth-it/)
 as they'll provide superior sound than the TV - great immersion for listening to music or watching your amazing movies.

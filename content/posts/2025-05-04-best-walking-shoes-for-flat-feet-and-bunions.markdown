@@ -14,7 +14,7 @@ lastmod: 2025-05-07T12:21:26+03:00
 
 ---
 Below is a detailed review of Best Walking Shoes for Flat Feet and Bunions.
-![](/assets/img/img/)
+
 First!
 
 If you have flat feet, youll realize that you also overpronate (excessive inward rolling of the foot) when walking. This foot movement can cause the development or aggravation of bunions.

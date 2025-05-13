@@ -18,7 +18,7 @@ Painting your newly constructed home will not only improve its outlook impressio
 - *Exterior house color should be selected depending on the location, prevailing weather, and the nature of the exterior house material in order to attain quality paint finish. *
 - *Color matching is crucial especially for cottage or a bungalow. **Exterior house found in sunny areas should be painted with white color or brighter color that emits solar insolation (reduces internal heating). *
 *Lighter shade color will do well in warm environment. You can line beams and column (for concrete houses) with bright grey color in order to reinforce the white background. *
-![](/assets/img/03/Paint-Color-Ideas-for-Outside-of-House-300x197.jpg)
+
 ## Details: Paint Color Ideas for Outside of House
 When choosing paint color, its also important to consider the colors used by neighborhood and consider similar option for uniformity and impressiveness.
 https://www.youtube.com/watch?v=tiU41rVjyW4

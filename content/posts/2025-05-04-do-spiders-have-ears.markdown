@@ -15,7 +15,7 @@ lastmod: 2025-05-07T12:21:26+03:00
 
 ---
 For along time, scientific evidence considered that spiders are dominated by touch and sight. But the characteristics of these arachnids can be both terrifying and impressive.
-![](/assets/img/12/Pest-Control.jpg)
+
 **So, do spiders have ears? Spiders don't have ears or eardrums but jumping spiders can hear **
 **sounds even from 5 meters away. **
 **A recent study show that spiders have tiny sensitive hairs to detect sound. **

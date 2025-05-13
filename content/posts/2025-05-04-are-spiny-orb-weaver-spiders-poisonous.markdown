@@ -17,7 +17,7 @@ lastmod: 2025-05-07T12:21:23+03:00
 The Gasteracantha (a.k.a
 [spiny spiders, spiny orb-weavers, or spiny-backed orb-weavers](https://en.wikipedia.org/wiki/Spiny_orb-weaver)
 ) are in the orb-weaver genus of spiders. The spiders have unique spikes on their backs.
-![](/assets/img/img/)
+
 The female Gasteracantha have brightly-colored spines on their shell-like, hardened, and broad abdomens. However, are spiny orb-weaver spiders poisonous?
 **The simple answer is, NO, Spiny Orb-Weaver Spiders are not poisonous. While these Gasteracantha spiny spiders can bite, they aren't aggressive or poisonous spider species and they won't trigger any grave symptoms on humans. **
 ## Detailed: Are Spiny Orb-Weaver Spiders Poisonous?
@@ -29,7 +29,7 @@ Each eggs sack of this Spiny Orb-Weaver Spiders will hold roughly 100 - 300 eggs
 The bug's body color is the surest way to distinguish between the spiny-back species - particularly in this case the orb-weaver spiders.
 The male orb-weaver spiders are largely smaller compared to their female counterparts - their body length ranges from 2 - 3 millimeters but slightly longer in body width. On the other hand the female orb-weaver spiders measure 5 - 9 millimeters in body length and their body width is 10 - 13 millimeters.
 [caption id="" align="aligncenter" width="360"]
-![](/assets/img/20111029_DSC_0030_%2810191378843%29.jpg/360px-20111029_DSC_0030_%2810191378843%29.jpg)
+
 Source:
 [Wikipedia](https://en.wikipedia.org/wiki/Spiny_orb-weaver)
 [/caption]

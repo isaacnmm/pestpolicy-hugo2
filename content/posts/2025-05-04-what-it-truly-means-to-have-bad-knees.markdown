@@ -24,7 +24,7 @@ Most people, experience the
 [patellar pain syndrome](https://en.wikipedia.org/wiki/Patellofemoral_pain_syndrome)
 , a kind of knee overuse injury, which involves pain, soreness, and discomfort at the fore and below the kneecap.
 Due to bad knees, I was hesitant to do lower body days or even work out the legs since all thought of with the lunges and squats was the pain or additional injury it would cause if I didnt do it right.
-![](/assets/img/04/What-it-Truly-Means-to-Have-Bad-Knees-300x200.jpg)
+
 You can take different movements that would work your posterior chain to allow the hamstrings and glutes to prevent knee pain.
 However, the
 [book](https://www.amazon.com/FrameWork-Knee-6-Step-Preventing-Injury/dp/1605295930/ref=as_li_ss_tl?&ascsub&linkCode=ll1&tag=p-policy-20&linkId=873671e9e1be6d13419f783a68892104)

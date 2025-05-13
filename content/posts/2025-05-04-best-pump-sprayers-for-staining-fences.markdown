@@ -17,7 +17,7 @@ Using the best pump sprayers for staining fences will be both less
 labor- and time-intensive compared to
 [using a roller](https://pestpolicy.com/how-to-paint-a-fence-with-a-roller/)
 or brush. But the roller and roller trends push your painting material deeper into the wood.
-![](/assets/img/img/)
+
 You should stain or paint your wood fence (
 [with exterior decking stain](https://pestpolicy.com/best-stain-for-swing-set/)
 ) every 2-3 years as the wood will be exposed to many elements - and thus staining or painting will increase its durability.

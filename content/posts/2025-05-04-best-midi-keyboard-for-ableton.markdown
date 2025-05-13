@@ -16,7 +16,7 @@ lastmod: 2025-05-07T12:21:24+03:00
 What's the best midi keyboard for Ableton? You can substitute a whole production team with just .you, an Ableton Live MIDI controller, and your
 [soundcards / audio interfaces](https://pestpolicy.com/best-sound-cards-for-music-production/)
 .
-![](/assets/img/12/Pest-Control.jpg)
+
 But, clearly, Ableton live Midi Keyboards are not created equal. Ive reviewed the Best Midi Keyboard for Ableton Live.
 *Summary: I recommend Akai Professional APC40 MKII or the M-Audio Oxygen 25 MK IV for a seamless workflow with top efficiency and versatility. You can now produce top-quality compositions in addition to reorganizing or remixing your live set. *
 Related:
@@ -48,7 +48,7 @@ Read Also:
 ### [3. Novation Impulse 49 USB Midi Controller Keyboard](https://www.amazon.com/dp/B005M02VNW/?tag=p-policy-20)
 I truly love how fast I can assign things with this Novation Impulse 49. It allows the user to easily interact with the interface and create great workflows. Also, its very stable and sturdy for a Midi Controller Keyboard. It has not frozen on my work.
 
-![](/assets/img/e/ir)
+
 Also, on its screen youll find 20 varied presets that one can save  and it has built-in presets such as massive and for the ultra-Nova, supernova. On the buttons at the bottom, you can assign them to things such as the JU-06.
 It has 8 rotary knobs that you can assign to various things, full LCD screen (on transport section), and 55-millimeter faders (9 in total). Its drum pads, the Novation Impulse 49 has LED backlight with amber, red and green  to show if youre active, muted, or if its being used as a trigger.
 It also USB powered  coming with two inputs for sustained or an expression pedals. It comes, out the box, with Ableton live to produce immediately.

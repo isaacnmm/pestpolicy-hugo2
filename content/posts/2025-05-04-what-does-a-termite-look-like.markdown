@@ -35,12 +35,12 @@ The termite's
 have three castes - (1) reproductives, (2) soldiers, and (3) workers. Every caste has unique features that enable them to perform their colony roles effectively -
 [Pesticide Worker Safety](https://www.epa.gov/pesticides)
 .
-![](/assets/img/content/what_color_are_termites.png)
+
 Image Source:
 [Orkin](https://www.domyown.com/termite-identification-guide-a-476.html)
 Being hemimetabolous, all termites, including their nymphs, will be involved in social activities, are assigned roles. However, pheromones affect which soldier termites grow into reproductives or workers.
 ## **b. Termite's Size **
-![](/assets/img/content/how_big_are_termites_termite_size_comparison.png)
+
 Image Source:
 [Orkin](https://www.domyown.com/termite-identification-guide-a-476.html)
 ## **1. Reproductive (or the Termite ****Alates****) **

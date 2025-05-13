@@ -14,7 +14,7 @@ lastmod: 2025-05-07T12:21:25+03:00
 
 ---
 If you are a kid, a player with petite hands or a traveler wishing to play the guitar - the best short scale electric guitars more playable.
-![](/assets/img/img/)
+
 It has a shorter distance between nut and bridge (in the 22 inches - 24  inches).
 Frets are closer together like in the 1958s 
 [Capri series](https://reverb.com/p/rickenbacker-360-capri-1958-1960)

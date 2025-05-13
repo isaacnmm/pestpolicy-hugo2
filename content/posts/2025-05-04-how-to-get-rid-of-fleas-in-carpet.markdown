@@ -24,7 +24,7 @@ Weve carried out the research so that you dont have to, and well share with you 
 - **Steam clean the carpet**
 - **Treat your carpet using flea killers **
 [caption id="attachment_2200" align="aligncenter" width="640"]
-![](/assets/img/img/)
+
 Vacuuming Carpet[/caption]
 ## Disinfect the Items On the Carpet
 Gather all the cushions, pet bedding, and other fabrics that are lying on or near the carpet -

@@ -19,7 +19,7 @@ Metal structures and buildings are emerging trends in the construction industry.
 *Further, you must match the undercoat paint with the right primer to avoid peeling and chipping, which is common due to poor application method. For safety purposes, consider wearing the protective gears and adhere to precautions given in this article during paint application.*
 ### Details: How to Paint a Metal Building
 Besides, painting eliminates rust and boosts the buildings service life.
-![](/assets/img/04/How-to-Paint-a-Metal-Building-300x200.jpg)
+
 However, painting metal is not easy, especially when wrong paint selection and procedure is undertaken. The tools and material required include:
 - Polishing machine and Sander
 - A paintbrush and Blower

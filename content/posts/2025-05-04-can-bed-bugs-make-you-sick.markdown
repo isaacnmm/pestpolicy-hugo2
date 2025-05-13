@@ -15,7 +15,7 @@ lastmod: 2025-05-07T12:21:26+03:00
 
 ---
 Worried if bedbugs will make you sick? Well, bed bug bites are very painful.
-![](/assets/img/img/)
+
 You will have to wait a couple of minutes or even hours for it to subside.
 
 The irritation caused by bed bug bite makes you scratch the part you are bitten severally which may cause scab. So, can bed bugs make you sick?

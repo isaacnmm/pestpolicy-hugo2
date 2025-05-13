@@ -16,7 +16,7 @@ lastmod: 2025-05-07T12:21:27+03:00
 ---
 [Fruit flies](https://pestpolicy.com/)
 are tiny flying bugs that's attracted to rotting and over ripened fruits such as grapes, plums, strawberries, mangoes, and watermelon.
-![Fruit flies](/images/get-rid-of-fruit-flies-1388144_FINAL.png)
+
 Each female will lay 500 eggs in summer and they'll develop to adults within 8 - 10 days.
 Fruit flies come
 [thrive in warmer temperatures](https://pestpolicy.com/where-do-fruit-flies-come-from/)
@@ -42,7 +42,7 @@ inegar? Well, vinegar is
 [fully fermented organic matter](https://www.hsph.harvard.edu/nutritionsource/vinegar/)
 (with excellent scent). Fruit flies love broken-down natural ingredients and its acidity.
 [caption id="" align="aligncenter" width="960"]
-![Fruit flies](/images/get-rid-of-fruit-flies-1388144_FINAL.png):max_bytes(150000):strip_icc():format(webp)/get-rid-of-fruit-flies-1388144_FINAL-5bd1e65c46e0fb0051f7ed36.png)
+:max_bytes(150000):strip_icc():format(webp)/get-rid-of-fruit-flies-1388144_FINAL-5bd1e65c46e0fb0051f7ed36.png)
 Source:
 [the Spruce](https://www.thespruce.com/get-rid-of-fruit-flies-1388144)
 [/caption]

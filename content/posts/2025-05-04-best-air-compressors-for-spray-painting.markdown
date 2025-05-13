@@ -16,7 +16,7 @@ lastmod: 2025-05-07T12:21:23+03:00
 After you are done getting a good paint sprayer, you need to consider a good air compressor to spice up your painting. Getting the best air compressor for
 [spray painting](https://pestpolicy.com/best-automotive-paint-for-beginners/)
 is the trickiest part.
-![](/assets/img/12/Pest-Control.jpg)
+
 Depending on your project and the sprayer, getting a multi-purpose compressor will be the most appropriate.
 Basing on the horsepower and the minimum gallon compressor, for a small project the lowest you can get is a 30-gallon compressor. See Also:
 [Walk-Behind Grinder](https://pestpolicy.com/best-walk-behind-concrete-grinder/)

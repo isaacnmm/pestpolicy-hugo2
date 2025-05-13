@@ -14,7 +14,7 @@ lastmod: 2025-05-07T12:21:27+03:00
 
 ---
 Stairwell painting may not be easy, especially when the wrong procedure or paint selection is engaged. Low-quality paint or inappropriate painting procedure leads to peeling and scuffing with time. Could you be facing similar challenges?
-![](/assets/img/img/)
+
 *On how to paint a stairwell - select the tools and material required, clean the surface, strip old paint, sand the surface, and fill & repair damaged sections before final polishing. *
 *Besides, you must select the right primer and prepare it accordingly, apply the primer, select and prepare finish paint, apply to finish paint, and undertake quality coat finish. You will also need to cover unwanted sections (to prevent staining) and prioritize painting handrails before coating the stairwell.*
 ## Details: How to Paint a Stairwell

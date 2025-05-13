@@ -30,7 +30,7 @@ for a detailed analysis. But can wasps sting more than once?
 Contrary to the view that wasps are naturally destructive, they only use their venomous stinger for self-defense. Developing an understanding of their defense mechanism can help us devise preventive measures and ensure protection from any more unpleasant stings in the future.
 
 [caption id="attachment_2236" align="aligncenter" width="300"]
-![](/assets/img/img/)
+
 A Wasp Perching On a Flower[/caption]
 ## Why do Wasps Sting?
 The reason why you were struck with a wasps sting was probably that you unconsciously posed an imminent danger in some way. In other words, know that a wasp will attack you the moment it senses a fearful or threatening situation.

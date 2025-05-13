@@ -21,7 +21,7 @@ Bedding and mattresses also serve as prime flea habitats, offering both warmth f
 along with easy access to blood meals. Upholstered furniture similarly provides shelter and proximity to hosts, while clothing and shoes can transport fleas throughout the home. Even tiny cracks in flooring can harbor fleas between feedings.
 ## Where do Fleas Come From?
 Fleas require very specific environmental conditions to survive and reproduce successfully. They thrive in humid, shaded locations and cannot tolerate direct sunlight, which quickly dehydrates and kills them.
-![](/assets/img/03/Where-do-Fleas-Come-From-300x203.png)
+
 - Heavy rainfall can drown developing larvae, while extreme heat desiccates eggs and adults. These vulnerabilities explain why fleas seek protected microhabitats both indoors and outdoors.
 Outdoor flea habitats include lawns, gardens, and soil, particularly in moist, shaded areas under shrubs or debris. Fleas can live in grass and dirt, especially where leaf litter or organic matter accumulates to protect developing pupae.
 - Wildlife and stray animals contribute significantly to outdoor flea populations, with rodents like mice and rats serving as particularly effective carriers that can introduce fleas into homes.

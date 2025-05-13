@@ -14,7 +14,7 @@ lastmod: 2025-05-07T12:21:23+03:00
 
 ---
 Cleaning concrete floors utilized in driveways, warehouses and garages present unique challenges as compared to other surfaces because they are exposed to the worst elements.
-![](/assets/img/12/Pest-Control.jpg)
+
 Read on for a spot check on the best degreaser for concrete.
 Grease and
 [concrete paint](https://pestpolicy.com/what-kind-of-paint-can-be-used-on-concrete/)

@@ -24,7 +24,7 @@ Today's question came from Jake, one of our avid painting blog readers. The ques
 Acrylic paints tend to dry quite fast while also becoming water-resistant and sturdy once dried. Could he
 [acrylic coat](https://pestpolicy.com/best-acrylic-paint-for-pouring/)
 be challenging to remove from concrete?
-![](/assets/img/03/How-to-Remove-Acrylic-Paint-from-Concrete-300x225.jpg)
+
 ## Details: How to Remove Acrylic Paint from Concrete
 Compared to oil-based paints (like the
 [exterior paint to prevent mold](https://pestpolicy.com/best-exterior-paint-to-prevent-mold/)

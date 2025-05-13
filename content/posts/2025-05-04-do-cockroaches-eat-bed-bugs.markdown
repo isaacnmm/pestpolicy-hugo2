@@ -16,7 +16,7 @@ lastmod: 2025-05-07T12:21:26+03:00
 
 ---
 Below I've tackled this questions - "do cockroaches eat bed bugs?" Most people dread from the disgusting sight of domestic cockroaches.
-![](/assets/img/img/)
+
 Natural/biological pest control remedies like
 [Bed Bug Predators](https://pestpolicy.com/what-eats-bed-bugs/)
 have now become popular. So, do roaches eat bed bugs?

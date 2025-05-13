@@ -21,7 +21,7 @@ to help you determine which one is best for your project.
 ## Self-Etching Primer vs Regular Primer: Whats the Difference?
 ### What is Self-Etching Primer?
 Self-etching primer is a specialized type of primer designed specifically for metal surfaces, such as steel or aluminum. It contains acid-based chemicals that "etch" or roughen the metal surface, providing a better surface for the paint to adhere to.
-![](/assets/img/03/Self-Etching-Primer-vs-Regular-Primer-300x200.jpg)
+
 This type of primer is especially useful for bare metal that may not have a previously painted surface to bond with. Self-etching primers are commonly used in automotive painting and metalworking applications.
 ### What is Regular Primer?
 Regular primer, also known as standard or universal primer, is a more general-purpose primer that can be used on a variety of surfaces, including wood, drywall, and metal. It is typically oil-based or water-based and helps create a smooth, even surface for paint adhesion.

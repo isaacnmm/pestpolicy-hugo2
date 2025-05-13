@@ -15,7 +15,7 @@ lastmod: 2025-05-07T12:21:23+03:00
 
 ---
 Are you be looking for the best ear mite medicine for dogs? Definitely, Ill help with that!
-![](/assets/img/img/)
+
 Ear mites (also called Otodectes cynotis mites) is a parasitic infection that is characterized by waxy/black discharge with foul smell.
 Ear mites mainly affects dogs ears causing irritations and discomfort. Proper medication against these infections is essential for your dogs healthy life.
 Let's get started!
@@ -23,9 +23,9 @@ Let's get started!
 ### 1.[ZYMOX Otic Dog Ear Treatment - Top Editor's Pick](https://www.amazon.com/dp/B0025YOJXS/?tag=p-policy-20)
 ZYMOX, a USA made product thats quick acting  itll start working immediately on application. Luckily, the 1% Hydrocortisone in this medicine will remove all the all accumulated debris without irritating your Dog.
 
-![](/assets/img/e/ir)
 
-![](/assets/img/e/ir)
+
+
 ZYMOX will treat external ear inflammation cause by viral, yeast and bacterial infections on your dogs. The medicine is effective and safe to use ZYMOX on any age of your dogs.
 ZYMOX is non-antibiotic and will remove any antibiotic-resistant organisms in your dogs ears. Complete dose will require daily application for 7 to 14 days (long lasting).
 You will treat acute and
@@ -52,9 +52,9 @@ Cons:
 ### 2.[Curaseb - Dog Ear Mite Treatment - Close Second](https://www.amazon.com/dp/B01N4NZNSN/?tag=p-policy-20)
 Curaseb is one of the best dog medicines for ear mites. It is a veterinary recommended product that efficiently help treat your dog against waxy/black discharge and smelly ears.
 
-![](/assets/img/e/ir)
 
-![](/assets/img/e/ir)
+
+
 Its active ingredients (Ketoconazole .1% which is antifungal and anti-yeast) eliminates fungus, yeast and debris effectively. In addition, Curaseb contains Tris-EDTA component (Antibacterial) which treats and inhibits bacterial infections.
 Curaseb is easier and safe to use. You will only need place the nozzle gently and flush on the dogs infested ear.
 Curaseb is quick acting. It works immediately on contact. You can also use Curaseb to treat your cats against ear mites.
@@ -80,9 +80,9 @@ Cons:
 ### 3.[Dog Ear Cleaner Solution - Dog Ear Mite Treatment](https://www.amazon.com/dp/B074VDK9HY/?tag=p-policy-20)
 Dog Ear cleaner is an advance product that will help you treat your dog against ear mites, otitis externa, odor, itching, wax or yeast infection completely.
 
-![](/assets/img/e/ir)
 
-![](/assets/img/e/ir)
+
+
 With Dog Ear cleaner, you can inhibit any infections that is bacterial or fungal (the product is anti-bacterial/anti-microbial and anti-fungal)
 This product is alcohol free. Your dog wont be irritated or feel uncomfortable during and after application. The odor eliminator in Dog Ear cleaner leaves apple or kiwi scent behind.
 Dog Ear cleaner safely clean and flush ear canal off wax, dirt, & debris without clogging.
@@ -112,9 +112,9 @@ Cons:
 ### 4.[Doggie Dailies Dog Ear Cleaner](https://www.amazon.com/dp/B01MTMX5W1/?tag=p-policy-20)
 The Doggie Dailies is made in USA in FDA registers factory for your Dog ear mites treatment. It is manufactured using Witch Hazel, Aloe Vera, Tea Tree Oil and Echinacea  a combination that blend effectively.
 
-![](/assets/img/e/ir)
 
-![](/assets/img/e/ir)
+
+
 This product removes earwax, debris and dirt on your dog leaving a fresh feeling
 This product is quick acting  it instantly begin to treat your dog on contact.
 The Doggie Dailies does not irritate or cause discomfort on your dogs. It leaves a pleasant sensation that makes your dog feel relieve. It also control and removes ear smell (odorless).
@@ -140,9 +140,9 @@ Cons:
 ### 5.[Petpost Dog Ear Cleaner for Dogs](https://www.amazon.com/dp/B01A3KSGES/?tag=p-policy-20)
 Petpost is the best natural dog medicine meant for ear mites treatment. Its an extra-powerful natural coconut oil solution that is blend with palm extracts.
 
-![](/assets/img/e/ir)
 
-![](/assets/img/e/ir)
+
+
 The plant-based formula in Petpost will help treat your dogs ears against the following infections:
 - Ear mites, yeast infections or bacterial infections.
 - Smelly discharge and odor from your dogs ears.
@@ -169,9 +169,9 @@ Cons:
 ### 6.[Gerrard Larriett Dog Ear Cleaner](https://www.amazon.com/dp/B07R2M9NNX/?tag=p-policy-20)
 Gerrard Larriett is a rinse solution that will work wonders on your dogs health care. Its a veterinary recommended product that will help you eliminate odor and smelly discharge from your dogs ears.
 
-![](/assets/img/e/ir)
 
-![](/assets/img/e/ir)
+
+
 With Gerrard Larriett, you will experience 100% safety during applications and use. Your dog wont get irritated or feel uncomfortable during or after use. Instead, this product leaves a soft soothing ear relaxation with a natural smells.
 Gerrard Larriett does not contain alcohol, harmful chemicals, perfumes, glycerin or subsing agents and thus will not burn skin on contact.
 This product will help combat ear mites, fungal and bacterial infections efficiently  this is achieved by help of perfect blend of Aloe Vera, Boswellia and Tea Tree Oil in the solution.
@@ -194,9 +194,9 @@ Cons:
 ### **7. **[EcoEars - Natural Dog Ear Cleaner](https://www.amazon.com/dp/B008QYVL1Y/?tag=p-policy-20)
 EcoEars is a naturally made dogs ear mites medicine that works on contact while eliminating infections.
 
-![](/assets/img/e/ir)
 
-![](/assets/img/e/ir)
+
+
 The multi-symptoms product will help you treat some of the following infections on your dog:
 - Itching earlobes and Clogged ear canal and eardrum.
 - Smelly discharge and odor and Red swellings and inflammation.

@@ -53,7 +53,7 @@ Read Also:
 [Swing Sets for Small Yards](https://pestpolicy.com/best-swing-sets-for-small-yards/)
 ### [2. Best 12V Ride on Car Truck - Best Ride-On for Kids Aged 3-8](https://www.amazon.com/dp/B01LQSEAFA/?tag=p-policy-20)
 The 12V Ride On Car Truck is the best gift any parent can give their kids to help them be more adventurous.
-![](/assets/img/e/ir)
+
 This truck is perfect for children aged 3 to 8 years and can be operated by the steering wheel or the foot pedal accelerator.
 
 This car allows children to drive it without their parents close supervision. However, it features a remote control for those adults who want to join in the fun with their kids.
@@ -78,7 +78,7 @@ Read Also:
 [Best Power Wheels for 1-Year-Old](https://pestpolicy.com/best-power-wheels-for-1-year-old/)
 ### [3. Roleplay 6 Volt Chevy Tahoe Police SUV Ride On Toy](https://www.amazon.com/dp/B014TCALTO/?tag=p-policy-20)
 If you want a realistic car design that comes with authentic car features, then this is the best bet for you!
-![](/assets/img/e/ir)
+
 The Chevy Tahoe 6 allows your kids to have more fun, develop their imagination, and enhance their exploration techniques.
 
 The car has two functional doors to keep your kids tucked in securely. The car also features reverse and forward speeds functions at 2.5 mph for extra fun and the safety of your kid.
@@ -120,10 +120,10 @@ Read Also:
 [Outdoor Playsets for Toddlers](https://pestpolicy.com/best-outdoor-playsets-for-toddlers/)
 ### [5. Best Choice Products Kids 12V Lamborghini Aventador](http://amazon.com/dp/B07JFGJX18/?tag=p-policy-20)
 Get your kids this green, luxurious, and fun Electric Battery Powered car and watch as they enjoy an authentic drive experience.
-![](/assets/img/e/ir)
+
 This sleek Lamborghini Aventador allows your kids to hit speeds of 4 MPH in style; of course, safety is guaranteed.
 
-![](/assets/img/e/ir)
+
 This electrically powered ride-on permits the child to drive using a gas pedal or a controllable steering wheel. Further, the parent or guardian can take control of the car using the provided remote control.
 To bring that realistic feel during the kids driving, this car is fitted with real horn and engine sounds. In addition, the MP3 plugin for audio music ensures the child enjoys their favorite music as they drive.
 This branded and officially licensed car offers a fantastic way for the kid to have fun and a real driving experience. The vehicle features fundamental car attributes, making the children feel as if they are getting behind the entire wheel.

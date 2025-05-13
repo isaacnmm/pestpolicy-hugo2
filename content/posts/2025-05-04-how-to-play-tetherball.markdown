@@ -18,7 +18,7 @@ Tetherball is a classic playground game thats simple to learn, fun to play, and 
 From setting up the equipment to mastering advanced techniques, lets dive into the world of tetherball and get you swinging like a pro!
 ### What Is Tetherball?
 Tetherball is a two-player game where opponents face off on opposite sides of a pole, hitting a ball tethered to it by a rope. The objective? Wrap the rope completely around the pole in your designated direction while preventing your opponent from doing the same in theirs.
-![](/assets/img/03/How-to-Play-Tetherball-300x200.jpg)
+
 Its a test of agility, strategy, and hand-eye coordination, making it a timeless favorite for
 [kids and adults alike](https://pestpolicy.com/best-material-for-playground-surface/)
 . The beauty of tetherball lies in its simplicity.

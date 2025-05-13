@@ -31,7 +31,7 @@ First and foremost, fleas are transmitters of a wide spectrum of diseases to bot
 [fleas bite](https://pestpolicy.com/flea-bites-vs-bed-bug-bites/)
 , they also defecate simultaneously.
 - Flea fecal matter contains a bacterium known as Rickettsia typhi, which is then transmitted from flea feces to the bite wound. Symptoms can range from fever and headaches to nausea and generalized body aches.
-![](/assets/img/03/What-do-fleas-look-like-300x203.png)
+
 2.
 **Mycoplasma haemofelis**
 is another common disease affecting the cat population that can be transmitted via flea bites.

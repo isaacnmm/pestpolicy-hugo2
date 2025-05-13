@@ -17,7 +17,7 @@ lastmod: 2025-05-07T12:21:27+03:00
 If your deck is faded or bleached; then, refinishing is urgently required to restore its initial beauty.
 *On how to refinish a deck - select the material and tools required, pre-clean the surface, strip old paint, sand, wash, repair, and fill damaged sections before carrying out final polishing. *
 *Besides, you need to select and prepare deck stain, re-stain the deck, select and prepare the finish paint, and apply the finish paint (using a paintbrush or a roller). For quality deck finish, you may consider sealing the final paint coat with Thompsons sealer. *
-## ![](/assets/img/03/How-to-Refinish-a-Deck-300x225.jpg)
+## 
 ## How to Refinisha Deck
 *Remember; when painting, its advisable to wear protective gear and adhere to precautions highlighted in this article for your safety purpose. *
 *The m*

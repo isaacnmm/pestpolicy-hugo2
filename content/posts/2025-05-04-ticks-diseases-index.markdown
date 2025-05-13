@@ -21,7 +21,7 @@ Whether youre an outdoor enthusiast or just walking your dog, understanding tick
 ## Why Tick-Borne Diseases Matter
 Ticks arent just a summertime nuisancetheyre active year-round in many regions, especially where climates are mild. According to the CDC, tick-borne diseases have been on the rise, with over 50,000 cases of Lyme disease alone reported annually in the U.S. But Lyme is just the tip of the iceberg.
 From Rocky Mountain spotted fever to tick paralysis, these illnesses can cause serious health issues if not addressed quickly. Awareness is your first line of defense, so lets dive into the specifics of each disease.
-![](/assets/img/03/Ticks-Diseases-Index-300x200.jpg)
+
 ## 1. Lyme Disease: The Tick-Borne Titan
 Lyme disease tops the list as the most well-known tick-borne illness. Its caused by the bacterium
 *Borrelia burgdorferi*

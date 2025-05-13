@@ -15,7 +15,7 @@ lastmod: 2025-05-07T12:21:26+03:00
 ---
 ****
 Your high arches foot does not effectively absorb shock while you are walking or running. This phenomenon tends to put increased pressures on the heel and at your metatarsal area at the rear of the toes. Solution?
-![](/assets/img/img/)
+
 Get the best walking shoes for high arches! But what are High Arches? - Well, High Arches (also popular as Cavus Foot) occur when you place an unbalanced weight on your arch and foot.
 But.the foot arch is an important part of your foot since it assists in supporting your body weight while youre walking. Read Also:
 [Work Shoes for High Arches](https://pestpolicy.com/best-work-shoes-for-high-arches/)
@@ -24,7 +24,7 @@ But.the foot arch is an important part of your foot since it assists in supporti
 ### [1. Brooks Men's Addiction Walker - Brooks High Arch](https://www.amazon.com/dp/B0012HR2I8/?tag=p-policy-20)
 Brooks Addiction Walker is a leather (full-grain) walker suitable for your high arches. The leather tends to give in significantly easily at the toe region, which is great for high arches.
 
-![](/assets/img/e/ir)
+
 Its excellently designed to help you with overpronation since itll give you adequate support in your foot. Its designed for cushioning, support, and stability.
 To help with your high arches, Brooks has built additional cushioning in the forefoot and heel on the Brooks Addiction Walker. Personally, I noted that the shoe provided enough shock absorption for every step I walked.
 Further, the Hydroflow technology ensures that your shoe has enough shock absorption and cushioning, which is suitable for high arches and plantar fasciitis. The MOGO insole is durable and will effectively reduce shocks.
@@ -37,14 +37,14 @@ The shoes footbed has DNA cushioning and arch support thatll adapt to each of yo
 ### [2. New Balance MW928 Walker  - New balance Arch Support](https://www.amazon.com/dp/B01NB9K3XO/?tag=p-policy-20)
 New Balance MW928 Walker has its characteristic Rollbar midsole thatll stabilize your rear foot and hence control over-pronation.
 
-![](/assets/img/e/ir)
+
 Youll love that the shoe has a wide width and your big toes cap. It has an EVA midsole that is compression molded to offer enough arch support. Read Also:
 [Walking Shoes For Men With Flat Feet](https://pestpolicy.com/best-walking-shoes-for-men-with-flat-feet/)
 .
 Being a stylish looking and lightweight shoe, New Balance MW928 Walker has found favor among many men with high arches. In addition, it is comfortable and strong for walking and jogging.
 The ROLLBAR will increase foot comfort as it prevents inward rolling of your foot and reduces rear-foot movement. New Balance MW928 Walker has a full-ground contact sole from its Walking-Strike Path innovation to increase comfort while you are walking.
 ### [3. Saucony Mens Grid Omni](https://www.amazon.com/dp/B000I4SA0A/?tag=p-policy-20)
-![](/assets/img/e/ir)
+
 Saucony Mens Grid Omni offers awesome arch support and is a great walker for people who have Plantar Fasciitis.
 
 I noted that the walker provided me with amazing shock absorption and is resilient too. The footwear is biomedically created to help with high arches.

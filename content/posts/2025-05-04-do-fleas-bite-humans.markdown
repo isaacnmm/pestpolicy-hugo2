@@ -44,7 +44,7 @@ humans?"
 ,
 [fleas will bite humans](https://pestpolicy.com/can-fleas-live-in-human-hair/)
 on their lower legs, calves, ankles, feet, and (though rarely) the head, groin, and chest area.
-![](/assets/img/img/)
+
 Therefore, rarely will the bites happen above the human knee unless you're lying or sitting on the groundRelated:
 [How to Get Rid of Fleas](https://pestpolicy.com/how-to-get-rid-of-fleas/)
 .

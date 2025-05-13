@@ -17,7 +17,7 @@ Perhaps you have come across a ceiling with roller marks and wonder how to elimi
 [beautify your room](https://www.forbes.com/sites/houzz/2014/10/21/10-tips-to-make-a-small-bedroom-look-great/)
 .
 *On how to paint the ceiling without roller marks - to achieve that beautiful room look - undertake great surface preparation/ cleaning, painting tools selection, paint selection/preparation, actual painting, and paint finish techniques. *
-![](/assets/img/img/)
+
 *Moreover, the individual procedures for painting the ceiling must be adhered to as per the given instructions without overlooking precautions and safety measures associated with paint application. *
 > See Also:
 > [Bathroom Ceiling Paint to Prevent Mold](https://pestpolicy.com/best-paint-for-bathroom-ceiling-to-prevent-mold/)

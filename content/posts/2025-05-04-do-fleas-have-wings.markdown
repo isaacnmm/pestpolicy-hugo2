@@ -20,7 +20,7 @@ Wondering if
 have wings, can they fly like
 [gnats?](https://pestpolicy.com/how-to-get-rid-of-gnats/)
 or do these clitters jump like frogs?
-![](/assets/img/img/)
+
 Fleas are tiny insects of the Siphonaptera order that'll feed off human or animal blood.
 Fleas move quickly and it may seem like they fly. Most of their over 2,000 types, like human fleas or cat fleas have strong legs, flat bodies and a length of ~ 0.1 inches.
 **Well, the short answer is, No, fleas don't have wings. The suffix "**

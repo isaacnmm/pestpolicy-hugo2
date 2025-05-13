@@ -25,7 +25,7 @@ ome with calving and lower back heat therapy, yoga program, and body scan.  Als
 With a sturdy steel framework, the Kahuna  LM6800 will be both safe and durable for you or your loved one using the chair including with
 [sectional sofa for family](https://pestpolicy.com/best-sectional-sofa-for-family/)
 .
-![](/assets/img/03/Best-Zero-Gravity-Massage-Chairs-300x172.jpg)
+
 Interestingly, the chair will also massage your hips and buttons, an option that is not available in other zero-gravity chairs in the same category.
 Heat Treatment - The chair will provide heat treatment for calves and lower back.
 - But how does this help? The heat will help dilate your blood vessels, particularly in the back muscles, which enhance the movement of oxygen and nutrients and thus fasten healing.

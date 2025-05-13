@@ -17,10 +17,10 @@ Let your children have fun and enjoy your cool backyard with the Lifetime Monkey
 The swing set is favorable or kids between ages 3 to 12. Read Also:
 [Compression Socks For Standing All Day](https://pestpolicy.com/best-compression-socks-for-standing-all-day/)
 .
-![](/assets/img/img/)
+
 ## Lifetime Monkey Bar - 9 Foot Wavy Slide
 
-![](/assets/img/e/ir)
+
 The metal swing set will be safer as compared to the wooden options, as the kids will not get cuts from wood chips. Read Also:
 [Stain For Cedar Swing Set](https://pestpolicy.com/best-stain-for-cedar-swing-set/)
 .

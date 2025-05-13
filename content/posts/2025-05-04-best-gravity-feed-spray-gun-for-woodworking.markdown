@@ -33,7 +33,7 @@ agner-Spraytech 0518080 will effectively
 atomize your materials t
 o become
 fine particles to create that smooth finish on your furniture, decks, and door trims.
-![](/assets/img/03/Best-Gravity-Feed-Spray-Gun-for-Woodworking-300x200.jpg)
+
 The
 long-lasting and durable
 nozzle is versatile - with a

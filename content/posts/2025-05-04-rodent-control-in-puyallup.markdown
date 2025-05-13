@@ -28,7 +28,7 @@ In Puyallup, the most common rodents that homeowners encounter are:
 Understanding which type of rodent is present can help in choosing the
 [most effective control methods](https://pestpolicy.com/best-rat-poison/)
 .
-![](/assets/img/03/Rodent-Control-in-Puyallup-300x181.jpg)
+
 ## Signs of a Rodent Infestation
 Detecting a rodent infestation early is key to preventing extensive damage and health risks. Look for the following signs:
 - **Droppings**: Rodent droppings are a clear indicator of an infestation. Look for them in cupboards, along baseboards, and near food sources.

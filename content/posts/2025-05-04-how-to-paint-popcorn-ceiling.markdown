@@ -16,7 +16,7 @@ lastmod: 2025-05-07T12:21:27+03:00
 ---
 Before proceeding to paint the popcorn ceiling, lets first understand what is popcorn ceiling?
 Popcorn also referred to as stucco ceiling is a ceiling that has been designed with acoustic texture made from mixed Styrofoam balls.
-![](/assets/img/12/Pest-Control.jpg)
+
 Popcorn used in the pre-1970s contained some elements of asbestos and therefore its important to first check for asbestos in your ceiling before you can proceed to paint.
 Asbestos is considered to be carcinogenic and no longer advisable for use on ceilings. If present, you may consider getting rid of the ceiling due to its health risk.
 ## Details: How to Paint Popcorn Ceiling (Step-by-Step)

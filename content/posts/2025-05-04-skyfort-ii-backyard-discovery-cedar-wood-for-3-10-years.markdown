@@ -26,7 +26,7 @@ Hence, you might need to create a stand or short kids to reach the monkey bars.Â
 You might require about 2-4 days to install the project. Read Also:
 [Swing Sets for Small Yards](https://pestpolicy.com/best-swing-sets-for-small-yards/)
 .
-![](/assets/img/img/)
+
 ### **Picnic area **
 Also, your kids will love the picnic area where they can have chit chats or take snacks. Also, you can put sand in the sandbox provided or additional fun. Read Also:
 [Outdoor Playsets for Toddlers](https://pestpolicy.com/best-outdoor-playsets-for-toddlers/)
@@ -71,6 +71,6 @@ Further, the swing beam is laminated and has brackets that are designed from ste
 3. Question 3: Can the set accommodate my height?
 - Response: Well, the set will allow about 7 feet in height.
 4. Question 4: Is it weather resistant?
-- Response: Yes, it will withstand the snow, rain, and the sun.![](/assets/img/e/ir)
+- Response: Yes, it will withstand the snow, rain, and the sun.
 ## Conclusion
 The Skyfort II will serve you right if you have more than one kid that require to play on the set simultaneously.Â The swing set is strong, durable, and safe for all the play and swinging needs in your backyard.

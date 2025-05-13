@@ -23,7 +23,7 @@ Graco 17D889 is an exceptional handheld sprayer loved by many DIY homeowners. Fu
 
 T
 he sprayer's control system has variable speed allows one to get to their required settings to match either of your heavy-duty or small detailed project.
-![](/assets/img/04/Best-Paint-Sprayer-for-Furniture-300x200.jpg)
+
 Graco 17D889's Reverse-A-clean tip allows very easy cleaning of the sprayer such as twisting the tip plugs to clean effectively. Its suitable furniture spraying like decks, fences, and interior projects.
 For safety, the sprayer has a storage case that's durable and thus all the accessories and tips will be safe. It's also versatile enough plus the compressed air to give excellent and professional finishes.
 This Graco 17D889 has a sensitive trigger that'll allow you to change the device's spraying speed varying with the pressure applied on the trigger. This gives an excellent spray pattern for a neat finish.

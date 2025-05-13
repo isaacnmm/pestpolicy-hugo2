@@ -23,7 +23,7 @@ So, Ill go ahead. The label instruction recommends that I pour about a fifth of 
 I'd tried to use boiling water, plungers,
 [vinegar, and baking soda, but they didn't remove the drain clog](https://pestpolicy.com/dont-use-vinegar-and-baking-soda-to-clean-clogged-drains/)
 .
-![](/assets/img/03/Drano-Max-Gel-Clog-Remover-Review-300x200.jpg)
+
 ### What's this, Drano Max Gel?
 This Drano Max Gel is a powerful enzymatic
 [drain cleaner](https://pestpolicy.com/thrift-drain-cleaner-review/)

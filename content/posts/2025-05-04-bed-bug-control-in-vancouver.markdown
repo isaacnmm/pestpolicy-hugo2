@@ -19,7 +19,7 @@ Bed bugs are small, elusive insects that feed on the blood of humans and animals
 Bed bugs are known for their ability to
 [hide in tiny crevices](https://pestpolicy.com/can-you-see-bed-bugs/)
 and their resilience, making them difficult to eradicate without proper intervention. Their bites can cause itching, redness, and discomfort, and their presence can lead to significant stress and anxiety.
-![](/assets/img/03/Bed-Bug-Control-in-Vancouver-300x200.jpg)
+
 ## Identifying Bed Bug Infestations
 Early detection of bed bugs is
 [crucial for effective control](https://www.epa.gov/bedbugs/do-it-yourself-bed-bug-control)

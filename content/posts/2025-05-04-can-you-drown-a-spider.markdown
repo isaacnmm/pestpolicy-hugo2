@@ -15,7 +15,7 @@ lastmod: 2025-05-07T12:21:26+03:00
 
 ---
 Probably there are thousand ways you can kill you can kill a spider in your yard or house.
-![](/assets/img/12/Pest-Control.jpg)
+
 But definitely, most of us know crushing it with a blunt object - the Hulk smash" technique. But,
 **can you drown a spider? **
 **The simple answer is, No, you cannot drown a spider - as stated by Real Science - but they'll die if submerged in sewer. Spiders have a very low oxygen intake due to their low metabolic rate and thus drowning may take 1-3 hours. **
@@ -24,7 +24,7 @@ But definitely, most of us know crushing it with a blunt object - the Hulk smash
 Just like human beings, spiders also drink water and this is why you might find them around water sources such as shower or bath stalls. Also, can the spider drawn in the ocean if its swept by any random sunbather.
 Spiders spending time around the shower or bath stalls may end up being flashed down the drain when you're bathing. So, if you're wondering if spiders can actually drown when you flash them them down the drain - relax we get into the details. Can they crawl or climb back fighting for its life.
 [caption id="" align="aligncenter" width="474"]
-![](/assets/img/_new/090422_Discovery_spider.grid-6x2.jpg)
+
 Images Source:
 [Nbcnews](http://www.nbcnews.com/id/30348224/ns/technology_and_science-science/t/drowned-spiders-come-back-dead/)
 [/caption]

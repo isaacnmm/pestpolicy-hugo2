@@ -28,7 +28,7 @@ Baby roaches start after the eggs hatching stage. When they emerge from the
 - Baby German Roaches - dark-brown colored
 - Baby American Roaches - red-brown colored
 Further, the bugs will develop faster when they get enough food in twelve hours after molting. The different nymphs stages will have varied body lengths over the months up to 1 year. However, partly the baby roaches will look the adults-only that they've molted over several stages.
-![](/assets/img/03/What-Do-Baby-Roaches-Look-Like-300x200.jpg)
+
 Baby roaches 6 have spiny and long legs that'll help them fast over the house floors and carpets. Besides, for walls and ceilings - they'll be helped to move by their tiny pads that are conveniently positioned on the tarsi.
 On the other hand, the nymphs of German roaches will be dark-colored, while the Brown-banded cockroaches will have an abdomen with a single yellow band. In comparison, the nymphs of German cockroaches will have a larger body compared to Oriental roach nymphs.
 ### 2. Size - Baby Roaches in Bathroom or Kitchen

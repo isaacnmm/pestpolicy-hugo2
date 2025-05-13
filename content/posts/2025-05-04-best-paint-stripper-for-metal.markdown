@@ -18,7 +18,7 @@ So, whats the best paint stripper for metal? It's challenging to choose a remove
 or metal (such as
 [spray paint for metal](https://pestpolicy.com/best-spray-paint-for-metal/)
 ), including copper, steel, and aluminium.
-![](/assets/img/12/Pest-Control.jpg)
+
 I conducted some quick research on the paint strippers so that you won't have to mess your hands - also, you may check
 [how to remove spray paint smell](https://pestpolicy.com/how-to-get-rid-of-spray-paint-smell/)
 .

@@ -18,7 +18,7 @@ If you're setting to paint your tales, fences, and outdoor furniture, use the be
 for fence stain to refresh the property and home surfaces. With the paint sprayer, you don't have to use a paint
 [roller and brush](https://pestpolicy.com/how-to-paint-a-fence-with-a-roller/)
 .
-![](/assets/img/12/Pest-Control.jpg)
+
 Paint sprayers will give an excellent finish - and even at a faster rate. It leaves puddles and blotches of stain, but you can even them out using a paintbrush. Further, with an airless sprayer, you may overspray your target.
 In this article, I'll show you how to refinish your fence using a paint sprayer. I installed my fence last year (relatively new), but it still requires a protective coat. But you'll need to clean the fence to remove stains and watermarks.
 See Also:

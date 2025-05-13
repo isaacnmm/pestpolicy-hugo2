@@ -20,7 +20,7 @@ So, its no brainer that one reader asked: Can cats get fleas in the winter regar
 - But, cats have lower chances of getting fleas during winter since fleas remain dormant in this season. However, the warm environment in the house (due to central heating) allows
 [fleas to stay](https://pestpolicy.com/do-fleas-stay-on-humans/)
 active even during the cold season and thus attack cats.
-![](/assets/img/03/Can-Cats-Get-Fleas-in-the-Winter-300x200.jpg)
+
 ## Warm-blooded hosts (Cats) in Winter
 [Silverman](http://www4.ncsu.edu/~jsilver/Silverman%20et%20al%202581.pdf)
 states that snow (freezing temperatures - over a long time) will kill all fleas' life stages. But adult

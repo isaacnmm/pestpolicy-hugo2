@@ -18,7 +18,7 @@ lastmod: 2025-05-07T12:21:26+03:00
 are small animals classified under the squirrel family. They may visit your farm or home in search of food or a place to live.
 **Chipmunks mostly appear during the day. It is not easier to spot these animals while moving. They run very fast and camouflage well with environment. **
 **So, do Chipmunks live underground? The direct answer is YES! Chipmunks dig burrows underground with their paws and create underground rooms for breeding, storage of gathered food and sleeping. **
-![](/assets/img/img/)
+
 ## Details: Do Chipmunks Live Underground?
 At times, chipmunks may live in channels, chambers, bushes, dig burrows on wood/rocks or even make their own nest. Chipmunks wont live in marshy area. Some will climb trees in search of food.
 

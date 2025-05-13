@@ -18,7 +18,7 @@ So, are soundbars worth it? Well, soundbars are touted as an easy method to upgr
 - *So, are soundbars worth it? In short, YES, soundbars are worth it. Soundbars have an easy installation process, are stylish, (fewer wires, cords, buttons, & speakers), plus they're affordable. *
 - *Also, soundbars have better sound quality than built-in TV speakers and are compatible with the latest sound technologies including smart-home devices. *
 *A soundbar will have 2+ speakers (surround or stereo) in its long cabinet - some soundbars may have a wireless speakers - check these check soundbars. *
-![](/assets/img/03/Are-Soundbars-Worth-It-300x200.jpg)
+
 ## Are Soundbars Worth It? - 7 Key Tips
 Quality soundbars are excellent to get high-quality audio from your TV. Despite that most soundbars won't sound better than separate speakers (for music), they're superior to built-in TV speakers.
 ### 1. Soundbars is Easy to Setup/ Install and Use

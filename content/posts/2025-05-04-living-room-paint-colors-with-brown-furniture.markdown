@@ -24,7 +24,7 @@ Below are different paints that you can consider to make the room more accommoda
 ### 1. Denver Home Remodel
 This involves a combination of brown and gray. The different application of the textured colors bring out a very impressive look.
 This combination impressively blends the colors to match the brown furniture.
-![](/assets/img/03/Living-Room-Paint-Colors-with-Brown-Furniture-300x225.jpg)
+
 ### 2. A Brown Floor
 Not every time you have to get rid of the already existing brown color, sometimes you can decide to make it better.
 To achieve this, you can complement the brown floor with a purple or grey wall. This will override and make the floor look great.

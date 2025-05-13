@@ -21,7 +21,7 @@ Sugar ants (
 or
 *Camponotus consobrinus*
 ) are one of the most popular types of ant species.
-![](/assets/img/img/)
+
 Sugar ants will mainly be seen in most homes hauling grains of sugar and food particles.
 [Bites](https://pestpolicy.com/do-sugar-ants-bite/)
 
@@ -32,7 +32,7 @@ Sugar ants will mainly be seen in most homes hauling grains of sugar and food pa
 ## What Do Sugar Ants Look Like?
 *The soldiers, also known as major workers, and the minor workers usually measure approximately 5 to 15 mm in length while their queens can be up to twice the size of the worker ants. *
 [caption id="" align="aligncenter" width="908"]
-![](/assets/img/04/how-sugar-ants-look-like.jpg)
+
 Source:
 [Fantasticservicesgroup](https://fantasticservicesgroup.com.au/blog/banded-sugar-ants/)
 [/caption]

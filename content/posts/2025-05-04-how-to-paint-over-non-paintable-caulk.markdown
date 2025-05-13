@@ -15,7 +15,7 @@ lastmod: 2025-05-07T12:21:27+03:00
 ---
 If you have a caulk-sealed section at your home or office and you intend to paint; then, you will notice that not all caulk material is paintable. Some caulk sealants like silicone caulk have low paint adhesive contact and hence peels easily upon application.
 *On how to paint over non-paintable caulk  select the material and tools required, choose appropriate caulk for your surface, clean caulk sealed area, and prime the surface (where necessary) before the actual painting. *
-![](/assets/img/img/)
+
 *Besides, you may need to replace non-paintable silicone caulk from joints (not easy) with paintable caulk to improve paint stickiness action or consider using shellac spray and paint over non-paintable caulk surface. *
 *Upon paint application, leave the first coat to dry (as per manufacturers instructions) before applying a second coat, if necessary. *
 *Importantly, adhere to precautions and safety measures highlighted in this article when painting, for safety purposes. Remember, wearing safety gear is paramount. *

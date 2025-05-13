@@ -15,7 +15,7 @@ lastmod: 2025-05-07T12:21:27+03:00
 ---
 Most homeowners hate it when paint lands on the metallic surfaces or subtle metal elements. But removing latex paint could be challenging if you're trying to scrape it off the metal surfaces.
 In this post, I've outlined how to remove latex paint from metal (step-by-step). You won't damage the metal, an excellent finish with these methods, ready for repaint or polishing.
-![](/assets/img/img/)
+
 I recommend using the Klean-Strip Stripper on the commercial paint removers as it'll remove most of the toughest paints - including multiple layers of oil-based and latex paints. It is suitable for remove shellac, epoxy, varnish, and polyurethane.
 On a side note,
 [vinegar](https://pestpolicy.com/does-vinegar-remove-paint/)

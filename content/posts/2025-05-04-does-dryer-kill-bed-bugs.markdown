@@ -89,7 +89,7 @@ Your clothes from the dryer will be free from germs as there are no bacteria tha
 The answer is simple: YES. Hairdryer generates heat, which can be directed to
 [kill bed bugs - you can also use](https://pestpolicy.com/does-ammonia-kill-bed-bugs/)
 ammonia.
-![](/assets/img/img/)
+
 You will only need to concentrate the heat from the hairdryer at a point
 [infested with bed bugs](https://pestpolicy.com/how-to-get-rid-of-bed-bugs-fast/)
 for a longer time - this may be tedious.

@@ -14,7 +14,7 @@ lastmod: 2025-05-07T12:21:28+03:00
 
 ---
 Removing grass on your yard, lawn or garden can be fairly tiring, costly and time consuming tasks. Hand tools will make your work backbreaking and arent as accurate as powered tillers  this will improve your gardening productivity.
-![](/assets/img/img/)
+
 Besides a perfect tilling process will loosen the soil and give your plants, crops, fruits, and vegetables an opportunity to grow abundantly. So, below Ive detailed how to use a tiller to remove grass - the process if simple, that is if you have a good tiller.
 **In summary, how to use a tiller to remove grass; clean the grassed area, water the soil  if land is hard and dry, cut any long grasses or weeds, set the tiller on the grassed area, rotate the tiller tines, and finally till repeatedly until satisfied. **
 ## Details: How to Use a Tiller to Remove Grass

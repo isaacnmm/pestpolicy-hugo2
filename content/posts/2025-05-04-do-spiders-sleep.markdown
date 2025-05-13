@@ -17,7 +17,7 @@ lastmod: 2025-05-07T12:21:26+03:00
 Some spider like
 [Redback spider](https://en.wikipedia.org/wiki/Redback_spider)
 go into non-action up-to 6 months without a meal (by reducing energy use). But the spider will spring into action when a prey appears.
-![](/assets/img/12/Pest-Control.jpg)
+
 **But do spiders sleep? Spiders don't sleep like humans but have circadian rhythms - rest & activity cycles. Spiders lack eyelids and don't close their eyes like humans. **
 **During the resting phase, spiders conserve energy during the day and cold areas by lowering the metabolic rate and cutting their activity - how spiders hibernate during winter. But spiders are more highly active at night so as to avoid predators such as birds at day time. **
 ## **How Do Spiders Sleep?**

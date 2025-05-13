@@ -26,7 +26,7 @@ ou can also use it on a vertical surface - since it won't trickle down like a li
 Iron OUT will readily remove heavy-duty and tough rust/ iron stains, and you won't require to do any
 scrubbing.
 You can also use it in your water softener machine, and thus it'll be more durable. Therefore, Iron OUT is suitable for regions that have water with high iron and hard water.
-![](/assets/img/03/Best-Concrete-Rust-Remover-300x200.jpg)
+
 Iron OUT will also remove rust from surfaces such as showerheads, which would otherwise be easy to treat suspension or liquid rust remover suspension.
 Further, the formula is recommended for surfaces and areas like
 [concrete driveway](https://pestpolicy.com/best-paint-for-a-concrete-driveway/)

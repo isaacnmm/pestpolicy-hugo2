@@ -19,7 +19,7 @@ The Absorbine UltraShield EX contains 1.00% piperonyl butoxide, 0.10% pyrethrins
 .
 Initial pros to note about this fly control product for your horse is that its sweat-resistant and weatherproof  thus will work great both for outdoors and indoors horse fly control.
 [amazon bestseller="Absorbine UltraShield EX Insecticide" items="2" template="table"]
-![](/assets/img/uploads/default-image.jpg)
+
 Absorbine was developed by Mary Ida Young, a horse enthusiast and an herbalist and gardener, who aimed to use more humane and less painful treatment methods on her horses. Therefore, Mary developed Absorbine in 1892, suing various herbal and natural ingredients, which has over the years to be a trusted brand for horse fly control.
 ## **Sweat-resistant and weatherproof **
 Absorbine Ultrashield EX is among the top horse fly repellent you can find in the market today. As noted above, this

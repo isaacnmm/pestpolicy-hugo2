@@ -22,7 +22,7 @@ Most people use enamel paint wrongly over unappropriated surfaces and end up att
 Enamel paint can be used to coat new surfaces, which have never been painted previously. These include:
 #### **a. Outdoor Furniture**
 Outdoor furniture such as bench, chairs, swings, round tables, etc. can be coated with enamel paint to protect them from extreme weather conditions like solar radiation, high humidity, UV-rays, dust, and moisture, which may affect the material strength and original aesthetic beauty.
-![](/assets/img/03/What-is-Enamel-Paint-Used-for-300x199.jpg)
+
 Whether metal, wood, or composited, enamel sticks on the furnitures surface sufficiently without forming drains/runs, provided proper paint preparation is followed.
 In metallic furniture, enamel paint also prevent rusting, while it reduces material aging when used on wooden furniture.
 #### **b. Cabinets and Wardrobe**

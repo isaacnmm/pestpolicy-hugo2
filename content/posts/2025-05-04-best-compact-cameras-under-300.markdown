@@ -14,7 +14,7 @@ lastmod: 2025-05-07T12:21:23+03:00
 
 ---
 In this post, Ive reviewed the best compact cameras under 300. Granted, its the end of summer and you need to take great shots of your kids.
-![](/assets/img/img/)
+
 Maybe 7 years from now the kids will wonder; where are my photos? Make sure you wont have to say that they were on my smartphone, I put them on Facebook.but they still dont look so good.
 Unique features in a
 [modern compact camera](http://camera-wiki.org/wiki/Compact_camera)
@@ -45,7 +45,7 @@ This Fujifilm FinePix XP130 is a compact (and waterproof) point-and-shoot camera
 It comes compact and nice with packaging having a picture taken by the Fujifilm FinePix XP130. It has a micro USB cord, USB cord, and a rechargeable battery.
 Youll get an enhanced wireless connection thatll allow the camera to link the Fujifilm cameras remote app. Thus, with the app, its easy to connect to your camera via Bluetooth Low Energy technology  where you can remotely use the camera using the app.
 It has a 16. 4 megapixel BSI CMOS sensor (with 5 times optical zoom) and a 3-inches display. Interestingly, this camera is also waterproof, freezeproof (10 degrees Centigrade or 14 degrees Fahrenheit) and with an easy to use internal software.
-![](/assets/img/e/ir)
+
 Enough with the smartphone photos that look great when theyre itty-bitty, but when you have to blow them up and their quality is so diminished you wouldnt want to hang them on your wall. Related:
 [Best Camera for Music Videos](https://pestpolicy.com/best-camera-for-music-videos/)
 .

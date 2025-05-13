@@ -18,7 +18,7 @@ In this post, I've reviewed the best earplugs for concerts. It's no secret that 
 will degrade music/ sound quality in
 [concerts](https://en.wikipedia.org/wiki/Concert)
 .
-![](/assets/img/12/Pest-Control.jpg)
+
 But high-fidelity earplugs will block excessive noise while allowing music with fit tonal quality to get to your ear.
 Summary: I recommend either the
 [Earasers Hi-Fi](https://www.amazon.com/dp/B00E2D9HAA/?tag=p-policy-20)
@@ -54,7 +54,7 @@ Its acoustic filter uniformly reduces the noise levels over the sound spectrum (
 https://www.youtube.com/watch?v=0SosPzDq9kE
 Related:
 [7 Best Headphones for Music Production](https://pestpolicy.com/best-headphones-for-music-production/)
-![](/assets/img/e/ir)
+
 ### [3. Earplugs Noise Reduction Filtered Hearing Protection For Concerts](https://www.amazon.com/dp/B013H8FUVA/?tag=p-policy-20)
 Next up is the EAR Defense High Fidelity Earplugs that comes with a solid aluminum design great for traveling musicians. I love its compact and light design that makes it easy to carry wherever you go.
 

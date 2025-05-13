@@ -16,7 +16,7 @@ lastmod: 2025-05-07T12:21:25+03:00
 If youre a runner and usually experience
 [tendon inflammation on top of your foot](https://www.physio.co.uk/what-we-treat/musculoskeletal/conditions/foot/extensor-tendinopathy.php)
 , you need to invest in Best Running Shoes for Extensor Tendonitis.
-![](/assets/img/img/)
+
 Extensor Tendonitis is associated with
 [Pain On top Of Foot](https://pestpolicy.com/best-shoes-for-pain-on-top-of-foot/)
 . Factors that cause Extensor Tendonitis include; Wearing tight shoes,

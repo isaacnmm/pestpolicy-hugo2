@@ -16,13 +16,13 @@ lastmod: 2025-05-07T12:21:28+03:00
 Orbiter Swing-N-Slide is a more massive playset compared to other regular options. However, the playset offers superior quality
 [play options](https://www.csub.edu/~lwildman/21st_Schools/documents/Sch14.htm)
 at a reasonable price.
-![](/assets/img/img/)
+
 The swing set will have an extensive 5-year warranty for the posts covered with WoodGuard, hardware, and swings. Read Also:
 [Outdoor Playsets for Toddlers](https://pestpolicy.com/best-outdoor-playsets-for-toddlers/)
 .
 ## Orbiter Swing-N-Slide Swing Set
 
-### ![](/assets/img/e/ir)*Wood Construction *
+### *Wood Construction *
 The swing set has wood construction that is superior or swig set compared to the metal construction. Further, some parts are made from strong plastic such as swings and slide.
 It is considered to be a more straightforward option in its class. The budget favorable swing set is designed to be low maintenance due to its uniquely created Woodguard posts. Read Also:
 [Best Stain For Cedar Swing Set](https://pestpolicy.com/best-stain-for-cedar-swing-set/)

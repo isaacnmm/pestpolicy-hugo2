@@ -23,7 +23,7 @@ These brown recluses will seek shelter in hidden areas - comparable to the venom
 ### Step 1: Conduct Inspection for Brown Recluse Spiders
 The fiddle-back spider or Brown recluse have markings but will also have many shades such as light or dark brown - you can get them in Kentucky, western Georgia, and central Texas.
 These nocturnal hunters will prey on mosquitoes, and flies among other insects. But they won't harm humans - but act in self-defense and they'll use their bites.
-![](/assets/img/03/How-to-Get-Rid-of-Brown-Recluse-Spiders-300x234.jpg)
+
 You may confuse the Brown recluse with wolf spiders but these ones have eight eyes and larger in body size. The recluse has fine hairs and six eyes but smaller in size.
 - Despite that bites from brown recluse are rare, they are itchy and become reddish - and may become[an open sore](https://www.mayoclinic.org/diseases-conditions/spider-bites/symptoms-causes/syc-20352371)taking even a weak to heal.
 On the body shape, these spiders are violin shape (and dark brown) on their cephalothorax - the section where the bug's legs are attached.

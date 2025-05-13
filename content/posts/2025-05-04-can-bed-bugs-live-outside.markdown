@@ -22,7 +22,7 @@ This is because if they can, many people become concerned that they could reente
 ## Can Bed Bugs Live Outside? Where & How Long?
 Bed bugs like to hide out in small dark spaces, and there are many opportunities for them to do so in the indoor environment, with tiny crevices and cracks in furnishings being ideal locations for these creatures.
 Their name might suggest that they prefer to inhabit a bed, but this is misleading since they will happily set up home in any item within a house.
-![](/assets/img/03/Can-Bed-Bugs-Live-Outside-300x200.jpg)
+
 When looking for a place to stay, one of the main priorities is food, and bed bugs will live wherever food can be most easily accessed. In answer to the question of can bed bugs live outside, they can, but they prefer not to.
 Bed bugs have become used to living in the indoor environment, and as we mentioned, they live where there is food. These minute pests feed off a host, in this case, a human, and so they will find homes where their host can be easily accessed.
 https://www.youtube.com/watch?v=Y1QXtI2IhB4

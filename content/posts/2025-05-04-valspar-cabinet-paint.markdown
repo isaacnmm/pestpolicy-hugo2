@@ -16,7 +16,7 @@ lastmod: 2025-05-07T12:21:28+03:00
 First, does Valspar
 [cabinet revamping paint](https://pestpolicy.com/how-to-paint-kitchen-cabinets-without-sanding/)
 need a primer? Well, No! Valspar won't need a primer - it is simple to clear any blemishes with comfortable touch up in your kitchen and bathroom cabinets.
-![](/assets/img/12/Pest-Control.jpg)
+
 On effectiveness, Valspar Cabinet is suitable for furniture cabinets and will be comfortable to touch up if there are chips, blemishes, or scuffs -
 [only sand](https://pestpolicy.com/best-belt-sander-for-deck/)
 and apply the paint.

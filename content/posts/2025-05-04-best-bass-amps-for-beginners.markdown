@@ -26,7 +26,7 @@ Though the price may be an essential aspect, let it be the last thing you check 
 The Orange Terror is a powerful bass amp that features a flexible hybrid circuitry, which claims to deliver top-quality sound performance without failure.
 T
 he bass amp is fitted with a classic effects loop, and the FX loop sends that control sound interference effectively during live performance.
-![](/assets/img/03/Best-Bass-Amps-for-Beginners-300x213.jpg)
+
 Orange Terror is integrated with flexible 3-band equalizers and a comprehensive range master volume that guarantees you excellent sound control while carrying out indoor gigs.
 Moreover, this bass amp is built in a sturdy insulated casing that nicely seats on robust anti-vibratory base support, which prevents slipping during the performance due to sound waves.
 Orange Terror utilizes robust state/ hybrid technology that nicely clear internal hums and sound interference without sacrificing base resonance. This device comes with a balanced XLR output, which pairs excellently

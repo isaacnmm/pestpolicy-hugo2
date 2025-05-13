@@ -16,7 +16,7 @@ lastmod: 2025-05-07T12:21:28+03:00
 You can use either a sanding block or some
 [sandpaper](https://pestpolicy.com/what-grit-sandpaper-for-primer-before-paint/)
 will help smoothen those uneven surfaces (particularly those with high-gloss and gloss paint), followed by simple wiping and drying.
-![](/assets/img/12/Pest-Control.jpg)
+
 So, below I'll discuss the sanding techniques and tips (step by step) that you can follow to effectively smooth those drywall surfaces. You can also use
 *sand*
 paper (fine-grit) on the

@@ -22,7 +22,7 @@ Can Bed Bug Bully safely exterminate mild to moderate bed bug infestations? Will
 In this post, I seek to verify these claims by undertaking a thorough review of
 [Bed Bug](https://pestpolicy.com/what-does-bed-bug-poop-look-like/)
 Bully. So, let's get started!
-![](/assets/img/uploads/default-image.jpg)
+
 [amazon bestseller="Bed Bug Bully" items="2" template="table"]
 ## Summary: Bed Bug Bully Review (Full Analysis)
 **My Overall Review: Only Suitable for Treating Small to Medium Bed Bug Infestations. **

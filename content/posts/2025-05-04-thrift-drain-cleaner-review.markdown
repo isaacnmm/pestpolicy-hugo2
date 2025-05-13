@@ -26,7 +26,7 @@ where other drain cleaners only cater to one or two disparate issues.
 ## +Why You Need the Thrift T-600 Alkaline Based Drain Cleaner?
 Clogging is unavoidable. Human activity is designed to produce the sort of waste that debilitates a plumbing system's functions. You can neither prevent nor guard against clogging.
 Every time you shower, you shed hair. This is particularly problematic if you live in a home with multiple women. But even if the hair wasnt a problem, any bath you take will probably involve soap, shampoo, or some detergent.
-![](/assets/img/03/Thrift-Drain-Cleaner-Review-For-Sinks-Toilets-300x200.jpg)
+
 Soap scum and bath oils are common causes of clogging. The same can be said for the grease that pours down the drain of your kitchen sink every time you wash your plates after a scrumptious dinner.
 Over time, all that grease and soap scum and hair and bath oils will accumulate to create blockages. The symptoms are difficult to miss. You will notice that the water in your
 [sink drains](https://pestpolicy.com/sink-not-draining-but-pipes-clear/)

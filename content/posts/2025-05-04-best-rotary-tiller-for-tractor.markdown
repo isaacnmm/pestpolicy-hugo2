@@ -20,7 +20,7 @@ This article will review top tillers aiming to simplify your research work.
 ### [1. Farmer Helper 53" Rotary Tiller - Tractor Tiller](https://www.amazon.com/dp/B01MSOXMDY/?tag=p-policy-20)
 Farmer Helper 53" Rotary Tiller is made of durable hardened steel materials, making it long-lasting. The tiller's 430 pounds weight makes soil penetration easy by reducing buckling while tilling.
 
-![](/assets/img/e/ir)
+
 You can use a small tractor with this tiller as it requires less horsepower (18-60 HP) to power. The tines rotate in the forward direction, making it ideal for soft grounds.
 The chain-driven tiller is ideal for heavy-duty tilling. It comes with easy to reach tensioners. The tensioners make it easy to adjust the tiller manually or automatically comfortably.
 Its chain tightening mechanism is resistant to heat, moisture, and debris for durability and reduced maintenance cost.
@@ -39,7 +39,7 @@ Cons:
 ### **2. King Kutter Gear-Driven Rotary Tiller - 5ft. Tiller Width**
 King Kutter Gear-Driven Rotary Tiller comes with a rugged exterior making it ideal for tackling new tilling grounds. The tiller has a set of durable tines, which makes it easy for you to till a virgin ground.
 
-![](/assets/img/e/ir)
+
 It does not require a massive tractor as 25-40 horsepower is enough to work with the tiller. The tiller's robust cast iron gearbox and square tube frame give it power and speed, making tilling a large piece of land child's play. It has L-shaped flanges that help in mixing the soil for aeration.
 Its 60-inch cutting width increases the tilling surface, which in turn reduces the tilling time. With a heavy-duty slip-clutch, tilling in a straight line gets very comfortable. The tiller's 8 inches cutting depth ensures this tilling beast will tackle any soil comfortably.
 It is best suited for areas that need maximum soil mix. Therefore, it's ideal for
@@ -57,7 +57,7 @@ Cons:
 ### [**3. Titan 48" Heavy Duty Rotary Tiller**](https://www.amazon.com/dp/B07DVQ8NL2/?tag=p-policy-20)
 Titan 48" Heavy Duty Rotary Tiller is a robust tiller with the dimensions of 59.5x27x41 inches and weighs 643 pounds. You will till through any ground with this tiller as it holds its ground well.
 
-![](/assets/img/e/ir)
+
 It's perfect for use with medium-duty tractors as it requires only 18-40 horsepower to get work done.
 With a power take-off (PTO) shaft with 540 rpm, the forward rotation tiller is perfect for tilling large pieces of land in record time. The tines design is meant to leave the soil perfectly aerated after tilling.
 Titan Heavy Duty Rotary Tiller has a 48-inch cutting width perfect for tilling medium-sized tracts of land. It has 30 tines weighing 28 pounds, each making tilling with the machine very easy.
@@ -74,7 +74,7 @@ Cons:
 ### [**4. Titan 60" Heavy Duty Rotary Tiller**](https://www.amazon.com/dp/B07DVQ1FZ5/?tag=p-policy-20)
 The majestic rotary tiller's dimensions of 69.5 x 27 x 41 inches weigh 673 pounds allowing the tilling giant to till through all types of soil without any complaints.
 
-![](/assets/img/e/ir)
+
 The massive construction gives it an advantage over
 [other tillers, especially on new grounds](https://pestpolicy.com/best-tiller-for-breaking-new-ground/)
 .
@@ -93,7 +93,7 @@ Cons:
 ### [**5. King Kutter Gear-Driven Rotary Tiller **](https://www.amazon.com/dp/B000N4UZ80/?tag=matic08-20)
 King Kutter Gear-Driven Rotary Tiller weighs 780 pounds. This large tiller is heavy, making it ideal for tilling the hard soil. Heavy tillers push the field better and don't buckle easily when farming on hard land.
 
-![](/assets/img/e/ir)
+
 Most of the parts are made of durable, sturdy metal, making the tiller durable. The tiller works well with tractors with horsepower ranging from 35 to 50 HP. As a result, tilling with this tiller is effortless as it offers more shaft revolutions per minute, increasing its efficiency.
 The tiller has a large 72-inch Tilling width. A large digging width reduces the tilling time as it covers a large area in a single pass. Its 4 feet offset ensures tire tracks get cleared at the end of the tilling process. Depth 8 inches maximum.
 The tiller offers you a variety of digging heights with its 3 point digging-height adjustment mechanism. It comes with robust six flanges with have L shaped tines for better soil rotation and aeration.
@@ -110,7 +110,7 @@ Cons:
 ### [6.**Rotary Tiller, Heavy Duty HDRT-80, from Victory Tractor Implements**](https://www.amazon.com/dp/B07RJ1QZFG/?tag=p-policy-20)
 Victory Rotary Tiller is a mean-looking heavy-duty tiller weighing 725 pounds. With its imposing size, this tiller is certainly heavy making it ideal for tilling hard grounds as the tines don't buckle easily.
 
-![](/assets/img/e/ir)
+
 A tractor with horsepower ranging from 40 to 60 HP will power this tiller effortlessly. The tillers tines rotate in the direction of the wheels. The Forward rotation tines are efficient when it comes to turning the soil for proper nutrients distribution.
 Turning the grounds ensures that the earth is adequately aerated, making it fertile too. The rugged tiller has an 80 inch tilling Width. Therefore, the tiller takes a short time to till an acre of land. Its 10 Flanges with a total of 60 blades make cultivating a large farm easy as it covers a vast area in a single pass.
 The L shaped blades are perfect for turning the soil. The tiller has a 4 point height adjustment mechanism with the maximum depth being 7 inches. The tiller can till on any ground comfortably as it has sharp blades. It would be a dream tiller for a landscape contractor due to its efficiency and performance.
@@ -125,7 +125,7 @@ Cons:
 ### **7. Farmer Helper 59" Tiller Heavy Duty**
 If you are looking for a rotary tiller for a tractor that will work wonders on rocky soil, value leader is the tiller for you. It is ideal for home use or commercially for those in the landscaping industry.
 
-![](/assets/img/e/ir)
+
 The dimension of 70x32x28 inches and a weight of 835 pounds does not hinder the tiller from doing its job. The fact that it weighs less compared to other machines makes it ideal for tilling rocky grounds.
 The rotary tiller has a 59-inch digging width. The vast tilling breadth enables you to cover a large yard in less time. Its 5 points digging depth adjustment mechanism makes it easy for you to set the tiller to your desired height.
 The tillers have flanges with many durable tines which work entirely you keep your soil aerated adequately by turning the soil. Cleaning and maintaining this tiller is easy. All you need is use a brash to remove sol and soapy clothing for extra shine.

@@ -15,7 +15,7 @@ lastmod: 2025-05-07T12:21:27+03:00
 
 ---
 The presence of Gnats (either the biting or the non-biting species) can really be very disturbing and irritating since they keep moving rapidly in the entire room.
-![](/assets/img/img/)
+
 [Gnats have a lifespan of 7 to 21 days](https://pestpolicy.com/how-long-do-gnats-live/)
 **. **
 Gnats will be attracted by some common things including stagnant water around our houses, unwashed dishes, spoilt food stuffs and decaying organic matter near your houses.

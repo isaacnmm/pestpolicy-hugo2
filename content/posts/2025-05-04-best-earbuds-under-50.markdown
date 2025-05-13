@@ -16,7 +16,7 @@ lastmod: 2025-05-07T12:21:23+03:00
 So, which are the best earbuds under 50? The importance of earbuds cannot be underestimated in
 [reducing the risk hearing loss](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4754097/)
 . They give us the convenience of listening to our favorite tunes at any time and from any place.
-![](/assets/img/img/)
+
 The market has a lot to offer when it comes to earbuds. Technology evolution has seen the development of quality earbuds at very affordable prices.
 *Features to look out for?*
 Probably

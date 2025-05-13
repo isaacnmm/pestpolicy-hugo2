@@ -24,7 +24,7 @@ Youll get to choose the best play-set that fits your
 Make your backyard a fun haven with this amazing playset. The good thing with this playset is that it offers many play activities to keep kids entertained for hours.
 T
 he Cedar Brook Play Set features a sidewinder slide, 2 swings with chains covered by a UV plastic, and a rock climbing wall that comes with 8 attractive climbing rocks.
-![](/assets/img/04/Wooden-Swing-Set-300x200.jpg)
+
 The wall offers the kids a challenging experience, helping them to build their endurance, coordination, and strength. The set also features a multi-child glider, monkey bars, and a picnic table, all this is meant to add extra fun and enjoyment for the kids.
 For ease of assembly, the manufacturers have included pre-cut lumber, all hardware, and illustrated instructions. Thus, the installation process takes minimal time and energy.
 The slide comes with a life time warranty against breaks or cracks. To ensure safety, the developers test each play set. So parents can relax knowing that their kids are

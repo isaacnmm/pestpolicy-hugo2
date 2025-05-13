@@ -20,7 +20,7 @@ lastmod: 2025-05-07T12:21:26+03:00
 ## Can Bearded Dragons Eat Cantaloupe? 7 Tips
 Cantaloupe, also known as sweet melon, muskmelon, honeydew, rock melon or persian melon in different regions of the world, is a common fruit mainly eaten as a snack or dessert by people.
 Could be you grow cantaloupe in your farm or have come across some in the groceries and wonders whether your Bearded Dragon can eat these fruits.
-![](/assets/img/03/Can-Bearded-Dragons-Eat-Cantaloupe-300x172.png)
+
 ### 1. Low Calcium: Phosphorous Ratio
 The biggest danger of feeding your bearded dragon with cantaloupe is the low calcium: phosphorous ratio. Currently, a well-cultivated cantaloupe has a calcium: phosphorous ratio of 0.6:1. Actually, the ideal or recommended calcium: phosphorous ratio should be 1:1, 2:1 or more.
 Why is the ratio crucial for your pets health? Well, its important to know that presence of high level of phosphorous as compared to calcium inhibits calcium uptake at the alimentary canal into blood stream.

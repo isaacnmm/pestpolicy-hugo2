@@ -25,7 +25,7 @@ Further, the vacuuming process will trigger the cocoons-surrounded fleas to emer
 ## Does Vacuuming Kill Flea Larvae?
 Raise that carpet nap, and vacuum to enhance how deep and fast the insecticide will penetrate into the fibers of your carpets - places that growing fleas will hide.
 - You'll require to vacuum keenly the pet's sleeping and resting area - further throw rugs (plus garbage bag) and vacuum the edges of the beds, cushions, furniture, and rooms.
-![](/assets/img/03/Does-Vacuuming-Kill-Flea-Larvae-300x200.jpg)
+
 But after how long will the flea larvae dies following the vacuuming process? Well, in 2-14 days, the flea larvae (all the 3 stages) should have been killed by vacuuming before they spin to form protective
 cocoons for the flea pupae.
 This must happen before the flea pupae spin into cocoons and the adult fleas emerge - this will be in 1-2 weeks. Notably, 96-percent of adult fleas (from six tests) will die when vacuumed while 99+ percent of younger fleas tend to die if effectively vacuumed.

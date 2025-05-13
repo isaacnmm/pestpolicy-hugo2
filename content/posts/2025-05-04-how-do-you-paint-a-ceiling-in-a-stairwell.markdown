@@ -19,7 +19,7 @@ In this guide, we will walk you through the steps of painting a ceiling in a sta
 To paint a ceiling in a
 [stairwell](https://pestpolicy.com/how-to-paint-a-stairwell/)
 , follow these steps:
-![](/assets/img/03/How-Do-You-Paint-A-Ceiling-In-A-Stairwell-300x225.jpg)
+
 1. **Preparation**: Before starting, gather all the necessary materials, including paint, brushes, rollers, drop cloths, painter's tape, a ladder or scaffolding, and safety equipment like goggles and a dust mask. Clear the area beneath the ceiling and cover it with drop cloths to protect against paint spills. Use painter's tape to protect walls and handrails from accidental splatters.
 2. **Safety First**: Safety is paramount when working in a stairwell. Ensure your ladder or scaffolding is stable and securely positioned. Use a ladder with adjustable legs or a ladder stabilizer to provide better stability. Always maintain three points of contact with the ladder while painting.
 3. **Choose the Right Paint**: Opt for a high-quality ceiling paint that is specifically designed for ceilings. These paints have better coverage and adhesion properties, reducing the need for multiple coats. Additionally, consider using paint with a matte or flat finish to hide imperfections and minimize glare.

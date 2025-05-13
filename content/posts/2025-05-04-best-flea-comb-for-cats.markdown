@@ -31,7 +31,7 @@ Top on the list of the best flea combs for cats and dogs is the safari flea comb
 dandruffy and scabby in addition to having fleas. In addition to pre-brushing the cats fur, I recommend the Safari
 [Flea Comb to search and remove](https://pestpolicy.com/does-salt-kill-fleas/)
 fleas.
-![](/assets/img/e/ir)
+
 Single vs. Double row teeth Flea Combs?
 
 If you have your or orphaned kitten that could be too small to employ topical treatments, then the Safari Flea Comb will come in handy. I noted that I was required to run just a few
@@ -59,7 +59,7 @@ and powders, Easy to control with its great Contoured, does not irritate flea bi
 Hornby Flea and Lice Comb come second on the list and can comb most of your small pets. However, I noted that this one lacked a handle, unlike the Safari Flea comb. Hence it is a little difficult to use.
 
 But, I loved the pretty pack of colored flea combs.
-![](/assets/img/e/ir)
+
 However, I loved that the flea comb had two sets of teeth of different widths  narrow and wide. The plastic teeth tend to electrify the
 [cats hair and thus assists in removing the fleas](https://pestpolicy.com/best-flea-drops-for-cats/)
 . However, compared to metal teeth, the plastic teeth are less strong, and hence the flea comb has lower durability  could twist or bend.
@@ -82,7 +82,7 @@ as no handle.
 Oster Animal Care Comb is considered a highly ergonomic flea comb to remove fleas from dogs and cats. Like the Safari comb above, the Oster Animal Care Comb has metal teeth durable and will remove
 [fleas even in dense cat](https://pestpolicy.com/diatomaceous-earth-for-fleas-on-cats/)
 coats. Equally, the comb is suitable for both long and short-haired cats.
-![](/assets/img/e/ir)
+
 Despite being made of metal, the combs teeth do not have sharp points and easily remove fleas from the skin while not hurting it. Further, the comb effectively removes some sections of the loose undercoat (that arises during summer) on your cat. This leaves your cat looking beautiful and welcoming.
 
 The combs teeth can turn 90 degrees from your cats skin, which also protects the cat during the flea combing process. Therefore, the flea comb will not dig into your cats skin like other metal teeth in different combs. Dont be fooled by the metal teeth on this flea comb  its lightweight and thus easy to carry around and use.
@@ -93,9 +93,9 @@ Lacks a handle, thus challenging to use.
 ## [4. Pet Republique Dog & Cat Flea Comb](https://www.amazon.com/dp/B01MF7SBG2/?tag=p-policy-20)
 [Pet Republique Cat](https://pestpolicy.com/what-is-blep-in-pets-cats-and-dogs/)
 Flea Comb is designed from flexible tines with top reliability in removing adult fleas, flea dirt, and dandruff flakes. The design of the comb prevents the occurrence of stray hair from your cat.
-![](/assets/img/e/ir)
+
 Considering ergonomics, the flea comb has sinking patterns and thus easy to hold while flea combing your cat.
-![](/assets/img/e/ir)
+
 The Pet Republique flea comb will work excellently with hair that has shedding, matting, knots, and long fur. Its bristles are designed from a sturdy and hard material, and thus they wont damage your cats skin or coat.
 
 Pet Republique also sponsors the protection of abandoned cats and dogs  for the lovers of charity work or worthy causes.

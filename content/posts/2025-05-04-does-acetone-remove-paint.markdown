@@ -17,7 +17,7 @@ lastmod: 2025-05-07T12:21:26+03:00
 Do you have a house wall, car, or
 [garage](https://pestpolicy.com/best-garage-floor-paint/)
 that's painted in some odd Rust-Oleum color? So, you're wondering, "does acetone remove paint?" The painting has no clear coat but offers excellent corrosion resistance and color retention.
-![](/assets/img/12/Pest-Control.jpg)
+
 *In brief, YES, Acetone (a solvent) removes acrylic paint, enamels, and oil-based paints (both dry and fresh). It'll lift the mineral spirits and dry fast as you spin and shake the brush. *
 *Acetone, as an ingredient, is used to remove paint and varnish. It'll take off the paint right off when you pour it directly on your painted surfaces. *
 *When you get your paint ruined, you spray the acetone on the painting, and it'll merely clean it. Acetone is neither HAP nor VOC and hence it's usable both for cleaning or clearing your finishes. *

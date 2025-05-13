@@ -18,7 +18,7 @@ Also, I've answered this question - it better to stain or paint a deck?
 Real wood decks will weather with time, but you can use
 [stains for weathered wood](https://pestpolicy.com/best-deck-stain-for-weathered-wood/)
 to make the outdoor living space beautiful and more inviting.
-![](/assets/img/img/)
+
 Compared to brick pavers and concrete, wooden decks will require a higher level of
 [maintenance and care](https://www.extension.purdue.edu/extmedia/NCR/NCR-134.html)
 . So, this guide will help you know where to leave it natural,

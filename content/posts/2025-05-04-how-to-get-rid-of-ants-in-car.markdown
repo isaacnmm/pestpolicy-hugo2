@@ -25,7 +25,7 @@ If you are tired of all the failed attempts to get rid of ants in your car, read
 - How to identify different kinds of ants
 - What techniques to apply to get rid of ants in the car
 Ants are not too picky when it comes to choosing a place to nest. Theyll feel at home anywhere as long as it is moist, warm and has a food supply nearby  even if its your car! And when this happens, you should be prepared to be bugged and have damaged wires, switches or cables in your dashboard.
-![](/assets/img/img/)
+
 ## Why Ants Invade Your Car
 To be able to effectively get rid of ants in the car, it is important to understand why they infested there in the first place. Cars are an uncommon place for ants to nest, but when they do it is due to either one of the following reasons:
 - Your car was parked near an ant colony for a long time. Ant colonies are normally near a kitchen or trash cans, so if your garage is nearby, this is probably why they got into your car.

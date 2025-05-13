@@ -26,7 +26,7 @@ For example, the 14 ft. trampoline is a perfect choice for gymnastics, while the
 Let us look at the jumping mats for both 12 ft. vs-14 ft. Trampoline. The 14 ft. trampoline has a jumping mat of about 148 inches in diameter. This diameter provides a bigger jumping surface to do flips and twirls.
 
 On the other hand, the 12ft trampoline has a Jumping Mat diameter of about 125 inches.
-![](/assets/img/03/12-ft.-vs-14-ft.-Trampoline-300x200.jpg)
+
 However, weight restrictions may limit the number of people that jump on the large mat. Nevertheless, the big diameter mat provides enough space for two or more people to jump without colliding. Therefore, the 14ft trampoline is better in terms of jumping space than the 12ft trampoline.
 
 The larger jumping mat will provide ample space for your young gymnasts to perfect their tricks, twirls, and turns. Therefore, the 14-foot trampoline is a safe option for anyone who is into gymnastics.

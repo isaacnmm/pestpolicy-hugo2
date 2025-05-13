@@ -17,7 +17,7 @@ It is practically impossible to accomplish a painting task without sourcing for 
 [telescoping ladders](https://pestpolicy.com/best-telescoping-ladders/)
 .
 If you are painting a room, for example, you need a steady folding ladder. But what criteria should you use to settle for the best folding ladders for painters?
-![](/assets/img/12/Pest-Control.jpg)
+
 You need to know a bit more about the various makes of folding ladders and how to identify the best - including for
 [playsets](https://pestpolicy.com/best-stain-for-swing-set/)
 .

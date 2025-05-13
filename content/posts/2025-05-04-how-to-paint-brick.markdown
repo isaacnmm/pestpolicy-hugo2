@@ -17,7 +17,7 @@ lastmod: 2025-05-07T12:21:27+03:00
 Perhaps you own a brick home or a
 [wall structure](https://pestpolicy.com/how-to-paint-a-wall-with-a-brush/)
 and you intend to improve it's outlook impression, then, painting is the best option to consider.
-![](/assets/img/12/Pest-Control.jpg)
+
 Wrong procedure and painting method cause paint to peel or chip with time upon application.
 *On how to paint brick; select appropriate tools and materials required, clean the brick surface, strip old paint, sand the surface, repair damaged sections, and polish the surface before rinsing it to dryness.*
 *In addition, you'll have to select and prepare primer (follow manufacturer's instructions), apply the primer, select and prepare finish paint, apply finish paint, and undertake quality finish touch before leaving the surface to dry naturally. *

@@ -19,7 +19,7 @@ Steam has released both the Steam Link and the
 - However, in this post, I will do a Steam Controller review. The Steam Controller aims to close the PC-console gap among one of the[PC Wireless controllers](https://pestpolicy.com/).
 Steam Controller will spice up your gaming to look like the console gamepad, maybe even better.
 Notably, the video controller layout design, particularly analog sticks and buttons, has somehow remained the same for some time now.
-![](/assets/img/img/)
+
 However, there have been minor but notable changes such as the addition of the light bar
 [DualShock 4](https://www.amazon.com/dp/B00BGA9X9W/?tag=p-policy-20)
 at Amazon and

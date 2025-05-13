@@ -65,7 +65,7 @@ https://www.youtube.com/watch?v=QOOS5TLyYA0
 ### [3. Peavy H5-C Cherry Bomb Microphone](https://www.amazon.com/dp/B003OURTAW/?tag=p-policy-20)
 The Cherry Bomb mic edition gives you the convenience of use, thanks to its conveniently positioned on/off button and rotary volume control.
 
-![](/assets/img/e/ir)
+
 The specially designed rubberized red casing with a black grill is one of the most distinctive features of this instrument. This harmonica mic comes integrated with a detachable 0.25 microphone cable.
 Featuring a cardioid polar pattern, this
 [dynamic type mic](https://pestpolicy.com/what-is-a-dynamic-microphone/)

@@ -16,7 +16,7 @@ lastmod: 2025-05-07T12:21:27+03:00
 Below I outline how to record a song on
 [mac for music production](https://pestpolicy.com/best-mac-for-music-production/)
 . Recording music outside of a studio is much easier compared to years before since computers come with recording software and inbuilt microphones.
-![](/assets/img/img/)
+
 Notably, all current Apple Macs computers will have inbuilt cameras and microphones - you'll love GarageBand - their pre-installed sound recording on Macs.
 Therefore, it'll be possible to record music on the basic updated Macs - record your sound easily with the GarageBand software.
 Read Also:

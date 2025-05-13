@@ -32,7 +32,7 @@ This guide covers:
 Fleas dont live on humans long-term, but they
 **can temporarily latch onto us**
 in several ways. Understanding these transmission methods is crucial for preventing infestations.
-![](/assets/img/03/Can-Humans-Carry-Fleas-from-One-Home-to-Another-300x200.jpg)
+
 ### **1. Fleas Hitchhiking on Clothing and Shoes**
 One of the most common ways humans spread fleas is by carrying them on fabrics. Fleas can jump onto clothing when:
 - Petting an infested cat or dog -When you pet a flea-infested animal, adult fleas may jump onto your hands, arms, or clothing. Fleas are attracted to body heat and movement, so they can quickly transition from a pets fur to a human. Even brief contactlike stroking a neighborhood cat or playing with a friends dogcan lead to fleas hitching a ride.**Why It Happens:**Fleas instinctively seek new hosts when disturbed.**Risk Factors:**Pets not on flea prevention medicationFrequent contact with stray or outdoor animalsNot washing hands/clothes after handling infested pets

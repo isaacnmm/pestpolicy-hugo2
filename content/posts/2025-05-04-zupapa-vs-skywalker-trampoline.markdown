@@ -21,7 +21,7 @@ Your needs, preferences, and budget will determine the
 . Luckily, I will provide all the information you need to ensure that you pick the best option. Read on and learn more.
 ## Zupapa vs Skywalker Trampoline  Details
 As weve established at the beginning of this article, Zupapa and Skywalker Trampolines are popular brands in the current market. Theyre known for making some of the best trampolines for both adults and kids.
-![](/assets/img/03/Zupapa-vs-Skywalker-Trampoline-300x200.jpg)
+
 - However, Zupapa makes round trampolines only while Skywalker makes different trampoline shapes including rectangle, oval, or square.
 - The Skywalker also manufacturers mini trampoline for toddlers. Thus,  If youre looking for the best trampolines for toddlers checkout this article.
 Therefore, depending on your preference, youll choose a company that suits you best between the two.

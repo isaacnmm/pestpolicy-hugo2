@@ -21,7 +21,7 @@ If a bed bug has ever bitten you, you will agree with me that these bloodsuckers
 ## Details: 9 Home Remedies for Bed Bugs
 ### 1. Use Extreme Heat or Extreme Cold
 One of the endless ways of killing bed bugs is by use of high or low temperature. Temperatures above 120 degrees Fahrenheit will destroy the entire infestation of bed bugs (eggs, larvae, and adults) in your home. To achieve this, you will need to carry out the following:
-![](/assets/img/img/)
+
 - [Remove all the infested items with bed bugs](https://pestpolicy.com/how-big-are-bed-bugs/)and scatter them in one room to allow heat action on them.
 - Open all the closets in your house/room to enable heated airflow.
 - Lock all the windows, doors, and available ventilation to boost heating efficiency.
@@ -46,7 +46,7 @@ Related:
 In vacuuming, the
 [vacuum machine](https://pestpolicy.com/best-vacuum-for-bed-bugs/)
 sucks very tiny particles, including small insects (bed bugs). You will require a vacuum cleaner and a source of power/energy.
-![](/assets/img/img/)
+
 - Plug the vacuum cleaner into a power source and switch it on.
 - Run the machine for 1 to 3 minutes to enable it to reach the maximum working point.
 - Point the nozzle of the vacuum on the surface of[bed bugs](https://pestpolicy.com/what-does-bed-bug-poop-look-like/)infested items. Make sure you leave ample space to allow effective sucking.
@@ -61,7 +61,7 @@ and larvae. Ensure you vacuum your bed bugs infested items thrice a month to rem
 ### 3. Diatomaceous Earth
 [Diatomaceous Earth](https://pestpolicy.com/does-diatomaceous-earth-kill-bed-bugs/)
 is naturally occurring sedimentary rocks that are formed from microorganisms that decomposed for many years. Your need to carry out the following:
-![](/assets/img/img/)
+
 - Grind the Diatomaceous Earth in fine grain powder.
 - Wear gloves and sprinkle the powder into bed bugs infested area. You can[rub bed](https://pestpolicy.com/how-to-get-rid-of-bed-bugs-fast/)bug-infested items with Diatomaceous powder or sprinkle it over the items.
 - You can also fill cracks and crevices with this powder too.
@@ -73,7 +73,7 @@ Diatomaceous Earth is poisonous to your pets and children when swallowed though 
 A
 [Dryer (for clothes)](https://pestpolicy.com/does-the-dryer-kill-fleas/)
 is a suitable device that can be used to kill bed bugs in bed bugs infested clothes and smaller items, which can fit in a given dryer.
-![](/assets/img/img/)
+
 - Select a dryer with a power rating that will generate a temperature above 110 degrees Fahrenheit ([bed bug killing](https://pestpolicy.com/does-lysol-kill-bed-bugs/)temperature).
 - Plug the dyer into the power supply/socket.
 - Put[bed bug-infested](https://pestpolicy.com/dead-bed-bugs/)items into the dryer and close.
@@ -91,7 +91,7 @@ The killing power of hair dryer or
 is a function of the dryer's power rating (select a higher rated hairdryer to help generate high temperature).
 ### 5. Steam Cleaning
 Steam cleaning involves the use of superheated steam from a steam generator to kill bed bugs infestation.
-![](/assets/img/img/)
+
 - Heat water in a steam generator to 117 degrees Fahrenheit (bed bugs killing temperature).
 - Direct the steam nozzle of the steam generator onto bedbug-infested items or areas.
 - Steam all closets, crevices/cracks, and floor. Take care since superheated steam may burn badly.
@@ -102,7 +102,7 @@ Superheated
 Keep off all heat sensitive items and pets during treatment.
 ### 6. Using Borax (Boric acid)
 Borax, also called boric acid, is a home solution that can instantly kill bed bugs on application. The borax concentration determines the ability to kill bed bugs and the amount fed/breathed by a bed bug.
-![](/assets/img/img/)
+
 - Wear hand protection (gloves) and sprinkle borax on bed bugs infested items (mattress, bed sheet, clothes, etc.) or area (cracks, floor, or closets).
 - Leave them for 20 to 50 hours for the chemical to work.
 - After treatment, clean the items to remove borax and dead bed bugs.
@@ -113,7 +113,7 @@ Borax will cause a burning sensation when in contact with eyes and upset your st
 ### 7. Using Vinegar
 [Vinegar is a robust bed bug killer](https://pestpolicy.com/does-vinegar-kill-bed-bugs/)
 since it contains a strong acetic acid, which affects the bed bugs' nervous system.
-![](/assets/img/img/)
+
 - Measure 100ml of vinegar (Kroger Brand Heinz Distilled or Walmart) and mix with an equal amount of water.
 - Put the mixture in a spray bottle and spray over the bed bugs infested items or area (cracks, floor, or closets).
 - Leave the area for 30 minutes for the medicine to act/kill.
@@ -128,7 +128,7 @@ Vinegar will kill adult bed bugs on contact. The acetic acid in the vinegar will
 All the bed bugs that come into contact with alcohol will be killed. Wear a breathing mask (irritates nasal cavity on inhaling) and hand protection when spraying.
 ### 9. Baking Soda
 To kill bed bugs using baking powder, carry out the following steps. The baking powder kills bed bugs on contacts. It will dehydrate the exoskeleton/cuticle of bed bugs, thus killing them.
-![](/assets/img/img/)
+
 - Sprinkle baking powder over the bed bugs infested areas (floor, wall, cracks/crevices, and closets) and items (clothes, couches, beddings, or mattresses).
 - Leave the items for 2 to 6 hours.
 - Clean the treated items/area to remove baking powder and dead bed bugs.
@@ -144,7 +144,7 @@ or keep them off. To achieve this, you can carry out the following procedure:
 The Indiana Lilac leaves extract/liquid will kill bed bugs on contact. The insects breathe the scent and get paralyzed to death. Moreover, this product will also keep off bed bugs in your house.
 ### 11. Spraying Tea Tree Oil
 Tea Tree Oil has anti-microorganism properties that will kill bed bugs on contact.
-![](/assets/img/img/)
+
 - Dilute 20 drops of[Tea Tree Oil](https://pestpolicy.com/tea-tree-oil-for-bed-bugs/)with little water.
 - Put the solution in a spray bottle.
 - Spray over bed bugs infested items (clothes, beddings, mattress, or couches) and areas (cracks/crevices, closets, walls, or floor).

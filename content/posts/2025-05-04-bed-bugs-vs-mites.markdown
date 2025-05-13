@@ -39,7 +39,7 @@ Mites have an unsegmented body, and the length of their body is 0.2 mm - many of
 6 mm to 8 mm in length and are bright-colored with
 fine hairs.
 [caption id="" align="alignnone" width="886"]
-![](/assets/img/uploads/default-image.jpg)
+
 Image Source:
 [Palomar.edu](https://pestpolicy.com/)
 [/caption]

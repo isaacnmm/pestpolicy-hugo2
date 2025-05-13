@@ -18,7 +18,7 @@ For the best results over repeated use, you need a brush to maintain its shape a
 and
 [quality paintbrushes](https://pestpolicy.com/best-paint-brushes-for-walls/)
 for less hassle and reducing tediousness.
-![](/assets/img/12/Pest-Control.jpg)
+
 The best
 [paintbrush for latex paint](https://www.woosterbrush.com/reviews-advice/choose-right-paintbrush/)
 should be easy to clean and produce a high-quality finish for a professional-looking surface. The ultimate pick offers smooth paint release, given the water-soluble nature of latex paints.

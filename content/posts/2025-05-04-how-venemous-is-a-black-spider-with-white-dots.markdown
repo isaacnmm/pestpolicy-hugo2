@@ -15,7 +15,7 @@ lastmod: 2025-05-07T12:21:28+03:00
 
 ---
 Have you recently seen a black spider (Badumna insignis) in your garden that look like grey-house spider or Badumna longinqua but have white dots?
-![](/assets/img/12/Pest-Control.jpg)
+
 So, you're wondering how venomous is a black spider with white dots?
 *Well, most black spiders with white spots are jumping spider that aren't venomous to humans. However, other similar species like the immature black widow are very poisonous. But this is just a faction of the 3,000 spider spices found in North America. Thus, you must know how to differentiate the spider species. *
 ## Details: How Venomous is a Black Spider with White Dots?

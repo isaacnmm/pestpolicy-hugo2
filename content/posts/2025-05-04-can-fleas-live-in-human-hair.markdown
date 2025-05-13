@@ -31,7 +31,7 @@ hair. But when humans sleep with pets (including cats and dogs), the fleas may j
 The
 [fleas jump onto the human](https://pestpolicy.com/flea-repellent-for-humans/)
 scalp, where they'll feed on your blood - a good blood meal despite not being like the pet's blood meal.
-![](/assets/img/12/Pest-Control.jpg)
+
 Pet's blood meal allows the female
 [fleas to lay eggs](https://pestpolicy.com/does-the-dryer-kill-fleas/)
 , and they hatch into the larvae, pupae, before progressing into adults, and thus exterminators concentrate on killing fleas on pets.
@@ -60,7 +60,7 @@ However, for the fleas to jump onto your head and hence the human hair - you'd r
 [bugs hide](https://pestpolicy.com/where-do-bed-bugs-hide/)
 .
 Therefore, despite that fleas can jump high both vertically (about 7 inches) and horizontally, they can't get to the head (and human hair) of a regular height human being from the ground.
-![](/assets/img/12/Pest-Control.jpg)
+
 The regular flea's
 [jump being 6 inches will only get the bug](https://pestpolicy.com/do-bed-bugs-jump/)
 to the ankle of an adult (and standing) human being. Therefore, you'll find most
@@ -69,7 +69,7 @@ around the ankles.
 Although fleas can
 [crawl to good hiding places](https://www.jstor.org/stable/24923246?seq=1#page_scan_tab_contents)
 , they'll not usually climb up from the human ankles to the pubic hair or even the head hair.
-![](/assets/img/12/Pest-Control.jpg)
+
 Conclusion? Fleas will only get and hide in your human
 [hair if you sleep or lay around flea-infested pets](https://pestpolicy.com/best-cordless-vacuum-for-pet-hair/)
 , including cats or dogs. This may also happen when you let flea-infested pets lay on your bed.
@@ -86,7 +86,7 @@ Besides, these red-clustered bumps are the same ones you'll find around your fee
 Fleas
 [bites on your head could also cause](https://pestpolicy.com/spider-bite-vs-mosquito-bite/)
 intense itching that also comes with major skin irritation. Severe cases would result in skin infection, skin reddening, and hair loss.
-![](/assets/img/12/Pest-Control.jpg)
+
 However, the head ditch's intensity from the
 [flea bites in the human](https://pestpolicy.com/do-fleas-stay-on-humans/)
 hair varies from one person to another. This may be related to how allergic humans are to flea bites.
@@ -100,7 +100,7 @@ Equally important is that you should get a way of catching or holding the fleas 
 Sometimes fleas may even leave their eggs (
 [can be confused with dandruff](https://pestpolicy.com/flea-eggs-vs-dandruff/)
 ) on your hair, and thus you must eliminate them. The eggs will mainly be off-white or translucent in color and oval-shaped, looking like salt grains.
-![](/assets/img/12/Pest-Control.jpg)
+
 Therefore, it's also critical to flea treat the hair and the environment or yards around your house -
 [flea bombs](https://pestpolicy.com/best-fogger-for-fleas/)
 can help with a massive infestation.
@@ -114,7 +114,7 @@ Another remedy would be using
 Further, I recommend you wash your head and hair using
 [tea tree oil](https://pestpolicy.com/tea-tree-oil-for-bed-bugs/)
 plus your regular shampoo to eliminate the fleas. However, you must use the tea tree oil in its diluted type.
-![](/assets/img/12/Pest-Control.jpg)
+
 However, it's challenging to get the correct and safe measurement for tea tree oil, and thus, it would be helpful to purchase the shampoo with tea tree oil that's ready to use.
 ## Conclusion
 Rarely do

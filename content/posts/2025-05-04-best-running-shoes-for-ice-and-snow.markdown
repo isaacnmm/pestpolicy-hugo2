@@ -22,7 +22,7 @@ To ensure your safety during the winter run, the shoes you choose must be waterp
 Adidas has launched some of the best running shoes in the shoe industry and the Terrex Agravic XT GTX is no exception. These ones are the best running shoes for ice and snow. They offer reliable traction, comfort, and waterproofing benefits.
 
 The Terrex Agravic XT utilizes continental rubber on its outsole. This durable rubber component delivers an unmatched grip on snow and ice.
-![](/assets/img/03/Best-Running-Shoes-for-Ice-and-Snow-300x225.jpg)
+
 This rubber also has abrasion-resistant quality, thus protects the sneaker from harsh terrains. Beneath the outsole, youll find multidirectional nodes strategically placed to offer extra grip, especially on uneven and soft terrains.
 
 The upper features a breathable mesh and has a creative design that ensures a smooth in-shoe feel. The tongue and the sock-like fit offers extra comfort to the foot

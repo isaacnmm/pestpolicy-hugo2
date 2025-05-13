@@ -17,7 +17,7 @@ By choosing to read this article on the best spray paint for metal, you will gai
 Wrong spray paint selection leads to
 [undesirable finish](https://www.thoughtco.com/how-rust-works-608461)
 , peeling, chipping, or scuffing after a short time.
-![](/assets/img/12/Pest-Control.jpg)
+
 Consider net quantity, color options, spray type (water- or oil-based?), drying time, flow rate, and application method before placing an order.
 Further, choose
 [spray paints](https://pestpolicy.com/best-gold-spray-paint/)

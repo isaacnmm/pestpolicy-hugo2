@@ -27,7 +27,7 @@ Husqvarna HU800AWDH Mower is a powerful & fast gas-powered walk-behind mower tha
 The lawn mower has an all-wheel drive capability means that you'll require lesser force to moves the mower across your lawn
 [or uneven terrain](https://pestpolicy.com/best-riding-lawn-mower-for-uneven-terrain/)
 . It has wheels with ball bearing - this makes it quite easy to move around the yard.
-![](/assets/img/03/Best-Lawn-Mower-for-Large-Yard-300x200.jpg)
+
 Husqvarna HU800AWDH comes with a 22-inch deck made of steel woill ensure that you make even fewer mowing passes on the large yard. Further, it'll be excellent for the garden due to its auto walk-behind capability.
 Luckily, this Husqvarna HU800AWDH is cheap compared to other mowers in the same class. So, I approve this machine as my best lawn mower for large yards.
 *Motor Power*

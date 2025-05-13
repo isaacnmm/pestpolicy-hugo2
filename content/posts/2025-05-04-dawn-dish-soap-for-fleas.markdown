@@ -25,7 +25,7 @@ Let's get into the details!
 [amazon bestseller="best flea shampoo for cats" items="1" template="table"]
 ## How Will Dawn Dish Soap Kill Fleas?
 Dawn dish soap works to clean oil, grime, and grease on wild birds and pets through a chemical reaction called emulsification.
-![](/assets/img/img/)
+
 - Emulsification with Blue Dawn is the result of a chemical reaction between hydrogen peroxide and fatty substances, such as oils from food residue; as explained by a certified veterinarian[Dr. Andrea Miller](https://libertypethospital.com/our-team/).
 **However; **
 The flea-killing process uses a different process than emulsification. Like all dish detergents, Dawn Dish Soap is a surfactant.

@@ -18,7 +18,7 @@ As a DIY home renovator, you understand that spray paint is a convenient and eff
 However, the overpowering
 [spray paint odor](https://www.wikihow.com/Get-Rid-of-Paint-Smells)
 that lingers after the paint dries can be overwhelming and unpleasant. Fortunately, you don't have to endure the unpleasant smell for long.
-![](/assets/img/img/)
+
 With the help of some everyday household items, eliminating the spray paint odor is easy and hassle-free. We will provide you with a comprehensive guide on how to get rid of the spray paint smell and rejuvenate your living space.
 See Also:
 [Painting Vs. Staining Deck](https://pestpolicy.com/painting-vs-staining-deck/)

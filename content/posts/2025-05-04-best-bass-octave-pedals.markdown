@@ -14,7 +14,7 @@ lastmod: 2025-05-07T12:21:23+03:00
 
 ---
 In this post, I've reviewed the best bass octave pedals below. A bass octave pedal functions by creating a blended signal based on the original analog input.
-![](/assets/img/img/)
+
 As a result, you can easily switch up your guitar sounds, hence introducing a new octave to your music notes, thus captivate the audience.
 ***Summary:** I recommend either this Boss OC-3 or the MXR M288 as your best bass octave pedals. The two models will help you increase your guitars functionality or explore techniques to develop new tones and sounds. *
 Related:
@@ -23,7 +23,7 @@ Related:
 ### **1. BOSS OC-3 Super Octave Pedal for Guitar or Bass Bundle - Our Top Pick**
 Well kickstart with this amazing and versatile OC-3 octave pedal that operates as a guitar and bass at the same time. This is one of a kind pedal that allows both the guitar and the bass and with separate responses for the two instruments.
 
-![](/assets/img/e/ir)
+
 Youll love the amazing sounds and various tonal controls that come from this incredible instrument. Also, the drive mode will make you fall in love more with this pedal. This application includes a few alterations to the octaves to provide you various options to experiment or try-out diverse sounds.
 Most Bassists and Guitarist praise the superior octave sound effects of this pedal. To make it even more appealing, it includes 3 pre-programmed approaches for operators to select. They include Drive mode, Polyphonic Mode, and the initial OC-2 mode.
 The Polyphonic Mode of this tool allows octaves to be synthesized while playing cords. The drive mode allows Additional aggressive sounds to be heard which adds some alteration to the keyed bass and guitar signal.
@@ -51,7 +51,7 @@ Related:
 ### **4. Mooer MOC1 Pure Octave Guitar Single Effect**
 The MOC1 Pure Octave is one simple, affordable yet effective octave you may want to consider. It is mini size but offers maximum punch for great music experience. This instrument guarantees a consistent and powerful performance each time.
 
-![](/assets/img/e/ir)
+
 It boasts of eleven-octave modes. At the middle, this octave has a large white knob which helps to switch these modes. The three black knobs help to adjust the SUB, lower, and upper signal units. All these incredible modes sound amazing and they eliminate any distortion in the output.
 Bassists on a budget will benefit from this amazing MOC1 Octave pedal. This octave pedal is slightly cheaper than the rest, but still has many great qualities that will do an exceptional job.
 ### 5.[Aguilar Octamizer Bass Octave Effect Pedal](https://www.amazon.com/dp/B002MUALVY/?tag=p-policy-20)

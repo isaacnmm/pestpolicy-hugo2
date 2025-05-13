@@ -21,7 +21,7 @@ can jump, climb, run, or swim with ease, and they have an unparalleled ability t
 Since they are omnivores, raccoons will eat anything they can get their dirty little hands on and this has made them a menace especially in suburban areas.
 ## How to Repel Raccoons
 Yards and gardens are their perfect hangout spot and sometimes they can decide to move into your basement or attic especially when looking for a safe place to raise their kids.
-![](/assets/img/03/How-to-Repel-Raccoons-300x192.jpg)
+
 Raccoons may be nice to look at from far but you don't want them getting anywhere near your home. They will steal your food, spread illnesses, and if you run into them, they can scratch you up and leave you with painful injuries.
 ### Step 1: Identify their areas of damage
 First, you need to find out where raccoons are gaining entry into your home or compound. Knowing where the raccoon spends most of its time when at your house and identifying the damage it's causing will help you determine the best way to repel them. Common raccoon activities include:

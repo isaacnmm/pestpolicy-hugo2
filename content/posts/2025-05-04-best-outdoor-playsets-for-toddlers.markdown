@@ -26,7 +26,7 @@ If you need a fantastic starter swing or your toddler, then you should purchase 
 simultaneously on the swing set.
 S
 afety was a key consideration in the design of the swing set, and thus you should have peace when swinging your child. Also, it satisfies ASTM Safety standards.
-![](/assets/img/03/Best-Outdoor-Playsets-for-Toddlers-300x213.jpg)
+
 Further, the set is an excellent addition to your home as you can use it both outdoor and indoor to give your kid adequate fun. The swing has a harness that will safely hold the child while swinging and bouncing.
 The swing set seat is created from durable molded plastic and has a safety harness that increases the safety of your kid on the seat.
 Also, the sets frames are foldable, and thus you will find them highly portable and easy to store.

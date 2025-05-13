@@ -31,7 +31,7 @@ Before conducting extensive research and test on thermal paste application, mayb
 **In this method, you will apply a pea-sized - not too much - amount of the thermal compound in the middle of the CPUs surface and screw back the heat sink on top of it. **
 **Therefore, the thermal paste will spread naturally in a round or oval shape evenly over the CPU cores. Manually spreading would lead to the formation of air bubbles. **
 ## How important is thermal paste to your CPU?
-![](/assets/img/img/)
+
 So, do you really need the grey weird-smelling paste on your CPU? Why bother using the paste when the heatsinks already look very impressive?
 
 Well, heres why: most heat sinks will not sit flat on the CPU since they could be concave or convex and thus leave some space where the processor and the heat sink will not have adequate contact.

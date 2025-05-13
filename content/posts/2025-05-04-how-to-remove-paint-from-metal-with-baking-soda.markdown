@@ -18,7 +18,7 @@ Suppose you require a
 ; I recommend baking soda and boiling water - this is the topic of discussion in the current article to polish your metallic doorknobs and hinges or
 [metallic garages floors](https://pestpolicy.com/best-paint-for-metal-garage-door/)
 .
-![](/assets/img/12/Pest-Control.jpg)
+
 You'll use the
 [household baking soda (home remedy)](https://www.onecrazyhouse.com/40-uses-for-baking-soda/)
 , and it won't also require specialized tools, painting knowledge, or equipment. Baking soda will refresh the surface of the hinges and wall paints with no hazardous fumes.

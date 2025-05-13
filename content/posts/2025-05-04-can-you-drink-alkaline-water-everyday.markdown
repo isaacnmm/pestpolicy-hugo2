@@ -17,7 +17,7 @@ lastmod: 2025-05-07T12:21:26+03:00
 Can you drink alkaline water every day? Alkaline water contains a pH that's higher than 7 - regular tap water has a  pH of between 6.5 to 8.5 on the pH scale -
 [according to EPA](https://www.epa.gov/sdwa/drinking-water-regulations-and-contaminants)
 .
-![](/assets/img/img/)
+
 On the health benefit claims, alkaline water is considered that its high hydrogen content allows better hydration compared to pure water, particularly during a workout.
 So, in summary, YES and NO - there are both benefits and cons of alkaline water on daily intake - leading to
 [clear skin](https://twitter.com/_AyeVee/status/1085823220157054976)

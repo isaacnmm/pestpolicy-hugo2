@@ -17,7 +17,7 @@ Usually, the
 [priming process](https://pestpolicy.com/rustoleum-galvanized-metal-primer/)
 is done before actual paint application is undertaken in order to boost adhesive contact of the finish coat. Some painters tend to skip primer and directly apply finish paint.
 *So, what happens if you dont paint over primer? Well, the surface (under paint application) experiences low-paint adhesion, non-uniformity between paint color and sheen, while the surface demands several coats before attaining an excellent finish. *
-![](/assets/img/img/)
+
 *In addition, the low stickiness action (associated with the unprimed surface) leads to peeling and scuffing, while uneven surface coating may initiate chipping or flaking. More so, the finish coat ends up having leakage on damaged sections. *
 > See Also:
 > [Sandpaper for Primer before Paint](https://pestpolicy.com/what-grit-sandpaper-for-primer-before-paint/)

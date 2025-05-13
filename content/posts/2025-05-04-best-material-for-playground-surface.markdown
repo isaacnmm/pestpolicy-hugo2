@@ -42,7 +42,7 @@ I will provide all the relevant and up-to-date information to help you make a go
 
 Types of Playground Surfaces:  Loose-Fill Materials.
 ### **1. Engineered Wood Fiber**** (**Wood Playground Mulch)
-![](/assets/img/img/)
+
 The good thing about Engineered Wood Fiber is that its readily available, economical, durable, and low maintenance.
 **Appearance**
 The Wood playground mulch blends well with almost all landscape themes. It will also blend well with your
@@ -98,7 +98,7 @@ Rubber mulch doesnt require a lot of maintenance. The initial purchase and insta
 
 You dont need to replace the rubber mulch yearly. its a durable playground cover. However, the rubber mulch can also scatter around so youll need to monitor it closely to ensure enough coverage on the entire play area.
 ### 3. Pea gravel
-![](/assets/img/img/)
+
 Pea gravel can also provide a good alternative for playground swing set cover. They are smooth round stones with lighter colors. It offers excellent durability, cushioning, and shock absorption. They are also cheap to install.
 **Appearance**
 Pea gravel delivers a more natural look to a place. They can blend well with your backyard, swing set, and outdoor as a whole.
@@ -115,7 +115,7 @@ Pea gravel is readily available. Most Landscaping companies around the U.S.A del
 **Maintenance**
 Pea gravel is a loose fill that can compress and redistribute. Therefore, you need to shovel to prevent cases of injuries. Rake the playground cover back underneath the swing set periodically.
 ### **4. Playground Sand **
-![](/assets/img/img/)
+
 Sand has been a top choice for most people looking for the best Material for Playground Surface. Its cheap, easy to maintain, and readily available. Ensure you buy the coarse grain for your swing set surface cover.
 **Appearance**
 Playground sand delivers a Beautiful classic look. Youll love how the sand will enhance the swing set surface while providing the safety your kids need while playing.

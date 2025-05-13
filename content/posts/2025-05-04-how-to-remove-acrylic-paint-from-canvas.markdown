@@ -16,7 +16,7 @@ lastmod: 2025-05-07T12:21:27+03:00
 Removing
 [acrylic paint](https://pestpolicy.com/best-acrylic-paint-for-canvas/)
 from canvas becomes challenging, especially when the paint has dried out. How you can clean paint spots or the entire canvas? Which method works best? Is the washing machine safe?
-![](/assets/img/12/Pest-Control.jpg)
+
 *So, here's how to remove acrylic paint from the canvas; by either using denatured alcohol/isopropyl alcohol, mineral spirits, ammonia, turpentine, or acetone/nail polish. *
 *These solvents clean both wet and dry acrylic paint effectively if the right procedure is followed. You can effectively carry out optional cleaning methods such as spot cleaning, stripping/full canvas cleaning, and final cleaning without any problem. *
 *Alternatively, you can use commercially available products such as Dumond Paint remover,  Grandma's Secret GS7001, or Wegner spray paint remover. But you will need to check on the material specifications and match them with the best paint remover. *

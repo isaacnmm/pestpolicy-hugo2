@@ -16,7 +16,7 @@ lastmod: 2025-05-07T12:21:23+03:00
 The best external hard drive for music production will provide better performance and portability while you're
 [producing music on your Mac](https://pestpolicy.com/best-mac-for-music-production/)
 .
-![](/assets/img/img/)
+
 This is particularly important to speed up your Mac by speeding up its operating system.
 You can use the HDD to save or backup your audio and videos (from
 [music video cameras](https://pestpolicy.com/best-camera-for-music-videos/)

@@ -17,7 +17,7 @@ For most homeowners with pets and small children, removing paint from concrete
 [(such as in the garage](https://pestpolicy.com/how-to-remove-acrylic-paint-from-concrete/)
 ) requires using non-chemical methods.
 *You can remove paint from concrete without chemicals using pressure washers, soda blasters, paint strippers (biodegradable and non-toxic),  and Soy Gel - they're safe and eco-friendly - may require a degreaser for concrete. *
-![](/assets/img/img/)
+
 *A pressure washer and water will work effectively to clean your concrete surfaces. Let the surface dry and then apply some paint stripper (optional) - finally, scrub and wash the area. *
 See Also:
 [How to Paint Concrete](https://pestpolicy.com/how-to-paint-concrete/)

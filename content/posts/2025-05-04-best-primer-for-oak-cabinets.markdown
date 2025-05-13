@@ -24,7 +24,7 @@ The primer for oak cabinets should minimize the wood's grain and keep the grain 
 Aqua Coat white is easy to apply a solution, which allows you to fill the pores and grains of your wooden cabinets before the painting process begins.
 T
 his action minimizes the absorption rate while raising the grain level to a uniform height to guarantee you a smooth polished surface - especially using this roller.
-![](/assets/img/03/Best-Primer-for-Oak-Cabinets-300x212.jpg)
+
 The Aqua Coat Grain Filler is ideal for smoothing out the grain of oak wood cabinets resulting in a dramatic difference compared to surfaces without fillers.
 With a drying time of 45-60 minutes, this primer presents an excellent choice if you are looking for an instant solution. This unit is easy to apply and clean up, which further attests to this unit's dependability.
 The filler can be thinned with water if you are a DIYer who is just getting acquainted with cabinet priming. Don't avoid your priming step if you need to

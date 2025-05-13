@@ -16,7 +16,7 @@ lastmod: 2025-05-07T12:21:27+03:00
 Perhaps your deck is covered with old peeling paint and wonders how to clean and repaint. Frequent
 [peeling paint](https://www.wikihow.com/Repair-Peeling-Paint)
 on your deck surfaces makes them get defaced/breached, thus losing its aesthetic appearance.
-![](/assets/img/12/Pest-Control.jpg)
+
 *So, on how to paint a deck with peeling paint -  prepare personal protective equipment, and sort the right painting tools. *
 *Then, prepare the deck surface, select the right paint, sand/polish the deck entirely, and finally carry out the actual painting. Your paint deck for the outdoor deck must be quality and durable. *
 > See Also:

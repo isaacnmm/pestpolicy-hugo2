@@ -16,7 +16,7 @@ lastmod: 2025-05-07T12:21:26+03:00
 ---
 Does boric acid kill bed bugs? Boric acid is one of the most famous pest killer in the market. It has various home applications. Some people use it to kill bed bugs.
 **But does boric acid kill bed bugs? The answer to this question is NO! However, Boric acid can kill bed bugs, but only when eaten/inhaled or injected into them. **
-![](/assets/img/img/)
+
 **On the other hand, bed bugs feed on blood and unless boric acid is mixed with blood, from which they feed and get it into their body; then it may never kill them.**
 So, lets start.
 ## What is Boric acid?

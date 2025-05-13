@@ -16,7 +16,7 @@ lastmod: 2025-05-07T12:21:28+03:00
 Removing
 [dried paint from concrete](https://pestpolicy.com/what-kind-of-paint-can-be-used-on-concrete/)
 surfaces can be cumbersome, especially when the wrong procedure is followed. Perhaps you need to restore your concrete with new paint and wonder how you can remove old paint. Can washing with soap clean all paint?
-![](/assets/img/12/Pest-Control.jpg)
+
 *Summary: Here's how to remove paint from concrete - using a paint stripper, absorbent stripper method, trisodium phosphate, or soda blasting method such as on the driveway. In each of the following methods, you need to adhere to the correct steps and precautions to attain the best quality finish.*
 *The decision of which paint removal method to use should be determined by the type of paint under a removal (is it acrylic or latex paint?). Besides, surface cleaning should be done sufficiently before any paint removal process begins to eliminate dust and debris.*
 *Notably, the extent of surface area under paint removal is a factor that you shouldnt overlook as critical to cost implication. To acquire a more in-depth insight, let us get into the details. *

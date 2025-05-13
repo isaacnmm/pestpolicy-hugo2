@@ -20,7 +20,7 @@ Gen Intel CPU and is produced through a 14-nanometer processor. Check this
 [Motherboard for i5 6600k](https://pestpolicy.com/best-motherboard-for-i5-6600k/)
 .
 ## Intel Core i5 6600k vs i7 6700k Gaming Performance
-![](/assets/img/img/)
+
 All you need for rendering and editing in 4k and even 1080p is a Core i7-6700K. But that not to say that other processors such as 5930K or 6950X will not perform better as compared to the 6700K.
 Previously, I had analyzed the motherboards compatible with
 [i5-6600K](https://pestpolicy.com/best-motherboard-for-i5-6600k/)

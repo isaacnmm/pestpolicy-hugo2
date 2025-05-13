@@ -27,7 +27,7 @@ Let us find out!
 There are a number of benefits associated with using authentic cat shampoo compared to
 [human shampoo](https://pestpolicy.com/can-you-use-human-shampoo-on-cats/)
 , including; less dryness and itching, more natural pH balances, and fuller hair.
-![](/assets/img/03/What-Can-I-Wash-My-Cat-with-300x199.jpg)
+
 ### 1. Cat Shampoo - Earthbath 2-in-1 Shampoo
 What can I use to shampoo my cat? First, avoid human shampoo as it'll dry out the cat's skin.
 [Cat shampoos](https://pestpolicy.com/best-flea-shampoo-for-cats/)

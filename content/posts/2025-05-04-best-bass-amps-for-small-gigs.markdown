@@ -14,7 +14,7 @@ lastmod: 2025-05-07T12:21:23+03:00
 
 ---
 Focusing on the best bass amps for small gigs would be a brilliant move towards improving your daily entertainment activities.
-![](/assets/img/img/)
+
 Typically, you need to have an excellent sound system that is dedicated to delivering high-quality sound and a controlled power source.
 However, even with a good sound system, you may end up not achieving superior output in your small gigs due to abnormal sound interference and uncontrolled peak resonance.
 Read Also:
@@ -100,7 +100,7 @@ Read Also:
 ### [4. Darkglass Microtubes 900 V2-900-Watt Bass Amp](https://www.amazon.com/dp/B07N4H2BY2/?tag=p-policy-20)
 The Darkglass Microtubes is a top-quality new age bass amplifier that is impressively designed and engineered with high resistive power components that wont overheat due to high temperatures.
 
-![](/assets/img/e/ir)
+
 The bass amp features a reliable microtube overdrive and a studio-quality VCA compressor that nicely control loud sound, especially when holding indoor gigs. Also, Darkglass is integrated with Tough six-band flexible graphic equalizers, which makes it easy to regulate different sound waves simultaneously.
 Darkglass claims top performance by utilizing a resilient integrated circuit, which works efficiently without blowing out. The bass amp can store three IR simulation, which allows simple live recording in play mode and improves sound performance.
 The delivery sound band is specially manufactured with the internal sound control system and overshoot peak control. Indeed, sound control involves the use of lever, gain, tone, and compressor knobs that are calibrated nicely for more effortless adjustment.

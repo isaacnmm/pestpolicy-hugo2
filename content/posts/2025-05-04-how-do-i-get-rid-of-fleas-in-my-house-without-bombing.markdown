@@ -61,7 +61,7 @@ You'll need to sprinkle the DE powder in the pet houses. Further, do not assume 
 BASF 671858 PT is classified as a premise spray, covering about 2625 sq ft that can control indoor insects, such as fleas, at all
 [their life stages](https://pestpolicy.com/how-big-are-bed-bugs/)
 .
-![](/assets/img/uploads/default-image.jpg)
+
 Ingredients are 0.58%Permethrin & 0.09% IGR.
 The Good:
 - Removes all fleas

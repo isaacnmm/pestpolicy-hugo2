@@ -14,7 +14,7 @@ lastmod: 2025-05-07T12:21:23+03:00
 
 ---
 If you are a hard rock or heavy metal enthusiast, then you will need special attention when choosing the best bass amps for the metal to achieve the top-quality sound.
-![](/assets/img/img/)
+
 Typically, this type of music is associated with deep bass sound, which often blows off most amplifiers.
 In this regard, consider a potent amp that will handle both hard and soft rock music effectively without overwhelming the amplifier.
 Features such as power rating, control options, sound filters, compatibility as well as cost should be prioritized. Read Also:

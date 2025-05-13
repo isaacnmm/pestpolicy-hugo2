@@ -29,7 +29,7 @@ S
 anDisk Extreme Pro 64GB UHS-I i
 s approved by the microSD cards Benchmarks
 for your Raspberry Pi. With the SanDisk Extreme-PRO, you will get reliability and excellent performance in your Raspberry Pi3.
-![](/assets/img/03/Best-SD-card-for-Raspberry-Pi-3-300x185.jpg)
+
 You can quickly recover your data using the RescuePRO Deluxe software after any accidental deletion happens.
 
 The raspberry pi sd card allows about 17.40MB/s write speed that will enhance your video shooting and play speed. Therefore, the card will improve continuous and fast burst-mode taking or photographs.

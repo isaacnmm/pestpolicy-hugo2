@@ -24,7 +24,7 @@ Fuji-2203G Semi-PRO-2 is a classic
 for home DIYers or professionals - offers great versatility for lacquer painting.
 F
 uji-2203G Semi-PRO-2 will give you a pressure of 5 PSI that'll spray most projects - its gravity gun is also non-bleed - it'll easily paint or stain your fences and automotive spraying.
-![](/assets/img/03/Best-HVLP-Spray-Gun-for-Lacquer-300x194.jpg)
+
 The sprayer generates a smooth finish that'll work on most finishes, including nitrocellulose lacquer or shellac. It'll give you that soft and clean final touch to complete that project pass.
 - The sprayer is comfortable transporting or moving around thanks to its 25-foot hose - you'll quickly go on painting for long until all the cups are dry. Readily handles sealer or lacquer.
 - The sprayer has an air cap (1.3mm) pre-installed and comes with many setup tools. The sprayer's HVLP gravity-fed system will work well for garage hobbyists and home improvement.

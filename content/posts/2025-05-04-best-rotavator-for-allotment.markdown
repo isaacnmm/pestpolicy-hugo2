@@ -24,7 +24,7 @@ Whether you're reviving an overgrown plot or prepping fresh ground for planting,
 This is the ideal rotavator for tackling slopy areas and will deliver quality results that will leave you feeling impressed after completing every task.
 T
 his unit is lightweight, which eases maneuverability hence ensuring that you do not strain too much. However, it is robust enough to break through the toughest soils, whether aerating, weeding, or cultivating.
-![](/assets/img/03/Best-Rotavator-For-Allotment-300x169.jpg)
+
 The
 Sun Joe TJ603E
 is powered by a robust yet quiet 1400-watt electric engine, which eases cultivation and leaves you with a fine till ready for allotment and planting. Specially designed tines allow this machine to break through the soil with relative ease.

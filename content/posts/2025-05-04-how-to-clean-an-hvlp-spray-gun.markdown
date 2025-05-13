@@ -23,7 +23,7 @@ However, like any tool, HVLP spray guns require regular cleaning and maintenance
 ## How To Clean an HVLP Spray Gun
 ### **Step 1: Remove the paint cup or container and pour any remaining paint back into the can or container.**
 Before you start cleaning your HVLP spray gun, it's important to make sure that there is no paint left in the cup or container. If there is, pour it back into the can or container for future use.
-![](/assets/img/04/How-To-Clean-an-HVLP-Spray-Gun-300x200.jpg)
+
 This will prevent any paint residue from drying and hardening in the cup or container, which can make cleaning more difficult.
 ### **Step 2: Use a cleaning solution specifically designed for cleaning paint spray guns, such as mineral spirits or lacquer thinner, to flush the paint out of the gun. If you don't have a cleaning solution, you can use water.**
 After removing the paint from the cup or container, the next step is to flush the paint out of the gun. You can do this by using a cleaning solution specifically designed for cleaning paint spray guns -

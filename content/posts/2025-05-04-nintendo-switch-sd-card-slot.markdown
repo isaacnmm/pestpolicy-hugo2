@@ -32,7 +32,7 @@ https://www.youtube.com/watch?v=toKKONDAOvs
 #### How to To insert the MicroSD Card
 1. Switch off your Nintendo Switch console.
 2. Gently swing the kickstand open to reveal the Nintendo switch SD card slot.
-![](/assets/img/img/)
+
 3. Take the microSD card and make sure that its microSD card label is facing away from your
 [Nintendo Switch console](https://www.amazon.com/dp/B01MUAGZ49/?tag=p-policy-20)
 .

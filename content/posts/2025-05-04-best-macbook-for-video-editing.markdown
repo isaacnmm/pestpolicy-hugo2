@@ -14,7 +14,7 @@ lastmod: 2025-05-07T12:21:24+03:00
 
 ---
 Digital video editing requires huge processing power, heavy graphics, and, most importantly, storage space.
-![](/assets/img/img/)
+
 Now that 4K has become part of life, heavy video editing is needed for this task, which eats up huge space.
 You might want to go for the highest processor speed, storage space, and RAM allocation when choosing the MacBook for video editing - just like with the
 [MacBooks for music production](https://pestpolicy.com/best-mac-for-music-production/)

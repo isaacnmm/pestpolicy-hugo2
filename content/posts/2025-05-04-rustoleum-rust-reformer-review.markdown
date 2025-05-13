@@ -16,7 +16,7 @@ lastmod: 2025-05-07T12:21:28+03:00
 In this article, I've reviewed the Rustoleum Rust Reformer on its suitability for
 [rust repair](https://pestpolicy.com/how-to-remove-rust-from-metal-before-painting/)
 - so that you can now maintain your metallic tools.
-![](/assets/img/12/Pest-Control.jpg)
+
 With the right product, you can prevent or duce surface or metal corrosion. So, Rustoleum Rust Reformer is mainly made of water and tannic acid - treating rusting through chelation.
 The chelation process will make possible bonding (molecular level) of the tannic acid with your
 [rusted metals](https://pestpolicy.com/how-to-remove-rust-from-large-metal-objects/)

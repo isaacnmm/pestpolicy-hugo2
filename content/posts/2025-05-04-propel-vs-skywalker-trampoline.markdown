@@ -29,7 +29,7 @@ In this section, I will take you through the differences and similarities of Pro
 In terms of safety, Propel Vs. Skywalker Trampolines are both safe options worth considering. Both feature excellent safety features to keep the user protected throughout.
 
 Propel trampolines have an enclosure net with an impact-absorbent system. They also have a safety net thats placed under the jumping surface to prevent slipping.
-![](/assets/img/03/Propel-Vs.-Skywalker-Trampoline-300x225.jpg)
+
 On the other hand, the Skywalker Trampolines also have safety enclosures. They also come with additional accessories like spikes and anchor straps.
 
 Other than that, instead of metal springs, the propel trampolines have bungee cords that eliminate pinching points or injuries. Propel trampolines also come with a sure lock safety pad and T-bracket technology for enhanced stability.

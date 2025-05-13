@@ -26,7 +26,7 @@ for Beginner Overweight Runners.
 ## 7 Best Shoes for Beginner Overweight Runners
 ### [1. New Balance Men's 990 V5 Sneaker](https://www.amazon.com/dp/B07L8L5KQF/?tag=p-policy-20)
 The New Balance 990 V5 is a road running shoe thats boasts of innovative features and technologies. Most overweight runners agree that the shoe is responsive and comfortable.
-![](/assets/img/04/Best-Shoes-for-Beginner-Overweight-Runners-300x200.jpg)
+
 The outsole features a durable Ndurance rubber compound thats located on the lateral area and heel section of the shoes outsole. The Ndurance rubber helps to extend the life of the shoe for a longer wear period.
 
 The outsole of the NB 990 v5 also utilizes a blown rubber compound that provides extra cushioning while protecting the shoe from abrasion. The outsole also delivers reliable traction and grip.

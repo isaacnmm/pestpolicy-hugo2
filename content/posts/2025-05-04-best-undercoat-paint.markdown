@@ -14,7 +14,7 @@ lastmod: 2025-05-07T12:21:25+03:00
 
 ---
 One of the reasons why you will end up having uneven painting is a failure to have the right undercoat. Before you go for that paint, you need to first establish the best undercoat paint to match it.
-![](/assets/img/12/Pest-Control.jpg)
+
 Apart from providing an even surface, an undercoat will richly influence the outcome of the topcoat.
 Other undercoats provide extra
 [protection either against rust](https://pestpolicy.com/how-to-remove-rust-from-metal-before-painting/)

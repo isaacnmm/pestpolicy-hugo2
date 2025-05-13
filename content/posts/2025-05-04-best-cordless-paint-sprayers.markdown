@@ -29,7 +29,7 @@ DEWALT XR System (Lithium Ion). You won't require thinking and will give excelle
 T
 he sprayer uses appropriate
 Spray Tips (the RAC X FFLP model) - actually one of the best cordless models with 500-2000 PSI.
-![](/assets/img/04/Best-Cordless-Paint-Sprayers-300x200.jpg)
+
 Graco Ultra-Cordless 17M363 is great for small interior projects that'll need extra finesse and detail. Additionally, it's simple and small for great DIY usage.
 Graco Ultra-Cordless 17M363 is great for DIYers and professionals or contractors for painting small projects. It is user-friendly for use by experts and novice painters like wood deck sealers.
 This sprayer will effectively reduce the time for spraying compared to using

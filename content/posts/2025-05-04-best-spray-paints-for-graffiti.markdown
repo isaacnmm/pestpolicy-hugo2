@@ -16,7 +16,7 @@ lastmod: 2025-05-07T12:21:25+03:00
 If youre looking for the best spray paints for graffiti, youre just in time for a great surprise.
 The paint must be true-to-color and with high staying power to make the
 mural wall, Street Art, or the graffiti job pop.
-![](/assets/img/12/Pest-Control.jpg)
+
 On
 [choosing paints](http://www.ced.berkeley.edu/downloads/pubs/facilities_mch/mch_spraypaint.pdf)
 , for a clean wall you'll use glossier paint and won't need to considered paint adherence.

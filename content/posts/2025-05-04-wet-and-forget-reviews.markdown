@@ -16,7 +16,7 @@ lastmod: 2025-05-07T12:21:28+03:00
 If you need to remove moss, mold, and mildew stains on your outdoor surfaces,
 [deck](https://pestpolicy.com/best-semi-transparent-deck-stain/)
 , driveway, and patio - you need a product that'll offer protection from harsh weather.
-![](/assets/img/12/Pest-Control.jpg)
+
 Wet and Forget is a useful product to remove stains (including mildew or mold), and you won't require excessive scrubbing, washing, or cleaning.
 With this product, you'll only require wiping, mild-rinsing, and spraying your cleaning agent to achieve that sparkling clean surface. So, do away with
 [pressure washing](https://pestpolicy.com/best-pressure-washer-for-paint-removal/)

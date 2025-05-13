@@ -17,7 +17,7 @@ lastmod: 2025-05-07T12:21:28+03:00
 What do baby fleas look like? Check these baby flea (larvae) videos, images, and pictures - check their color and size.
 - Flea larvae are worm-like, leg-less, off-white in color, and measure about  inches with a tiny head. You'll mainly find them during a[flea infestation](https://www.canr.msu.edu/ipm/uploads/files/Fleas.pdf)on second-hand furniture and pet sleeping.
 - *The short answer on "What do baby fleas look like?" has four distinct phases - pupal, larvae, eggs, and adults all look differentFlea larval stage measures between 2.8 mm to 4.9 mm. The larvae are worm-like, white, or semi-transparent in color. *
-![](/assets/img/166/466239200.jpg)
+
 *Fleas in the pupal stage look lumpy and crusty with an irregular shape plus have a silky cocoon. *
 *Flea eggs measure about anywhere from 0.04 millimeters plus have dry and smooth skin that is off-white. *
 [amazon bestseller="Best Flea Killer" items="2" template="table"]

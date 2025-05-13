@@ -16,7 +16,7 @@ lastmod: 2025-05-07T12:21:27+03:00
 In this guide, Ill show you how to remove paint from the metal door - paint that maybe landed there on purpose or from
 [errant paint drips and splatters](https://www.artcons.udel.edu/mitra/Documents/MITRA_Mediums_and_Additives.pdf)
 .
-![](/assets/img/12/Pest-Control.jpg)
+
 Water and soap definitely won't scrape off stubborn paint from the metal doors, doorknobs, hinges, and radiators. First, I would recommend using a
 [paint stripper for metal](https://pestpolicy.com/best-paint-stripper-for-metal/)
 to remove the paint leave the metal bare.

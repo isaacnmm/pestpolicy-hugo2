@@ -24,7 +24,7 @@ With so many options available, it's important to weigh the pros and cons of eac
 Adams Plus stands out as one of the most complete flea shampoos available. Its dual-action formula not only kills adult fleas, ticks, and lice on contact but also contains Precor, an insect growth regulator (IGR) that prevents flea eggs and larvae from developing.
 
 This breaks the flea life cycle for longer-lasting protection. The formula is enriched with skin-soothing ingredients including aloe vera, lanolin, and oatmeal, making it surprisingly gentle despite its strong flea-killing power.
-![](/assets/img/03/Best-Flea-Shampoos-for-Dogs-300x196.jpg)
+
 Many users report their dogs' coats become noticeably softer and shinier after use.
 
 Pros:

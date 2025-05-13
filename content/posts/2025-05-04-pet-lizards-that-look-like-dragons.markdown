@@ -31,7 +31,7 @@ The
 , scientifically called
 *Pogona vitticeps,*
 is an intermediate lizard that looks fiercer and resembles tiny dragon. It has mild personalities and doesnt post much threat to humanity  they are friendly in nature and enjoy much interaction with people as well as love close attention.
-![](/assets/img/03/Pet-Lizards-That-Look-Like-Dragons-300x200.jpg)
+
 When fully grown, Breaded dragon measures 60 cm or 2 feet long and can live for 5 to 10 years when taken care of well. Normally, Bearded Dragon is omnivore. It can feed on fruits and
 [vegetables](https://pestpolicy.com/can-bearded-dragons-eat-tomatoes/)
 as well as dust insects (crickets) with high calcium level. When trained, some bearded dragon can feed on dead insect mixed with fresh vegetables.

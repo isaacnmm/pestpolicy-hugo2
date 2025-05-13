@@ -23,7 +23,7 @@ To get the desired quality of cut in rough terrain, consider buying a product wi
 ### [1. Mowox MNA152613 walk behind zero turn mower](https://www.amazon.com/dp/B07B56KXP6/?tag=p-policy-20)
 This product made it to this list due to its ingenious and versatile nature. The Mowox MNA152613 provides the capabilities of a zero-turn mower packaged in a typical push mower and at a low price too.
 
-![](/assets/img/e/ir)
+
 The zero-turn capability of this model is made possible by a conveniently positioned front wheel, which is capable of rotating at 360 degrees. This allows the user a turning radius of zero degrees.
 This unit is powered by a 163cc Briggs and Stratton Engine, which is capable of powering the blades through wet and dry grass with relative ease - check these
 [best mowers for damp grass](https://pestpolicy.com/best-lawn-mowers-for-wet-grass/)
@@ -43,7 +43,7 @@ Cons:
 ### [2. Husqvarna Z254 54" Zero-turn mower](https://www.amazon.com/dp/B07CJN8W4V/?tag=p-policy-20)
 In addition to its cutting edge design, this Z200 series offers exceptional performance because it lets you trim 5 acres of lawn in an hour effortlessly.
 
-![](/assets/img/e/ir)
+
 The Husqvarna Z254 is powered by a powerful 747cc Kohler engine, which is just what you need for mowing that hilly lawn.
 This unit offers you a cutting deck of 54 inches, which provides that extra edge when mowing large lawns. With a maximum speed of 6.5mph, this unit is both fast and efficient. Its 26 HP twin cylinder engine effortlessly cuts grass in rough terrain.
 Husqvarna Z254's mowing deck is adjustable, allowing the user to change the cutting height for up to 6 positions. This unit's cutting deck is made of reinforced steel, which gives the tool exceptional cutting strength. Its blades are highly durable and designed for last for years.
@@ -63,7 +63,7 @@ Cons:
 ### [3. Ariens 915223 52" Z-turn mower](https://www.amazon.com/dp/B0713T2LB7/?tag=p-policy-20)
 The Ikon-X zero turn lawn mower is a powerful equipment that features a 726cc engine. This unit offers outstanding performance even in rough terrains. This Ariens series is designed to be a powerful, durable, and commercial grade.
 
-![](/assets/img/e/ir)
+
 The Ariens 915223 cutting ability is unmatched. The tool has an adjustable height of 4.5 inches. Its three blades offer a neat cut for both medium and large size tasks.
 This unit features a 23 HP twin-cylinder Kawasaki engine, which is sufficient to carry out all medium size lawn maintenance tasks. What's more? Its engine offers a smooth, quiet and outstanding performance.
 This unit offers you 7mph forward speed and a reverse speed of 3mph. A cruise control function allows you to select your preferred speed. This Ariens series 52" cutting deck is thick and highly durable. It is made out of 11-gauge steel, which guarantees unparalleled deck strength and stability. In addition to standard-issue armrests, a padded seat provides user comfort during use.
@@ -79,7 +79,7 @@ Cons:
 ### [4. Troy-Bilt 50xp](https://www.amazon.com/dp/B07BTRGKQJ/?tag=p-policy-20)
 If you are looking to tackle a lawn with irregular terrain, this unit will give you exceptional performance at the rate of 2.5 acres per hour.
 
-![](/assets/img/e/ir)
+
 One of the most outstanding features of this zero turn mower is its slim and black design. Its compact design is streamlined and unmatched as compared to others in the market. This aids in maneuverability and storage of the equipment when not in use.
 The durability of this unit is evidenced by the highly durable and heavy-duty nature of the frame and the front axle. Also, the unit's blades are made out of reinforced steel, which is just what you need for that unforgiving terrain.
 Despite this unit's high-performance capabilities, it offers a smooth and quiet user experience. A high back padded seat provides the user with some additional comfort during usage. Check these
@@ -98,7 +98,7 @@ Cons:
 ### [5. Troy-Bilt Mustang 42" zero turn mower](https://www.amazon.com/dp/B01C08MPUW/?tag=p-policy-20)
 This 42 inches zero turn mower offers you excellent maneuverability around trees, flower beds, and other obstacles with ease while still getting the job done efficiently.
 
-![](/assets/img/e/ir)
+
 Whether you are working on a residential lawn or engaging in professional landscaping.
 The relatively large mowing deck of this unit will allow you to mow through that small or medium-sized lawn smoothly and in no time.
 This tool offers you nine adjustable cutting heights and a forward of 7 mph. This unit's 679cc engine is powered by a hydrostatic transmission and is just what you need for slightly hilly yards.
@@ -116,7 +116,7 @@ Cons:
 ### [6. Husqvarna MZ61 61" 27HP zero turn riding mower](https://www.amazon.com/dp/B00IE6Z0PW/?tag=p-policy-20)
 Equipped with a large cutting deck and a monster engine (Briggs & Stratton V2 engine), the MZ61 is a mowing powerhouse. Its engine performance is one of the highest-rated among zero-turn mowers.
 
-![](/assets/img/e/ir)
+
 Also, its weight is just right for high terrain, which guarantees user comfort and reliability during use.
 The MZ61 series has a large and durable 61" cutting deck with a three-blade cutting system, which is ideal for both medium and heavy-duty tasks. With this model, no portion of the lawn will be left unattended regardless of the terrain.
 This unit's engine has a high displacement allowing to fuel 5 gallons of gas at a go. This is just what you need for that uninterrupted mowing session.
@@ -134,7 +134,7 @@ Cons:
 ### [7. Cub Cadet RZT-SX 54 Zero turn mower](https://www.amazon.com/dp/B07CJN8W4V/?tag=p-policy-20)
 The Cub Cadet RZT S 50s best feature is its 23 HP 725cc engine which is highly durable and easy to maintain.
 
-![](/assets/img/e/ir)
+
 This four-wheel steer zero turn mower also features an advanced zero-turn lap bar technology and an easy push button electric start technology.
 In place of a lap bar for steering this unit's rear wheels, this Cub Cadet zero-turn mower has an all-wheel-drive steering capability. This feature helps in control on uneven terrain and hilly areas.
 The RZT S series mowing deck has an adjustable deck cutting width of 54," which can be conveniently accessed through the electronic fingertip engagement.

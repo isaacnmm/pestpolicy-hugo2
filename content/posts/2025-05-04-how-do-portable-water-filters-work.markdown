@@ -14,7 +14,7 @@ lastmod: 2025-05-07T12:21:27+03:00
 
 ---
 How do portable water filters work? You can make your water potable or drinkable.
-![](/assets/img/img/)
+
 The methods include water treatment and water filtering including
 [emergency water purifiers](https://upurifywater.com/best-portable-water-purifier/)
 to use during camping or exploration missions.

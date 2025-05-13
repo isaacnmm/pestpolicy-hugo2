@@ -31,7 +31,7 @@ The critical hardware improvements that could do in the future include:
 - Improve the I/O, such as incorporating USB 3.0. ports in place of the current USB 2.0.
 Read Also:
 [Power Supply for Raspberry Pi 3](https://pestpolicy.com/best-power-supply-raspberry-pi-3/)
-![](/assets/img/img/)
+
 ### Networking
 On-board LAN was a critical aspect of the Raspberry Pi Model 3 that required a significant overhaul.
 The model 3 B+ now has the 10/100/1000 Gigabit LAN controller as opposed to just the 10/100 controller. Therefore, the in-build port will not be capped at 100 Mbps (practically ~93 Mbps). Model 3 B+ will thus give you more bandwidth, and you won't need gigabyte networking like before.

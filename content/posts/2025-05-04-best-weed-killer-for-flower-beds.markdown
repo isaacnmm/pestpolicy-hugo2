@@ -24,7 +24,7 @@ What makes it even harder are those pesky, recurring wild weeds that grow back n
 The Compare-N-Save weed killer is a strong wild grass and weed terminator with its fast affecting components.
 
 It is strong enough to rid your garden of almost all types of wild grasses and weeds, such as quack grass, chickweed, Bermuda grass, broadleaf weeds, bushes, purslane, spurge, nutsedge, crabgrass, among many others.
-![](/assets/img/04/Best-Weed-Killer-for-Flower-Beds-300x200.jpg)
+
 One of the best features of this weed-killing solution is that it kills the weeds and grass at their roots, saving gardeners the time and effort of having to apply it from the leaves down. This is possible because of the 41% glyphosate present in the solution, which gets absorbed by the weeds and grass, killing them at the roots.
 
 Another great aspect of this solution is that it mixes very well with water; you can mix 3 tablespoons of this liquid in a gallon of water, and it will still be strong and efficient enough to kill the weeds that show up in your lawn.

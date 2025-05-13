@@ -29,7 +29,7 @@ blood allow them to lay eggs - reproduce.
 ## When Do Bed Bugs Die If There is no Blood Meal?
 Adult bed bugs will survive or live for about 400+ days without taking that blood meal (human contact) - but at the low laboratory temperatures.
 - However, the bed bug nymphs will die within 1-5 months if they don't get that blood meal. Further, the females won't reproduce without taking the blood meal.
-![](/assets/img/03/Lifespan-of-a-Bed-Bug-without-Blood-300x200.jpg)
+
 The bed bugs will molt to their next stage if they acquire a blood meal - this is to complete that life cycle - but they must also have the right temperature.
 - So, on how the bed bugs will survive or live without that blood meal, the answer depends on the bed bug's age. For example, age affects if the bed bug stage is resistant to temperature variations and[specific pesticides](https://pestpolicy.com/best-fogger-for-bed-bugs/).
 The bed bugs that are newly hatched such as the Nymphs - will require to feed soonest (and very often) so that they can molt into adults - but that stage can survive for a number of weeks without that crucial blood meal.

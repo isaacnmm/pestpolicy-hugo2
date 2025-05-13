@@ -17,7 +17,7 @@ lastmod: 2025-05-07T12:21:26+03:00
 [Diatomaceous Earth (DE)](https://pestpolicy.com/diatomaceous-earth/)
 is an effective and equally safe way to kill various pests and insects, including fleas and bed bugs.
 DE is made up of tiny fossilized remains of diatoms (a form of algae). DE won't kill fleas immediately, like the contact killers, but its benefits far outweigh the expected wait time.
-![](/assets/img/img/)
+
 When crushed, Diatomaceous Earth powder has sharp edges (microscopic) safe for you and your pets but is fatal on pests like fleas. The razor-sharp edges in DE will break the
 [fleas' exoskeletons and kill](https://pestpolicy.com/does-the-dryer-kill-fleas/)
 them through dehydration.

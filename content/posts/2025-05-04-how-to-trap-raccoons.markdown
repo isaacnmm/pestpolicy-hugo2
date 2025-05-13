@@ -14,7 +14,7 @@ lastmod: 2025-05-07T12:21:28+03:00
 >
 
 ---
-![](/assets/img/img/)
+
 Quality raccoon traps, if used correctly, will give you high success rates.
 
 In this post, I've discussed how to trap raccoons. Check these

@@ -18,7 +18,7 @@ The best
 under 1000 impressive need flexibility (
 [for busking amp](https://pestpolicy.com/best-busking-amps/)
 ), build quality and playability. The guitar must be great for playing different music, including jazz or soul.
-![](/assets/img/img/)
+
 Acoustic guitars have a vibration body, and steel strings will work great for practicing,
 [recording](https://pestpolicy.com/best-mics-for-recording-acoustic-guitar/)
 , stage shows, & small gigs. Maybe its Taylor, Ibanez, Martin, PRS, or Fender?

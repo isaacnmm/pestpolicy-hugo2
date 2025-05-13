@@ -18,7 +18,7 @@ two-part epoxy
 ) is the best for garage floors - but give it a thin and well-mixed application. The
 [garage floor paint](https://pestpolicy.com/best-garage-floor-paint/)
 will allow a great home upgrade - eases cleaning and removes any gunk.
-![](/assets/img/12/Pest-Control.jpg)
+
 Particularly, oil stains tend to seep into the porous concrete and thus result in some slick residue - picking up dirt. You may use
 [latex paint](https://pestpolicy.com/what-is-latex-paint-used-for/)
 - it is cheaper but less durable and less chip resistant.

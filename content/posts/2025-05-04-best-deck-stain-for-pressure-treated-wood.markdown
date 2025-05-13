@@ -16,7 +16,7 @@ lastmod: 2025-05-07T12:21:23+03:00
 Whats the best deck stain for pressure-treated wood? There is a variety of deck stains and
 [sealers](https://pestpolicy.com/best-deck-sealer-for-pressure-treated-wood/)
 available to choose from - which leads to confusion.
-![](/assets/img/12/Pest-Control.jpg)
+
 I conducted some in-depth research while I am searching for a stain
 or primer
 for my deck.

@@ -14,7 +14,7 @@ lastmod: 2025-05-07T12:21:23+03:00
 
 ---
 If you're a beginner or expert painter/ artist hunting for the best acrylic paint for canvas, then relax you're in the right place.
-![](/assets/img/12/Pest-Control.jpg)
+
 Well, the canvas is a critical part of your art - but you must get the best to your
 [acrylic paints](https://sites.psu.edu/arwpassionblog/2018/04/26/acrylic-paint-pouring/)
 , your artwork, and style.

@@ -21,7 +21,7 @@ If you are a pro, you will clearly understand the challenges of painting non-pri
 ### [1. Rust-Oleum Flat Aluminum Primer-8781502 - Corrosion-Resistant](https://www.amazon.com/dp/B000C018C2/?tag=p-policy-20)
 For the best Galvanized Metal Primer, the flat aluminum primer will be a great deal for you. W
 hats fascinating about this primer is its resistant to corrosion and tough weather. This is to means that you can use it on both interior and exterior surfaces. It also works best on all galvanized steel and aluminum metals.
-![](/assets/img/04/Rustoleum-Galvanized-Metal-Primer-300x200.jpg)
+
 Being a water-based primer, it leaves behind both a protective and long-lasting coat that keeps your surface rust-free.
 This is only achievable through the excellent adhesion that makes it hold strong for longer no matter the condition it is exposed to.
 The gray color and flat finish will give your surface an incredible look. From its formulation, this primer has a low odor but that does not limit you from using protective gears when doing your spray.

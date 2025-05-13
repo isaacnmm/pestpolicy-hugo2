@@ -28,11 +28,11 @@ It would require a big brain for the small spiders to have such magnificent web-
 A recent
 [spider brain study](http://www.stri.si.edu/english/scientific_staff/staff_scientist/scientist.php?id=10)
 by Bill Eberhard analyzed 9 species of spiders across 6 web-weaving groups. The outcomes of the study was that the spider's body was inversely proportional to its brain size. Thus, smaller spiders have relatively larger brains.
-![](/assets/img/04/Do-Spiders-Have-Brains-300x200.jpg)
+
 In addition, for various spiders, their central nervous system occupied about 80% of their body spaces - it may also fill up the arachnid's legs as shown below. Check
 [how spiders evolved its spare legs](http://news.nationalgeographic.com/news/2011/06/110603-spiders-spare-legs-webs-science-animals/)
 .
-![](/assets/img/img/main-qimg-989c13245b39a0790c3c959e27c6d9ac)
+
 Further, the body of the spider, like
 *Leucauge mariana, *
 filled with its brain continue to grow and develop up to when it becomes an adult.

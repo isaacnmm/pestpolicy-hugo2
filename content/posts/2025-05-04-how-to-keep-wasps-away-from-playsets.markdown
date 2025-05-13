@@ -36,7 +36,7 @@ Our kids are scared to death to play on the playset. So, how do we keep Wasps Aw
 **, **
 *swings, slides, on the roof of the playhouse, among other areas. The wasps can literally attack any section of the playset and find a perfect resting point. This can be dangerous for you and your kids.*
 ## **So, How Do You Keep ****Wasps**** off- Details**
-![](/assets/img/img/)
+
 Well, I did some research online to find out what other people with wasp infestation are doing to end the menace.  I will discuss the methods I used plus those that other people have used and seen success.
 ### 1. Natural Insect Pest Control
 Use the following natural methods to repel wasp invasion.
@@ -74,7 +74,7 @@ Therefore, if you feel overwhelmed, you can contact your local pest exterminator
 Also Read:
 [Best Swing Sets for Small Backyards](https://pestpolicy.com/best-swing-sets-for-small-backyards/)
 ## How to Prevent Wasps from Invading Your Space
-![](/assets/img/img/)
+
 So how do you prevent the wasps from building their nests on the playsets or any other place in your backyard? Prevention is better than cure, thus, do the following.
 ### Maintain Cleanliness
 Ensure that you do regular cleaning around your backyard to prevent wasp invasion. Pick up fallen leaves, twigs, and dead branches and dispose of them properly.
@@ -95,7 +95,7 @@ Wasps flourish well in warm and dark places. The roofing of the playhouse in mos
 
 I replaced the solid vinyl roof canvas that the playset had come with with a heavy-duty vinyl mesh canvas. This new roofing allows natural light and air into the set.
 ## DIY Wasp Traps for Backyard Playsets
-![](/assets/img/img/)
+
 You can also make your own wasps trap using readily available material. These materials wont cost anything. Read on for easy DIYs on homemade wasp trap
 ### Paper Wasp Trap
 The idea behind this DIY Paper Wasp Trap is to come up with fake wasp nests using paper bags. Its pretty simple, I will also include a video to make the process much easier for you.

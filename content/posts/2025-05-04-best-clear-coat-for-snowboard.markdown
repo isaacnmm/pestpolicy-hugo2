@@ -14,7 +14,7 @@ lastmod: 2025-05-07T12:21:23+03:00
 
 ---
 If you're looking for the best clear coat for a snowboard, ensure that the surface can hold paint besides being clean.
-![](/assets/img/12/Pest-Control.jpg)
+
 So, you'll need to first sand your board beginning with the rough grit gradually going to the fine grit to make the surface smooth.
 So, maybe if you've applied water-based paint plus a Krylon spray paint, you may need to consider getting a quality clear coat for your snowboard. See Also:
 [Best spray paints for graffiti](https://pestpolicy.com/best-spray-paints-for-graffiti/)

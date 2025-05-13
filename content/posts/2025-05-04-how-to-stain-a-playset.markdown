@@ -107,7 +107,7 @@ If you feel that, you need to do more on the playset. You can apply a sealant on
 
 Next, attach back all the accessories you had previously removed from the playset. Your playset is now ready for use.
 [](https://yardkidz.com/author/dane_eyerly/)
-![](/assets/img/img/)
+
 ## Why Do You Need to Stain a Swing Set?
 You need to stain your swing set for the following reasons
 - To enhance the color and overall appearance of the swing set

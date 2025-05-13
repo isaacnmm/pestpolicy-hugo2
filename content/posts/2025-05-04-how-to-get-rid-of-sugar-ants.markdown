@@ -14,7 +14,7 @@ lastmod: 2025-05-07T12:21:27+03:00
 >
 
 ---
-![](/assets/img/img/)
+
 Sugar ants are tiny annoying insects and stubborn household bugs.
 
 Sugar ants are common during warm seasons when they come out of their nests to search for food.

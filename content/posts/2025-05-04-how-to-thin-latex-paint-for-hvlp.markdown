@@ -16,7 +16,7 @@ lastmod: 2025-05-07T12:21:28+03:00
 If you own a high volume low pressure
 [(HVLP) spray painter](https://pestpolicy.com/best-hvlp-paint-sprayer-for-latex-paint/)
 ; then, appropriate paint thinning is paramount in order to attain excellent paint flow rate and avoid spray gun blockage during the paint application process.
-![](/assets/img/12/Pest-Control.jpg)
+
 Often, wrongly thinned paint leads to nozzle blockage and a low-quality spray coat layer. Could you be having similar challenges and wonders how to thin paint?
 Well, in this article, we shall be discussing how to
 [thin latex paint](https://www.amazon.com/dp/B0002YOZZU/?tag=p-policy-20)

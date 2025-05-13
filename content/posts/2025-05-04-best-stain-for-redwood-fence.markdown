@@ -17,7 +17,7 @@ By reading this article on the best stain for the redwood fence, you will gain d
 Some of the vital considerations include the type of paint (water-based or oil-based?), color options,
 [types of fence paint sprayers](https://pestpolicy.com/best-airless-paint-sprayer/)
 , stain durability, water-resistant properties, redwood texture, and prevailing weather conditions.
-![](/assets/img/img/)
+
 Notably, buy a dustproof redwood stain that is simple to apply and affordable without sacrificing overall finish quality. To gain more in-depth insight, let us get into the redwood fence stain to
 [stain your fence](https://pestpolicy.com/best-fence-paints/)
 .

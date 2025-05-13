@@ -24,7 +24,7 @@ Also, it has a JD-SWITCH function and full vibration feedback. This post is a Zh
 Read Also:
 [Controller for Rocket League](https://pestpolicy.com/best-controller-for-rocket-league/)
 ## Zhidong Controller Review
-![](/assets/img/img/)
+
 ### Compatibility
 To use the controller on Windows XP, youll need to install the Offical driver for the Xbox 360 Controller.
 - Also, if you will be using version Android OS or above, youll need to have a device that supports the OTG function.

@@ -14,7 +14,7 @@ lastmod: 2025-05-07T12:21:24+03:00
 
 ---
 Since acrylic paints tend to be hard on hairbrushes, they need to be replaced often if you are not so diligent about cleaning up after use.
-![](/assets/img/12/Pest-Control.jpg)
+
 Given the wide range of choices in the market, picking the best paint brushes for
 [acrylic painting](https://pestpolicy.com/how-to-paint-wood-texture-with-acrylics/)
 is no mean fete.

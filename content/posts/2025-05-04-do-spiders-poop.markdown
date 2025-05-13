@@ -22,7 +22,7 @@ Most of us fear spiders (unless it's a pet spider) because
 - After drying, the spider poop may stain the surface, the floor, and the walls.
 ## Do Spiders Poop? Spider Droppings and Feces
 As summarized above, spiders will poop  (just like other animals) after eating their popular food; which is the tiny insects. The poop they release is simply body waste.
-![](/assets/img/03/Do-Spiders-Poop-300x200.jpg)
+
 - But spiders feed on tiny insects and they don't poop as often as large animals like mammals - which means that you might not catch the spiders in action releasing their body waste.
 The metabolic rate of spiders (like the
 [tarantula](https://pestpolicy.com/the-complete-guide-to-caring-for-a-cobalt-blue-tarantula/)

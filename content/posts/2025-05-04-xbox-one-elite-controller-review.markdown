@@ -24,7 +24,7 @@ Xbox One Elite beats its competitors due to its high customization capability.
 - For example, you can swap the magnetic D-pad and thumbsticks to achieve varied styles according to your prevailing gaming requirements.
 - Also, Xbox One Elite has some metal peddles that will provide an extra four buttons, which you can use to map different actions.
 It comes with 2 D-pads, two paddles, three triggers, and a micro USB cable (braided).
-![](/assets/img/img/)
+
 ### Quality Rubber and Metal Parts
 Further, the accessories are of high quality and durable. For example, magnetic thumbsticks have a high quality and will function effectively.
 > A notable customization feature of the Xbox One Elite is the Hair Trigger Locks that will allow you to shorten trigger travel to assist you faster shooting.

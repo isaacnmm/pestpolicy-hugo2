@@ -14,7 +14,7 @@ lastmod: 2025-05-07T12:21:28+03:00
 
 ---
 Rusting is a common problem that occurs on metal, especially iron-based metal if proper preventive measures are not taken into place. Rusting is more prone to a rainy/saline environment than a cool or warm climate. Therefore, when rusting occurs, its important to remove it and consider painting as one way of rust prevention. The most cumbersome process is rust removal. Could you be facing such a challenge?
-![](/assets/img/12/Pest-Control.jpg)
+
 *On how to remove rust from metal before painting -  you can either use citric acid, vinegar, commercial rust remover like Metal Rescue, baking soda Lemon and salt, or fresh potato and dish soap when removing rust from metal. Besides, the correct procedure and solvent preparation should be carried out according to instructions given before the actual paint application is done.*
 *Further, surface preparation and prepping is crucial before applying any rust removal chemical finish your DIY painting. Also, you must wear protective gear when carrying out rust removal to prevent any injuries from occurring. Importantly, stick to safety measures and precautions given to prevent health hazards or any environmental pollution. *
 ## Details: How to Remove Rust from Metal before Painting

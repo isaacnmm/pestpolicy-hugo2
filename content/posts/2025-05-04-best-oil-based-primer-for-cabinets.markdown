@@ -15,7 +15,7 @@ lastmod: 2025-05-07T12:21:24+03:00
 ---
 [Priming the surfaces](https://pestpolicy.com/best-drywall-primer-sealer/)
 of your cabinets prior to painting promotes better paint coverage - I recommend using the best oil-based primer for cabinets.
-![](/assets/img/img/)
+
 For a cabinet that's stained, you'll require to apply a minimum of two quality primer coats. Compared to oil-based primers, shellac-based primers dry fast and
 [won't have brush marks](https://pestpolicy.com/how-to-remove-roller-marks-without-repainting/)
 but not like.

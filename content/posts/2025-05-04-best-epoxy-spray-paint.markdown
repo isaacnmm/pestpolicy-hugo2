@@ -18,7 +18,7 @@ The Best Epoxy Spray Paint should be capable of extending the lifespan of your s
 , and
 [rust](https://pestpolicy.com/rustoleum-rust-reformer-review/)
 .
-![](/assets/img/12/Pest-Control.jpg)
+
 Our picks are the best in the market based on their permeability chemical resistance, bond strength, and longevity.
 Read on if you are concerned about keeping moisture, heat, and harmful chemicals away from your porcelain and
 [fiberglass surfaces](https://pestpolicy.com/best-fiberglass-boat-cleaner/)

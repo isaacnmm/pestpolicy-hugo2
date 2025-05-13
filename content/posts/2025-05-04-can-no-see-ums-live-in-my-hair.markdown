@@ -23,7 +23,7 @@ For starters; no see ums are also known, by different people and regions, as pun
 ## Can No-See-Ums Live in My Hair?
 When I was in Hawaii on vacation, no-see-ums tangled into my daughter's hair. We had to change her hairstyle into a gelled and short one as advised that it's best to avoid these bugs.
 Therefore, walking through or sleeping in some wooded areas may allow the no-see-ums to jump onto your hair as their pets will be hiding in saturated or decomposing logs, algae, and mosses.
-![](/assets/img/03/Can-No-See-Ums-Live-in-My-Hair-300x200.jpg)
+
 - The pests will be attracted to or by carbon dioxide or light and thus lighting torches through the wood may make you vulnerable to gnats within your clothes and hair.
 - No see ums may be described as[some tiny biting midges](https://pestpolicy.com/can-no-see-ums-live-in-my-hair/)looking like flies as they'll bite humans to leave an itchy feeling.
 Despite that these bugs (insects) aren't invisible, they are small almost equal to the size of lint or some grain of dirt.

@@ -16,7 +16,7 @@ lastmod: 2025-05-07T12:21:24+03:00
 The best paint for outdoor wood furniture and outdoor decks can be sprayed using your
 [deck stain sprayer](https://pestpolicy.com/best-deck-stain-sprayer/)
 - to shield you from extreme weather - including severe humidity and extreme heat.
-![](/assets/img/img/)
+
 On prep work, before
 [spray painting](https://pestpolicy.com/best-paint-sprayer-for-fence-stain/)
 the furniture, ensure to clean the outdoor wood. For painting your outdoor plastic furniture, you can special paint - not the one for metal, wood, or wicker outdoor furniture.

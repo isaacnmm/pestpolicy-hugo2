@@ -27,7 +27,7 @@ or
 NETGEAR AC1900/ EX6400 is an easy to use Wi-Fi range extender. Plug it in on an area with no or weak wireless internet signal, which could be your garage, basement, or even upstairs.
 T
 he device combines the 5 and 2.4 gigahertz bands allowing data transfer speeds of about 1.9 gigabits. This is a great bandwidth for the two channels compared to the EX6120 that only offers 1.2 gigabits for every second, allowing HD video streaming.
-![](/assets/img/04/Best-WiFi-Extender-for-Verizon-FiOS-300x222.jpg)
+
 Further,
 NETGEAR AC1900/ EX6400 offers FastLane technology (2.4 GHz plus the 5 GHz) that'll provide better bandwidth speeds through combining the two bands combining a single dual-band and more robust signal.
 Therefore, the wifi extender will be excellent in

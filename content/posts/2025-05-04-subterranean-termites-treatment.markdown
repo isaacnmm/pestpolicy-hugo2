@@ -30,7 +30,7 @@ such as termiticide hinders the termites from chewing your structures.
 Equally,
 [termite inspection costs](https://pestpolicy.com/termite-inspection-cost/)
 might be relatively high - also, termite fumigation is equally pricey. So, below I've discussed the best subterranean termites treatment available for your taking.
-### ![](/assets/img/03/Subterranean-Termites-Treatment-300x233.jpg)
+### 
 ### 1. Apply Liquid Termiticide
 Apply the liquid termiticide underneath and around the wooden or various structures - particularly on portions that termites may attack.
 In case you're dealing with new construction, I advise you termite-treat the foundation walls plus the graded soil before pouring your concrete slab. The termite "swarmers" shed its wings, drop off on the ground and get mates ready to create new colonies.

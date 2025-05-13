@@ -22,7 +22,7 @@ The Best Electric Tiller for Clay Soil is one such tool that is out there for yo
 ### [1. Sun Joe 2.5amp electric garden cultivator (Red)](https://www.amazon.com/dp/B01GUHKO3Y/?tag=p-policy-20)
 If you are looking for a lightweight electric tiller for clay soil, this model is the ideal choice for you. Sun Joe TJ599E-Reds electric-powered engine spares you the hassle of mixing oil and gas.
 
-![](/assets/img/e/ir)
+
 Whats more? You dont have to break your sweat starting this tiller due to the convenience of a push-to-start button.
 This model may not be as versatile as other Sun Joe tillers but it has unique features such as a light and compact frame which helps in portability for when you want to take it around with you.
 - Sun Joe TJ599E-Red has four steel blade tines powered by a 2.5amp motor.
@@ -44,7 +44,7 @@ Related:
 ### [2. Greenworks corded tiller](https://www.amazon.com/dp/B00D3KJN3O/?tag=p-policy-20)
 As far as corded tillers go, this 10-inch tool is powered by an 8 Amp electric motor, which is easily started through an easy to start button.
 
-![](/assets/img/e/ir)
+
 It features four 8-inch rotating tines, which is just what you need to scour through that thick clay soil.
 - These tines are also forward rotating, an important feature for helping you clean out any debris stuck in the blades.
 No gasoline is needed to power this units motor which makes it an excellent choice if you are an environmentally friendly gardener.
@@ -62,7 +62,7 @@ Cons:
 This is the ultimate tool to go for if you are looking for both an electric tiller and a cultivator.
 This unit is powered by a 120-volt motor and is a clean air choice so you dont have to worry about carbon emissions as you till your garden.
 
-![](/assets/img/e/ir)
+
 This Earthwise electric tiller features dual four-blade steel tines and generates enough power to plow through-hardened clay soils.
 With a cutting width of 11 inches and a tilling depth of 8 inches, the Earthwise corded 8.5-Amp does the hard work for you by optimizing your gardening efforts.
 - This units compact and sleek design will appeal to gardening enthusiasts' sense of style while providing excellent performance.
@@ -80,7 +80,7 @@ Cons:
 ### [4. Scotts TC70135S 13.5-Amp front-tine tiller](https://www.amazon.com/dp/B07JVKYC87/?tag=p-policy-20)
 This model was made into the list of the best tillers for clay soil because it features a superior and powerful 13.5-Amp engine which is just what you need till hardened grounds.
 
-![](/assets/img/e/ir)
+
 Its 6 adjustable tempered alloy tines allow you to plow through the hardened ground. A lifetime warranty on the tines guarantees you years of service.
 It has a tilling depth of 8 inches and is capable of cultivating width of 11-16 inches. Its flip-down back wheels are convenient for walking the tiller.
 This is the tool to go for if you are dealing with clay soil given its excellent run time, durability, and the fact that it generates higher power.
@@ -118,7 +118,7 @@ Cons:
 ### [6. Sun Joe TJ602E](https://www.amazon.com/dp/B01DTIC0ES/?tag=p-policy-20)
 This is one great tool that always steps up to the task when you need to get dirty in your clay soil garden. Powered by an 8-amp engine, this tiller/cultivator pulverizes soil by cutting through dirt at 300rpm.
 
-![](/assets/img/e/ir)
+
 This unit conquers the toughest grounds and will till for a depth of 8 inches and a width of 12 inches in no time.
 The Sun Joe TJ602E features height-adjustable wheels that ease maneuverability whereas a collapsible handle helps in convenient storage when the tool is not in use.
 This Sun Joe model provides maximum soil aeration and is ideal for preparing seedbeds. Its four steel tines are highly durable and are guaranteed to provide excellent performance over time.
@@ -135,7 +135,7 @@ Cons:
 ### [7. AAVIX AGT307 13 electric tiller/cultivator](https://www.amazon.com/dp/B01CVOVMFE/?tag=p-policy-20)
 One of the most outstanding features of this unit is its ability to shut down on releasing the handle. Its powerful motor-powered blades (120V/60hz) tame the hardest grounds without much difficulty.
 
-![](/assets/img/e/ir)
+
 This cultivator features four dual inches still tines with a tilling depth of 8.7 inches and a cultivation width of 12.6 inches.
 - This unit is fast which allows it to burst through tough grounds.
 - However, first-time users need to familiarize themselves with this unit. Some users recommend that pulling the tiller backward is the easiest way to conquer hard clay soil.

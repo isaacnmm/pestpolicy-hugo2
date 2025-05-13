@@ -16,7 +16,7 @@ lastmod: 2025-05-07T12:21:24+03:00
 Garden tillers
 [make land preparation easy](https://www.ch.nacaa.com/journal/2008/Mitchell%20Paper-tillagesdh.pdf)
 , efficient and less tiresome.
-![](/assets/img/img/)
+
 However, not all garden tillers are ideal for use by women gardeners.
 Since women have less muscle than men, they require a garden tiller or
 [harrows](https://pestpolicy.com/harrowing-guide/)
@@ -25,7 +25,7 @@ that is lightweight to allow easy operation. So, which is the best garden tiller
 ### [1. Mantis 7250-00-03 Electric Tiller - Best Tiller for Women](https://www.amazon.com/dp/B01DYB9KRK/?tag=p-policy-20)
 At only 20 pounds weight, mantis 7250 is perhaps one of the lightest garden tillers in the market. That makes it an ideal choice for women due to their less muscle.
 
-![](/assets/img/e/ir)
+
 Its an electric-powered tiller featuring a 540 W motor with an option for three speed selections. This motor transmits power to the tines through a worm gear giving it enormous strength to plough into hard and compact soil. Tines rotate at 240 rpm allowing you to achieve better tilling efficiency.
 Tines can dig up to 9-inch deep and 10-inch wide. Such a small width enables you to manoeuvre through tight spaces in your garden without damaging your crops. These tines have a curvy design to maximise the tiling efficiency. This allows for better soil drainage and aeration.
 Tines can be turned around to 2 or 3 inches to enable shallow digging or weeding. Since they are very sharp, they cut through the soil with minimal kicks.  Thus women gardeners can push it without much hustle.
@@ -44,7 +44,7 @@ Related:
 ### [2. Greenworks Cordless Cultivator](https://www.amazon.com/dp/B07JMR2HF1/?tag=p-policy-20)
 Women gardeners will find this tiller very helpful when taking care of their garden. If you have a medium garden, this is an ideal equipment for tilling.
 
-![](/assets/img/e/ir)
+
 However, its too powerful for a small flower bed and inferior for a large garden.
 With this cordless tiller, you dont have to worry about gasoline emissions or the hassle having extension cords.
 It draws its power from a 40 V lithium-Ion battery to deliver a high power for consistent tilling. When you charge the battery, it wont suffer memory loss.
@@ -67,7 +67,7 @@ Cons:
 ### [3. Earthwise Electric Corded Tiller TC70001](https://www.amazon.com/dp/B004H4X6Z6/?tag=p-policy-20)
 Earthwise TC70001 tiller gives you an easy an efficient way to cultivate your flower bed and small garden. Its a lightweight and compact corded tiller which can be utilized by women gardeners with ease and less fatigue.
 
-![](/assets/img/e/ir)
+
 It costs less than $100 making it one of the most affordable garden tillers.
 With its 8.5 A motor youre are sure of sufficient power to dig and turn the loose soil on your garden. Its also a powerful equipment for weeding. But you wont be able to dig hard and compact ground using this tiller.
 It has 4 steel tines capable of digging up to 8 inches deep and 11 inches wide. Thus it is possible to dig and weed between crops. If your aim is to loosen your soil for good aeration and drainage, Earthwise TC70001 will be a great companion.
@@ -85,7 +85,7 @@ Cons:
 ### [4. Earthquake MC43 Gas Tiller](https://www.amazon.com/dp/B079B23WVF/?tag=p-policy-20)
 This is a versatile equipment to help you with tilling, cultivation, weeding and mixing fertilizer. It has a compact and lightweight design which makes it ideal for individuals with less muscle such as women.
 
-![](/assets/img/e/ir)
+
 Its powered by 43 cc engine giving it an edge over its competitors in this class. The 6-10 inch tilling width allows you manoeuvre through tight spaces without damaging your crops. Digging speed can conveniently be controlled using the throttle control on the handle bar.
 The adjustable wheels enable you to set the tilling depth depending on how deep you want to dig. You can also adjust the wheels to allow for transportation from the store/garage to the garden.
 Earthquake MC43 is also compatible with the DK43 dethatcher which allows you to remove thatch  leaves, roots and stems from your lawn. Large amounts of thatch will
@@ -104,7 +104,7 @@ Cons:
 ### [5. Troy-Bilt TB146 EC Cultivator](https://www.amazon.com/dp/B0042ZCIWW/?tag=p-policy-20)
 With Troy-Bilt, you get to enjoy a reliable and efficient tilling experience. You dont require a lot muscle to use this tiller. Its 29 cc engine gives it a lightweight design making it easy for women gardeners to push.
 
-![](/assets/img/e/ir)
+
 The 4 cycle engine rotates the forward-rotating tines at variable speed giving you much leverage when digging. Each of the tine has 8 blades which penetrate 5 inches deep. Tilling width can be adjusted from 6 to 12 inches depending on where you want to dig.
 Tines are designed for digging, tearing and turning the soil especially when preparing for planting.
 It also comes with wheels for enabling and easing movement when digging and during transportation. Handles have a soft grip and can be folded to save space during transportation or storage.
@@ -121,7 +121,7 @@ Cons:
 ### [6. Mantis 7940 4-Cycle Tiller](https://www.amazon.com/dp/B00N6X9VY4/?tag=p-policy-20)
 Gardening gets better and enjoyable when you do your work with less tiredness. Mantis 7940 gives you the chance to prepare your garden, remove weeds and turn the soil with much ease and effectiveness.
 
-![](/assets/img/e/ir)
+
 Women gardeners will especially find it useful since it requires less muscle to push around.
 Powered by 25 cc Honda engine, this tiller will do a great of deal of your gardening chores. It spins the curvy tines at around 240 rpm allowing you to loosen the soil to enhance good drainage and aeration.
 With this equipment, you can dig up to 10 inches deep and 9 inches wide. That means it possible to pass through narrow spaces without damaging your crops. Tines can be adjusted to cultivate shallow depths.
@@ -139,7 +139,7 @@ Cons:
 ### [7. Earthwise TC70020 Cordless Tiller](https://www.amazon.com/dp/B07F9RS9LW/?tag=p-policy-20)
 Last but not least is the lightweight and cordless Earthwise TC70020, powered by a 20 V lithium battery. At only 9 pounds, this tiller requires less effort to push around when tilling. Women gardeners will find it very easy to operate.
 
-![](/assets/img/e/ir)
+
 The 20 volt lithium battery turns a powerful motor to propel the four durable tines. These tines dig up to 6 inches deep and 7.5 inches wide. This tiller is ideal for weeding and turning soil in your small garden, raised beds or flower beds.
 With its fast charger, you can charge the battery within a short time. Starting the motor is made easy by the single lever switch. Plus the handle has a soft grip which enables comfortable operation.
 Whats more, this tiller gives you an eco-friendly way of preparing your garden since no oil or gas is required.

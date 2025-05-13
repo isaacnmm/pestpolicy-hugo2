@@ -14,7 +14,7 @@ lastmod: 2025-05-07T12:21:28+03:00
 
 ---
 The paint application process doesnt only require a professional painter; having well-thinned paint is crucial in attaining the best quality paint finish.
-![](/assets/img/12/Pest-Control.jpg)
+
 If you get it wrong when thinning, chances are that you wont attain an excellent finish coat. Perhaps you are wondering how to undertake paint thinning?
 *On how to thin acrylic paint, start by selecting the tools & right material and preparing the surface to be used when thinning. You can thin acrylic paint by using water (for acrylic-latex paint), acrylic binder, paint thinner, or pouring medium.*
 *

@@ -23,7 +23,7 @@ Fleas will jump off from the cats and dogs to lays their eggs on pet bedding or 
 Flea eggs are translucent, oval-shaped objected that measure about 0.5 mm (0.02 inches). Females fleas lay average of 40 eggs daily in your yard or home - they'll
 [hatch within 2 weeks into larvae](https://pestpolicy.com/how-long-does-it-take-for-flea-eggs-to-hatch/)
 .
-![](/assets/img/04/How-to-Kill-Flea-Eggs-300x266.png)
+
 ### **1. Vacuum Carpets, Rugs and Floors **
 The surest way to control fleas eggs and adult fleas is vacuuming your rugs and carpeted areas - maintain a tidy and clean home. The
 [flea vacuum](https://pestpolicy.com/best-vacuums-for-fleas/)

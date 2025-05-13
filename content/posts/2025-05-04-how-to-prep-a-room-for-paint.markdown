@@ -14,7 +14,7 @@ lastmod: 2025-05-07T12:21:27+03:00
 
 ---
 Could be you need to paint your newly constructed room or carry out paint restoration to improve interior outlook impression. Then, its crucial to prep the room.
-![](/assets/img/12/Pest-Control.jpg)
+
 *On how to prep a room for paint, you will need to select appropriate material and tools for prepping, clean the room, and strip old paint before sanding the ceiling/walls to remove debris and surface roughness.*
 *Further, you are required to dust and wash the walls/ceiling (where appropriate), seal/repair the damaged ceiling/walls, polish the entire surface sufficiently to improve paint stickiness ability and reduce drain formation when painting.*
 *It would also help if you covered/protected the floor and other fixtures from paint staining during actual application. Notably, follow precautions and safety measures highlighted in this article to avoid injuries and other health hazards. See Also: Chemical Paint Remover for Wood.*

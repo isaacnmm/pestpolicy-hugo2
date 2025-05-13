@@ -14,7 +14,7 @@ lastmod: 2025-05-07T12:21:25+03:00
 
 ---
 The best spray paints for plastic will entirely transform the look and feel of your plastic objects or household items.
-![](/assets/img/img/)
+
 It'll easily revamp your house and yard chairs to gain or train a bold color. Check this guide on
 [how to paint plastic](https://pestpolicy.com/how-to-paint-plastic/)
 .

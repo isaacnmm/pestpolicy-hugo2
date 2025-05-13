@@ -23,7 +23,7 @@ bear numerous similarities, they exhibit notable differences that can distinguis
 ### **1. Appearance**
 **Mold:**
 Molds grow on damp surfaces as colonies of irregularly shaped patches. They can be seen on walls, floors, wallpapers, carpet, and wood, among other surfaces.
-![](/assets/img/03/Mold-Vs-Mildew-1-300x200.jpg)
+
 Depending on the species, the color of mold ranges from black, brown, green, blue, gray, yellow, or white.
 **Mildew:**
 [Mildew appears as a powdery](https://pestpolicy.com/best-fungicide-powdery-mildew/)

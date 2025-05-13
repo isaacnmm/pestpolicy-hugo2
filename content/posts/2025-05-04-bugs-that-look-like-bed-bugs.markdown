@@ -27,7 +27,7 @@ Dark brown or beige
 Among other bugs, bat bugs have the greatest resemblance to bed bugs. Perhaps only an expert can differentiate between the two using a microscope.
 
 You cant tell the difference by looking at their color or shape. One of the most notable difference is their hair on the thorax. Bat bugs have longer hair than bed bugs.
-![](/assets/img/04/Bugs-That-Look-Like-Bed-Bugs-300x180.png)
+
 While bed bugs feed on human blood, bat bugs feed on bat blood. However, in the absence of bats, bat bugs will feed on blood from other hosts including humans.
 - **Size:**3-5mm or  in
 - **Shape:**Oval

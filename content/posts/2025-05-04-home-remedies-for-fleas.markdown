@@ -28,7 +28,7 @@ To
 [get rid of fleas](https://pestpolicy.com/how-to-get-rid-of-fleas/)
 , I first recommend you use dawn dish soap to wet plus lathe your skin or pet's hair., Dish soap will reduce the surface tension of water and make the fleas drown.
 Further, dish soap tends to break the waxy layer in the respiratory system of fleas. Breaking the waxy layer in their trachea will allow water to go into the bug's respiratory systems.
-![](/assets/img/04/Home-Remedies-for-Fleas-300x200.jpg)
+
 The bugs will suffocate once the air is replaced by water - further, the dawn soap will block the fleas' spiracles. So, place a plate or dish and drop some dish soap - position a lit candle.
 The candlelight will attract the fleas from where they'll drop and suffocate into the soapy water on the plate. It acts as a trap for the fleas - they'll trap the fleas temporarily.
 - The dish soap created high viscosity in the water - trapping the fleas like glue to kill them.

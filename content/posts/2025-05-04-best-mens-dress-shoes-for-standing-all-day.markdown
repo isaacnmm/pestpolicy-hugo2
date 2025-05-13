@@ -14,7 +14,7 @@ lastmod: 2025-05-07T12:21:24+03:00
 
 ---
 If your job involves standing all day, you need comfortable and supportive footwear to take you through the day. Hence, in this article, I present Best Men's Dress Shoes for Standing All Day.
-![](/assets/img/img/)
+
 Being on feet for long hours can cause vein inflammation. Over time, the inflammation can progress to painful or chronic varicose veins.
 [Excessive standing](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4591921/)
 may also cause pain on joints, spine, knees, hips, feet, and

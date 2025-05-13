@@ -16,7 +16,7 @@ lastmod: 2025-05-07T12:21:26+03:00
 I was not always a woodwind player but I was thinking of the difference & similarities between English Horn (Cor Anglais) and
 [Oboe](https://pestpolicy.com/what-is-an-oboe/)
 - English horn vs Oboe.
-![](/assets/img/12/Pest-Control.jpg)
+
 Sadly, all I could think of was that they are both in the woodwind family, can found in the orchestra, and are all played using reeds.
 Well, I thought they were lame answers too! And so I got down to business researching. Read Also:
 [Laptop for Music Production](https://pestpolicy.com/best-laptop-for-music-production/)

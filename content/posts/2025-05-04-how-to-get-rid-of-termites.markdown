@@ -17,7 +17,7 @@ lastmod: 2025-05-07T12:21:27+03:00
 Know how to get rid of termites? Despite that, most homeowners prefer professional
 [termite extermination](https://content.ces.ncsu.edu/termites-biology-and-control)
 - particularly after a termite inspection - comprehensive steps for prevention and total termite extermination.
-![](/assets/img/12/Pest-Control.jpg)
+
 In summary, the most common technique includes
 [soil treatment](https://pestpolicy.com/soil-treatment-for-termites/)
 and

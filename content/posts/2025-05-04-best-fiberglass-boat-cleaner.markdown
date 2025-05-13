@@ -26,7 +26,7 @@ By reading this article, you will understand the different kinds of boat cleaner
 Star-Brite is a stain remover designed to stick longer on vertical services, making it easier for you to remove stains on the fiberglass without scrubbing.
 S
 tar Brite is designed with a formula that ensures minimal or no discharge of harmful acidic components and, therefore, safe for use on your fiberglass material.
-![](/assets/img/03/Best-Fiberglass-Boat-Cleaner-300x200.jpg)
+
 Similarly, Star Brite saves you time by loosening waterline, rust and leaf stains, fish blood, or other types of marine deposits and making it easy to clean them with minimum scrubbing. Additionally, strong formula incorporated in this cleaner is designed to help you remove stains fast.
 This cleaner is practically ranked the best for commercial fiberglass cleaning purposes alongside its environmentally friendly features formula. Using this cleaner will give your boat a new look making it both efficient and durable to serve you.
 However, this cleaner is known to produce a strong smell, and in case you are allergic, I recommend you put on a mask to avoid inhaling the strong fumes while cleaning.  It would help if you also took extra care to avoid contact with the aluminum product as it is highly reactive.

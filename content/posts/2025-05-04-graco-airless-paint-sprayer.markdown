@@ -17,7 +17,7 @@ Graco airless paint sprayer?
 First,
 [Graco company](http://www.graco.com/us/en/about-graco.html)
 is known for producing quality paint sprayers - both for DIYers and professional painters and handymen.
-![](/assets/img/img/)
+
 So, whether you're considering the best airless paint sprayers for contractors or home use, consider Graco Spayers - well, you need some
 [airless paint sprayer tips](https://pestpolicy.com/airless-paint-sprayer-tips/)
 .

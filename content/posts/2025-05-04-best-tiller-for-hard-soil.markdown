@@ -15,7 +15,7 @@ lastmod: 2025-05-07T12:21:25+03:00
 ---
 [Breaking new ground](https://pestpolicy.com/best-tiller-for-breaking-new-ground/)
 or tilling hard soil in your garden requires the right tools to make your work easier and perfect.
-![](/assets/img/12/Pest-Control.jpg)
+
 Thats where a powered tiller comes in.
 Though therere plenty of powered tillers, not all of them will work on hard soils. So, which the best tiller for hard soil.
 If youre going to tackle hard soil in your garden, you might want to look at this guide for the best tillers.
@@ -25,7 +25,7 @@ Related:
 ### [1. Champion Rear Tine Rototiller for Home Use](https://www.amazon.com/dp/B079CYGP6W/?tag=p-policy-20)
 You cant talk about rototilling machines without mentioning champion 19-inch tiller. Its a versatile rear tine tiller capable of tackling hard soils.
 
-![](/assets/img/e/ir)
+
 So, if youre looking forward to break a new ground, you wont go wrong with this equipment.
 Its powered by a 212 cc engine which powers the wheels and the tines. Tines get their rotating power through a gear-driven transmission from the engine. The engine has an option for both forward and reverse rotation to give you flexibility when tilling.
 The 13.8-inch tines are made from hardened steel which makes them ideal for hard soils. Plus the counter-rotation configuration helps in achieving effective tilling. Also, the self-propelled 13-inch tyres are agricultural grade featuring quality treads to enhance good manoeuvrability and traction.
@@ -43,7 +43,7 @@ Cons:
 ### [2. Southland SRTT212 Rotary Tiller](https://www.amazon.com/dp/B007ICK4U4/?tag=p-policy-20)
 When dealing with hard soils such as during ground breaking you require a powerful tiller to make tilling more efficient. Thats where a rotary tiller like Southland SRTT212 comes in place.
 
-![](/assets/img/e/ir)
+
 The unbroken lumps of soils and rocks might be very difficult to break and turn with conventional tillers.
 It is powered by a 212 cc engine which gives it sufficient strength to tackle hard soils. With its counter-rotating steel tines, southland SRTT212 attains up to 11-inch tilling depth and 18-inch tilling width. This makes it possible to remove weeds and upturn fresh soil.
 The 13-inch tyres are designed with heavy-duty materials to allow their use on tough terrains. They offer stability and good maneuverability on uneven terrain.
@@ -61,7 +61,7 @@ Cons:
 ### [3. Greenworks 27072 Corded Tiller](https://www.amazon.com/dp/B00D3KJN3O/?tag=p-policy-20)
 Whether you want to weed, dig or till your garden, greenworks corded tiller will be an ideal solution for you. It comes with a powerful and robust 8 Amp motor which rotates the 4, 8 inch tines.
 
-![](/assets/img/e/ir)
+
 Thus, you can dig hard grounds and remove stubborn weeds with ease. With the rotating tines you can achieve up to 5 inch tilling depth and 8.25 to 10 inch tilling width. Tilling depth can also be adjusted in case you are digging shallow soils.
 Greenworks gives you an environmentally-friendly way for tilling your garden since no fuel or gas is required. It has an easy to start mechanism which allows you to quickly get your machine to work unlike 4-cycle engines which need warming up.
 With the adjustable handle, it can be operated by individuals of any height. You can also fold the handle to enable convenient storage or transportation.
@@ -80,7 +80,7 @@ Related:
 ### [4. Mantis 7940 Garden Tiller](https://www.amazon.com/dp/B00N6X9VY4/?tag=p-policy-20)
 This is a versatile gas tiller for hard and tough soils. With its 4-cycle Honda engine you dont need to hire a giant tiller to break your hard ground. It has a compact and lightweight design which makes it easy to handle and manoeuvre through small spaces.
 
-![](/assets/img/e/ir)
+
 The curvy tines penetrate through hard soils to a depth of 10 inches chewing through any materials on the way. With the 9 inch width it is possible to till through delicate plants. These tines can be adjusted to dig 2 to 3 inches deep.
 Mantis 7940 is one of the lightest tillers yet very powerful. Its compact design and foldable handles allow easy transportation and storage.
 Whats more, Mantis 7940 is easy to start and you dont have to mix water with oil. Plus the lifetime warranty has your equipment covered in case of any fault or damage.
@@ -97,7 +97,7 @@ Cons:
 ### [5. Mantis 7250 Electric Tiller/Cultivator](https://www.amazon.com/dp/B000PDUC6Y/?tag=p-policy-20)
 If you have some tough tilling or new ground to break, you need a powerful tiller like the mantis 7250. Its a powerful electric tiller featuring a 540 W motor capable of ploughing through hard soils.
 
-![](/assets/img/e/ir)
+
 At only 21 pounds, this tiller gives you less hustle when manoeuvring or during storage. With its reversible tines you can till up to 10 inches deep and adjust the tines to 2-3 inches to cultivate the top soil.
 The nine inch tilling width makes it possible to manoeuvre through tight spaces. They rotate at 240 rpm making it possible to get through hard and compact soils.
 It has an easy push button which allows to start your machine with ease. The button is placed at the handle so that you dont have to bend or release the machine when starting.
@@ -115,7 +115,7 @@ Cons:
 ### [6. SunJoe TJ604E](https://www.amazon.com/dp/B01DTIC79Q/?tag=p-policy-20)
 Hard soils might prove too hard for typical electric tillers, but not for SunJoe TJ604E. No matter your type garden, this tiller will get through with deep and wide digging.
 
-![](/assets/img/e/ir)
+
 Its powered by a 13.5 amp motor to deliver a powerful torque for tackling challenging soil conditions. Whether your garden has rocky, compact or clay soil, SunJoe TJ604E will make tilling easier and more effective.
 The six steel tines rotate at 370 rmp penetrating 8 inches deep and 16 inches wide. This helps in slicing the soil to allow good aeration and drainage. These tines are also angled to make tilling and turning of the soil more efficient.
 It comes with 2 wheels which can be adjusted to 3 height positions to allow easy maneuverability on tilled soil. With its fold-able handles it easy to store or load in your track when transporting.
@@ -133,7 +133,7 @@ Cons:
 ### [**7. ****CRAFTSMAN 208cc Gas Powered Tiller**](https://www.amazon.com/dp/B07NWB3L7L/?tag=p-policy-20)
 Craftsman 208cc will be a perfect garden tiller for compact and hard soils such as when breaking new ground. Its equipped with a 208 cc engine which turns the 10 inch tines to give your soil deep and vigorous turning.
 
-![](/assets/img/e/ir)
+
 The counter-rotating tines are made of steel making them ideal for ground breaking. With this tiller you will dig up to 6-inch deep and 16-inch wide. The heavy duty shield covering the tines contains flying stones and debris to keep you safe.
 With its 13 x 5 tyres, your equipment wont get stuck on tilled soil. These are agricultural -grade tyres featuring large treads for stability and good traction on loose soil. They are also designed to minimize bounce and therefore enhance good maneuverability.
 Whats more, Craftsman 280 cc is a heavy tiller capable of tackling hard and compact soils. Its robust construction makes it durable and reliable over time.

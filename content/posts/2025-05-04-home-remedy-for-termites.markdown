@@ -23,7 +23,7 @@ like fipronil and imidacloprid is the most common termite-removal method.
 These insects, like damp wood and dry wood termites, can be
 [challenging and expensive to control](https://www.wikihow.com/Get-Rid-of-Termites)
 . So, how you treat the house for termites naturally?
-![](/assets/img/04/Home-Remedy-for-Termites-300x233.jpg)
+
 ### 1. Wet Cardboard Trap
 Do you corrugated boxes in the storage closet or garage? Then you have a great tool to make your termite trap. Termites love water plus cellulose - so the wet cardboard (contains cellulose) will attract the termites.
 1. Pick several cardboard pieces (flat strips), wet the cardboard, and position where you suspect a termite colony will pass or are already settled.
@@ -48,7 +48,7 @@ to protect your home and other built structures. Ideally, the perimeter barrier 
 - However, if not, you'll require to install your won barrier despite it being labor-intensive.
 - Jig small trenches around the house on the ground where you'll put your barrier.
 [caption id="" align="alignnone" width="600"]
-![](/assets/img/12/pest-solutions-365-full-perimeter-treatment.jpg)
+
 Image Source:
 [PestSolutions365](https://pestsolutions365.com//termites-101/full-perimeter-treatment/)
 [/caption]

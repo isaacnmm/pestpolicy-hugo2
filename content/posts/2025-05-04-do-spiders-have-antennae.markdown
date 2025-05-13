@@ -25,7 +25,7 @@ The short answer is
 . While spiders and insects are both arthropods, they belong to different classes: spiders are arachnids, and insects are classified as
 [hexapods](http://bohart.ucdavis.edu/)
 . One key difference between these two groups is their body structure, including their sensory organs.
-![](/assets/img/02/Mygalomorph-anatomy-dorsal-@3.jpg)
+
 Antennae are absent in spiders. Instead, they have other sensory systems that help them navigate their environment and detect prey. These features work differently from insect antennae but serve similar functions.
 ## Understanding Antennae: What Are They?
 Antennae are sensory organs found in many arthropods, including insects and crustaceans. They play a crucial role in detecting chemical signals, vibrations, and environmental stimuli such as temperature and humidity. Insects rely on their antennae to navigate their surroundings, find food, communicate, and detect potential mates.

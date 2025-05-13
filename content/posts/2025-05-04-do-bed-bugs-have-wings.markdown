@@ -75,7 +75,7 @@ but are  inches in size with a segmented and flattened body. Flea bites are itch
 Bad bugs are brown-colored insects that are highly comparable to bed bugs - but also have no wings. Also, bat bugs have heads that are covered with long hairs.
 Nasty bugs are oval-shaped and  inches in size, looking like the apple seed. Equally, bat bugs only have wing pads, and hence their "wings" are not functional.
 [caption id="" align="aligncenter" width="247"]
-![](/assets/img/uploads/default-image.jpg)
+
 Image Source:
 [*Minnesota *University](https://extension.umn.edu/biting-insects-and-insect-relatives/bed-bugs#bat-bugs-and-other-bed-bug-relatives-701110)
 [/caption]
@@ -86,7 +86,7 @@ humans, but they do bite on bats. You'll mainly get these
 that bats live - these include the attic or similar dark areas.
 ### 3. Carpet beetles
 Carpet beetles have red or orange scales on their black-patterned body. They have short antennae emerging from their hidden heads - when viewed over them.
-![](/assets/img/img/)
+
 These oval-shaped bugs 2 to 4 millimeters, which is about  1/16 inches. However, carpenter beetle, as opposed to bed bugs, has wings but will only take flight in the daytime.
 However,
 [carpenter bees don't bit](https://pestpolicy.com/do-carpenter-bees-bite/)

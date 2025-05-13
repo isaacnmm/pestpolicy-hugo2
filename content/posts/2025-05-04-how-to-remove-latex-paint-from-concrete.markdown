@@ -16,7 +16,7 @@ lastmod: 2025-05-07T12:21:27+03:00
 Unlike
 [oil-based solutions](https://pestpolicy.com/how-to-thin-oil-based-paint-for-spray-gun/)
 , removing latex paint (a water-soluble paint) from concrete is much more comfortable. However, if you apply the wrong paint removal method, then you may experience incomplete paint cleaning at the end of it all.
-![](/assets/img/12/Pest-Control.jpg)
+
 In this article, I've outlined how to remove
 [latex paint](https://pestpolicy.com/what-is-latex-paint-used-for/)
 from concrete using soapy detergent, power washer, paint-stripping chemical, scraper, Trisodium Phosphate, or sandblaster/paint grinder.

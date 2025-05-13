@@ -17,7 +17,7 @@ lastmod: 2025-05-07T12:21:29+03:00
 The
 [Queen Wasp](https://www.ncbi.nlm.nih.gov/pubmed/24219699)
 is a female wasp that has acquired full maturity, are mandated to lays eggs, and raise a new generation of wasps.
-![](/assets/img/img/)
+
 The queen wasp is specially fed and treated by worker wasps while resting.  It is not assigned any other duties.
 **How do you Identify a Queen Wasp? The simple answer to this is that, Queen Wasp is naturally larger than all other female workers and drones (males). **
 **This is due to special care given to the queen wasp by the workers. In addition, the Queen Wasp can either be red, brown, metallic blue, yellow or combined stripes of these colors. **

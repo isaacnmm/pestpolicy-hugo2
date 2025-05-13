@@ -14,7 +14,7 @@ lastmod: 2025-05-07T12:21:27+03:00
 
 ---
 Oil stain removal can be problematic to many especially when it occurs on a painted surface. Cleaning the stained area without affecting the background color may not be easier.
-![](/assets/img/12/Pest-Control.jpg)
+
 *Here's how to remove oil stains from wall paint; use Baking Soda, White vinegar, Ammonia, WD 40, or TSP (Trisodium Phosphate) (these products won't bleach or damage the painted surfaces). *
 *These compounds feature a unique chemical formula that breaks down the oil stains molecules (wet or dry paint) into a thick viscous fluid that is easier to clean. *
 *You will be able to eliminate oil stains from various surfaces/fabrics in a couple of minutes provided the right procedure, and precautions are taken into considerations. *

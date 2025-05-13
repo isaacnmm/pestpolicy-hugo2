@@ -15,7 +15,7 @@ lastmod: 2025-05-07T12:21:26+03:00
 ---
 The Challenge of removing old paints on different surfaces is a frequent thing of every day-to-day life. Often, people have devised many options to clean paints while others are still stuck.
 Perhaps you have used mineral spirits or have seen someone use it and wonders which other things can it be used for. Can mineral spirits kill germs, insects, or bleach paint?
-![](/assets/img/12/Pest-Control.jpg)
+
 *Well, YES, the mineral spirit is a petroleum-based compound that works effectively in paint removal. This solvent can also be used in degreasing, removing paint pills, paint prep, thinning paint, and stain removal.*
 *You can also use mineral spirits on surfaces such as automotive lacquer, sealed stones, finished furniture, wooden floor finish, a wood without a wax finish, bathtubs, tile, linoleum, laminated wood, sinks, wet paints as well as metal surface polishing.*
 *Mineral spirits come with numerous advantages such as transparent look, less toxic, less smelly, budget-friendly, more effective, and versatile all-around thinner. See Also: Can Goo Gone Remove Paint?*

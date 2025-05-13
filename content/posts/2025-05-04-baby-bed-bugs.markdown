@@ -66,7 +66,7 @@ It's important to note that it's possible to
 [see nymphs with the naked eye](https://pestpolicy.com/can-you-see-bed-bugs/)
 . An adult bed bug will be something like an apple seed in size (about 4.5mm), and it is red or brown.
 [caption id="attachment_6620" align="aligncenter" width="300"]
-![](/assets/img/img/)
+
 Bed Bugs Lifecycle. Credit: phdmc.org[/caption]
 The baby bed bugs-nymphs add about 0.5 mm of their size at each molting stage (of the five juvenile "nymph" stages). However, do not confuse a cluster of bed bug eggs (with each measuring about 1 mm) with the nymphs.
 At the 5th nymph stage, the baby bed bug is almost equal to their adult counterparts. But for more clarity, check out the

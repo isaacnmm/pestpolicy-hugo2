@@ -16,7 +16,7 @@ lastmod: 2025-05-07T12:21:25+03:00
 Most smartphone cameras have
 [inadequate shooting features](https://www.cnet.com/news/10-ways-a-point-and-shoot-camera-beats-your-phones/)
 .
-![](/assets/img/12/Pest-Control.jpg)
+
 But any
 [point and shoot camera](https://en.wikipedia.org/wiki/Point-and-shoot_camera)
 have optical zoom (changing the perspective of shots), larger in-built sensor, and a powerful flash (great for backlit/ low light environments).
@@ -54,7 +54,7 @@ Read Also:
 ### [4. Kodak PIXPRO Friendly Zoom FZ53-RD 16MP with 5X Optical Zoom](https://www.amazon.com/dp/B019XLL4F6/?tag=p-policy-20)
 This Pixpro FZ53 is a budget-friendly point-and-shoot camera that comes with a 5x zoom lens for any casual photo shooter. However, this camera has no wireless connectivity and could disappoint relatively on video and image quality.
 
-![](/assets/img/e/ir)
+
 The camera comes with plastic body build (230k-dot design) and is lightweight (about 3.7 ounces) with ISO sensitivity. Despite that most of us casual photographers may mainly tend to use the fully automatic mode, the camera also has manual controls.
 Through the EV compensation, its possible to darken or brighten your scenes. On digital stabilization, Kodak Pixpro FZ53 has the all-important anti-shake. In addition, it has Panorama, Movie, and Portrait among other modes.
 With the auto mode activated, its possible to toggle macro focusing after switching off the cameras flash. However, this camera only comes with a 2.7-inch LCD  which is relatively small, compared to other point and shoot cameras reviewed above.
@@ -65,7 +65,7 @@ Sadly, for continuous image shooting (particularly at 16 megapixels) youll have 
 Nikon L35AF Camera (popularly as Pikaichi  like great quality) is also a budget-friendly, portable, & durable point and shoot camera.
 
 It comes with a 35mm F/2.8 lens thats multi-functional, sharp and fast.
-![](/assets/img/e/ir)
+
 Also, it has an auto pop-up flash and an auto-focus system.
 I found it simple to use the L35AF camera  including using flash, focusing, or aperture setting. It has the AF spot at the model of its viewfinder  that also has the analog lever & diagram in showing the focus distance.
 You can set its ASA/ISO through turning the ring around the cameras lens. Its interestingly powered by 2 economical AA batteries  not the specialized types of batteries.

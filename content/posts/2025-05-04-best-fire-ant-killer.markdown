@@ -28,7 +28,7 @@ S
 ave yourself and
 [your garden or yard](https://pestpolicy.com/best-ant-killer-for-yard/)
 by getting the Ortho Orthene fire ant killer that will not only kill the existing ants but also prevent re-infestation in the future.
-![](/assets/img/03/Best-Fire-Ant-Killer-300x200.jpg)
+
 This contact killer consists of 50% acephate that only takes a few minutes to treat around 162 ant mounds and has a residual effect that lasts up to 6 months.
 It is very easy to use for garden owners who just have to pour one tablespoon of Ortho Orthene over the fire ant mound without the need to dissolve it in water. Its deep-reaching formula allows it to reach ants that are packed inside the mound and kills them too.
 Pros:

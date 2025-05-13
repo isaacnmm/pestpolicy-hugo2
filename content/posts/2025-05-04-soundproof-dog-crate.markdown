@@ -14,7 +14,7 @@ lastmod: 2025-05-07T12:21:28+03:00
 
 ---
 Did you know that your dog could be stressed or mentally detailed by boom sounds and noises like road traffic, trains, thunder, and fireworks?
-![](/assets/img/12/Pest-Control.jpg)
+
 Is your dog frequently hiding, howling, barking, drooling, whining, shaking, or panting?
 Does this really get on your nerves? Well, youll need to soundproof the dogs crate, closet, or room - to reduce the
 [noise levels](https://ehs.yale.edu/sites/default/files/files/decibel-level-chart.pdf)

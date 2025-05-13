@@ -15,7 +15,7 @@ lastmod: 2025-05-07T12:21:27+03:00
 
 ---
 Treating bed bug bites can become a problem if you dont act on them promptly.
-![](/assets/img/12/Pest-Control.jpg)
+
 Though hardly noticeable at first, these bites end up becoming irritable and embarrassing scars. So, how can you treat bed bug bite scars?
 **In summary, to get rid of bed bug bite scars, use (1) over-the-counter medications like corticosteroid creams and lotions, retinoid creams, Mederma advanced scar gel, vitamin E oil or (2) home remedies like baking soda, aloe Vera gel, and lemon juice.**
 ## Use Over-The-Counter Medications

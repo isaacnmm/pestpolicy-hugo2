@@ -15,7 +15,7 @@ lastmod: 2025-05-07T12:21:27+03:00
 
 ---
 Could you be asking yourself how long fruit flies live?
-![](/assets/img/img/)
+
 Do fruit flies bother you by
 [flying all over in your house and compound](https://pestpolicy.com/where-do-fruit-flies-come-from/)
 that you wonder when they will die?

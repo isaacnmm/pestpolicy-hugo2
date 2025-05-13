@@ -23,7 +23,7 @@ You need studio-grade headphones built for
 Coming at a low budget is this Sony MDRV6 headphone (Micro Dynamic Receiver)  with a 5 Hz to 30 kHz frequency response. In fact, the Sony MDRV6 offers a wider range thats appropriate for guitar amps.
 I
 tll give you a full-bodied sonic environment that will ensure you dont lose any musical nuances.
-![](/assets/img/03/Best-Headphones-for-Guitar-Amps-300x134.jpg)
+
 It has a non-detachable (10ft long) cable which will great for guitarists since they are normally fixated at one point in their playing.
 - With its 68 ohms impedance, this headphone will work with many of your audio devices and work excellently with the guitar amp.
 - Notably, sound engineers who love this over-the-ear MDRV6 are Gucci Mane & Paul Van Dyk  they are great for playing bass or guitar,[recording](https://pestpolicy.com/best-noise-cancelling-headphones/), and mixing.

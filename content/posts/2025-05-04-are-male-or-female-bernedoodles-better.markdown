@@ -99,7 +99,7 @@ A feeding schedule is necessary to avoid health problems. Obesity among dogs is 
 Typically, you want to feed puppies three times a day. Grazing should be allowed for up to three months.
 After this period, you should maintain a schedule. Dogs older than six months require two big meals daily. Experts recommend having set feeding times.
 This will condition your pet to be hungry during those times. Fully matured Bernedoodles may still be hungry after each feeding. In such cases, they may be allowed to graze but keep a close eye on them.
-![](/assets/img/img/)
+
 ## **What are the Best Grooming Habits? **
 Contrary to popular belief, Bernedoodles do not have fur on their bodies. They possess a
 [lot of hair](https://pestpolicy.com/best-dog-brush-for-short-hair-shedding/)

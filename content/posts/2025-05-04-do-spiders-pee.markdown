@@ -15,7 +15,7 @@ lastmod: 2025-05-07T12:21:26+03:00
 
 ---
 Do Spiders Pee? Animals, unlike plants, must all "urinate" despite undertaking the process in different ways. Urinating allow removal of unwanted salts, nitrogen, and also maintain water balance in their bodies.
-![](/assets/img/12/Pest-Control.jpg)
+
 In humans, the urination process starts in the kidney while the bladder stores the urine (nitrogenous urea waste plus water) in liquid form before its ejected.
 **So, do spiders pee? The short answer is, NO, spiders don't urinate like humans. But spiders poop-pee uric acid (from malpighian tubules akin to kidneys) that is semi-solid and won't dissolve in water. **
 **Simply, spiders won't deposit urine and feces separately like humans. Spiders release the waste in a combined form (feces plus urine) through the anus. **

@@ -16,7 +16,7 @@ lastmod: 2025-05-07T12:21:26+03:00
 ---
 [Spiders](https://www.sciencedirect.com/science/article/pii/B978012814043700025X)
 (in the Arachnida class) are feared by humans for their poisonous bites. However, most spiders are quite harmless - denoting their great diverse family of 38,000 known species.
-![](/assets/img/12/Pest-Control.jpg)
+
 Arachnids that closely resemble spiders include mites, ticks, and
 [scorpions](https://en.wikipedia.org/wiki/Scorpion)
 . We know that

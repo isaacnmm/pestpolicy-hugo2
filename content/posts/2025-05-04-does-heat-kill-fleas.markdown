@@ -17,7 +17,7 @@ lastmod: 2025-05-07T12:21:26+03:00
 Fleas are tiny
 [flat-bodied external parasites](https://pestpolicy.com/what-do-baby-fleas-look-like/)
 thatll feed on blood from mammals and birds.
-![](/assets/img/12/Pest-Control.jpg)
+
 Fleas will mainly hide floor cracks, beddings and furniture  and thus it is challenging to control them. But,
 *does heat kill fleas? *
 **In summary, YES, heat will kill fleas, their eggs, and larvae  particularly heat from steaming, laundering, dryers, professional heat treatment (Entotherm), and flea heaters. So, lets get into the details! **

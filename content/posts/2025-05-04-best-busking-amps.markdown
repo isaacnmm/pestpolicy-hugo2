@@ -14,7 +14,7 @@ lastmod: 2025-05-07T12:21:23+03:00
 
 ---
 I've always had a problem performing in front of large crowds. This is exasperated when there is limitless space on the performance stage.
-![](/assets/img/12/Pest-Control.jpg)
+
 Its no surprise I realized why buskers require an amp to undertake such tasks amazingly.
 The busting amps have a robust design, allows extensive playing hours, and amazing volume - check these best amps for busking.
 For your busking amp, consider amplifier power (is it battery-powered?) in addition to portability and reliability.

@@ -17,7 +17,7 @@ Cleaning
 [spray paint](https://pestpolicy.com/what-kind-of-paint-can-be-used-on-concrete/)
 from concrete may be cumbersome, especially if combined with other dried stains or contaminated materials. Stripping undercoat or single-layer paint is even more challenging.
 At times, you may even find yourself dislodging cement particles in the process of paint removal. Could you be facing similar problems or wonder how you can clean old spray paint?
-![](/assets/img/img/)
+
 *Here's how to remove spray paint from concrete - using TSP, Graffiti remover, soapy detergent & water, sandblaster, power washer, or paint stripper/thinner. These methods eliminate both wet and dried paint. *
 *
 *

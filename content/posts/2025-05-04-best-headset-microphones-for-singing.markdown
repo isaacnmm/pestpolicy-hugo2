@@ -17,7 +17,7 @@ For actors, dancers, and musicians - getting the best headset microphones for si
 These headset
 *mics *
 will also work well for speech and theatrical productions - Onstage (Portable).
-![](/assets/img/12/Pest-Control.jpg)
+
 So, your hands will be free to move here and there with limited restrictions as you performed on the stage.
 Get this mic for your cover bands, corporate, events, and church singing. Read Also:
 [What's the best camera for concerts](https://pestpolicy.com/best-camera-for-concerts/)

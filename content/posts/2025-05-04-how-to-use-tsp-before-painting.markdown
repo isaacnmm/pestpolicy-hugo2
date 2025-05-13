@@ -16,7 +16,7 @@ lastmod: 2025-05-07T12:21:28+03:00
 TSP (Na3PO4 - Trisodium Phosphate) is a detergent (an all-purpose cleaner) to clean wood, masonry, drywall, and plaster that also leads to
 [skin burns](http://greenhouse.ucdavis.edu/pest/fmsds/Trisodium%20phosphate.pdf)
 . You can use it for emergency cleaning, such as in removing soot in preparing for painting.
-![](/assets/img/img/)
+
 Due to its ability to dissolve and emulsify, TSP has
 [various uses](https://en.wikipedia.org/wiki/Trisodium_phosphate)
 , including heavy-duty cleaning, driveways preparation, paintbrush cleaning, paint stripping, and degreasing.

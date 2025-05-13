@@ -18,7 +18,7 @@ The Best Shoes for Box Jumps are the
 and
 [Reebok Men's Nano X1 Cross Trainer](https://www.amazon.com/dp/B08W5NGZCN/?tag=p-policy-20)
 . These two CrossFit trainers top my list for box jump shoes. They have excellent forefoot flexibility to allow unrestricted metatarsal movement. Thus, efficient jumping. They also deliver reliable traction and grip on both outdoor and indoor surfaces.
-![](/assets/img/img/)
+
 Besides these two trainers, I have included 5 others, which are also responsive, high performing, and reliable.
 
 Check out the detailed review below.

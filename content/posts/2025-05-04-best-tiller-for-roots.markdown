@@ -19,7 +19,7 @@ I've reviewed the best tiller for roots - including for chopping roots, weeds, o
 A right
 [tiller](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5543968/)
 gives you a consistent level and allows a uniform planting depth that eventually provides uniform germination for grass or vegetable.
-![](/assets/img/img/)
+
 For small land, you can use manual tillers but motorized tillers- like the
 [PTO tillers](https://pestpolicy.com/best-pto-tiller-for-the-money/)
 , are more appropriate for cultivating a more extensive garden, vegetable garden, or lawn. Read Also:
@@ -28,7 +28,7 @@ For small land, you can use manual tillers but motorized tillers- like the
 ### [1. Sun-Joe TJ604E 13.5-AMP 16-Inches Electric Garden Cultivator or Tiller](https://www.amazon.com/dp/B01DTIC79Q/?tag=p-policy-20)
 Sun-Joe TJ604E is the best tiller for roots - great things coming in tiny packages. It's suitable for tilling and cutting up roots in a small garden or lawn.
 
-![](/assets/img/e/ir)
+
 However, this 14-inch tiller will be easier in maneuvering. Luckily, it has smaller steel tines that'll give you a 10-inch tilling depth.
 Sun-Joe TJ604E
 is a self-propelling tiller that'll allow easier tilling. Therefore, the farmer will only require to guide their tiller alarming as opposed to needing to pushing it manually. You'll find this tiller a new tool, particularly during overly hot summer months.
@@ -50,7 +50,7 @@ Related:
 ### [2.Champion Dual-Rotating (19-Inch) Rear Tine Tiller](https://www.amazon.com/dp/B079CYGP6W/?tag=p-policy-20)
 Champion Dual-Rotating is a budget-friendly tiller that is available. It comes with 8 tilling depth plus the 19 tilling width pushed by the powerful 212cc engine to break up the hard soil.
 
-![](/assets/img/e/ir)
+
 Luckily, the
 Champion Dual-Rotating has adjustable tilling width. Therefore, you can get readily till in wide paths and narrow rows suing the same Dual-Rotating tiller.
 This tiller also includes four steel tines (13.8 inches), making the tilling process easier - flexibly switch between forward to reverse. The tines are also dual rotating, and thus they'll quickly break down the problematic soil and roots in your yard.
@@ -74,7 +74,7 @@ https://www.youtube.com/watch?v=7bedy6_ILTY
 The Dirty Hand Tools 106145 allows reversing - makes it easy to till tight spaces. The machine is heavy and will easily cut through
 old and tenacious sod.
 
-![](/assets/img/e/ir)
+
 The tiller makes it easy to rip
 out your old garden or
 [raised bed](https://pestpolicy.com/best-tiller-for-raised-beds/)
@@ -97,7 +97,7 @@ Cons:
 ### [4. YARDMAX YT4565 Dual-Rotating Rear Tine Tiller](https://www.amazon.com/dp/B06XQ5NGW2/?tag=p-policy-20)
 YARDMAX YT4565 is also a dual-rotating rototiller for excellent groundbreaking and tilling power.
 
-![](/assets/img/e/ir)
+
 The sturdy tiller provides top performance that's great for beginning or professional farmers and homeowners.
 YARDMAX YT4565 allow reverse rotation plus forward rotation that'll enhance soil tilling at greater soil depth. It has a 6.5-inch and 18-inch tilling depth and tilling width, respectively - increasing faster and more effective tilling.
 The tiller is one of the best tillers for roots - it has self-sharpening tines (13 inches in length), which makes it easier and cheaper to use the machine. Further, the 13-inch pneumatic wheels guarantee that the tiller will be fully maneuverable even for rocky terrain.
@@ -119,7 +119,7 @@ Cons:
 ### [5. Husqvarna TR317C, 17 in. 208cc Rear-Tine Tiller, CARB](https://www.amazon.com/dp/B07B163K5S/?tag=p-policy-20)
 Husqvarna TR317C is your perfect tiller for roots - both in rocky or clay soil terrains because its 208cc engine allows its times to cut through any hard or compact soil easily.
 
-![](/assets/img/e/ir)
+
 Also,
 the tiller has a tilling width of 18 inches, and hence you'll easily cover more ground or distance in a short time.
 Husqvarna TR317C has both forward and counter transmission, and thus any newbie or experienced farmer will easily till using the tool to cultivate with the forward-rotating tines. Therefore, I would recommend this Husqvarna TR317C for cutting or uprooting plant or tree roots - remember its an ear-tine tiller.

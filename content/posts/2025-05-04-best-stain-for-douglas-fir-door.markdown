@@ -26,7 +26,7 @@ you want to achieve upon application.
 Defy Extreme is a crystal clear wood staining product that features a robust water-based formula, allowing smooth penetration and more straightforward application using brush or sprayers.
 T
 he stain is manufactured in a beautiful liquid form that uniformly stretches to create a harsh coat with an impressive appearance.
-![](/assets/img/03/Best-Stain-for-Douglas-fir-Door-300x200.jpg)
+
 The stain is developed with a 100% acrylic component that makes it easier to clean. DEFY won't stain your hands during the application or mess up your clothes on contact  you can wash easily with soap and water.
 Moreover, Defy is fortified with Zinc nanotechnology, reflecting the sunlight, thus protecting your door from UV radiation. Further, the stain forms a durable membrane that will not only prevent your door from scratch but also resist graying and fading.
 The Low maintenance product is VOC compliant and can be applied directly without sanding and stripping the door surface. The stain is also packed in a relatively large container (3.785 liters) to serve you over a large surface area.

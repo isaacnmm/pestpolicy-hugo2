@@ -16,7 +16,7 @@ lastmod: 2025-05-07T12:21:27+03:00
 Whether it's
 [concrete walls paint](https://pestpolicy.com/best-paint-for-concrete-walls-in-basement/)
 , acrylic, or latex paint, proper procedure, and thinning chemicals should be used to attain excellent paint removal from Brick.
-![](/assets/img/12/Pest-Control.jpg)
+
 *On how to remove paint from brick; use either Trisodium phosphate (TSP), paint stripper/thinner, soda blasting method, paint scraper and thinner, or by use of power washer.*
 *Besides, you can opt to use an absorbent paint stripper, sandblaster or paint grinder, pressure washer, or you consider a  stripping chemical. *
 *Each paint removal method has a certain administration procedure (in this article), you must stick to details and instructions given or otherwise advised by the manufacturer. *

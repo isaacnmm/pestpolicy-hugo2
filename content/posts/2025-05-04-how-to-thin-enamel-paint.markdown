@@ -17,7 +17,7 @@ If you are a paint enthusiast, then you must have used enamel paint in one way o
 [enamel paints](https://pestpolicy.com/enamel-vs-latex-paint/)
 .
 But most paint users face challenges when thinning (one may over dilute or even thin insufficiently). Improper thinning affects the overall finish quality and may subject the surface to peeling, chipping, or scuffing with time.
-![](/assets/img/12/Pest-Control.jpg)
+
 *In this regard, we shall be discussing how to thin enamel paint. First, youll need to have the right thinning items, check on the prevailing weather conditions, choose an ideal thinning location, and select the correct paint thinner.*
 *Besides, you will require to measure the right amount of thinner about the quantity of enamel paint, then stir the mixture appropriately before testing the thinned paint to ascertain the coat quality. Remember, enamel paints are manufactured in different varieties. Therefore, not all thinners work for any enamel paint (you need to be cautious when selecting thinner to use on a particular enamel paint).*
 *Importantly, you should always wear protective gear (gloves, respirator, facemask, and overall) when thinning since enamel paint may release toxic fumes harmful to human health. *

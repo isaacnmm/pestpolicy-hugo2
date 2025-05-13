@@ -14,7 +14,7 @@ lastmod: 2025-05-07T12:21:24+03:00
 
 ---
 Whats the best paint stripper for wood? The most important part of the wood painting is preparing the surface because it determines the quality of the finishing.
-![](/assets/img/12/Pest-Control.jpg)
+
 Making the decision to remove old paint from wood can be a daunting task with the availability of several paint stripping methods. The
 [paint stripper](https://archive.epa.gov/airquality/community/web/html/paint_stripping.html)
 should be capable of spicing up old wood and making your work easier to apply a new coating.

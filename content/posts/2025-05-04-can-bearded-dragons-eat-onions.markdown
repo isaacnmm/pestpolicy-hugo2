@@ -27,7 +27,7 @@ Onions (scientific name
 ) usually contain toxic substance which when eaten by Bearded Dragon, it toxifies the alimentary canal leading to digestion problems such as incomplete digestion,
 [vomiting and burning sensation](https://www.vetexotic.theclinics.com/article/S1094-9194(16)30081-0/abstract)
 .
-![](/assets/img/03/Can-Bearded-Dragons-Eat-Onions-300x200.jpg)
+
 You will notice mixed reaction when you feed your beard dragon with onions due to colorless steam produced by fleshly cut onions. These steam emissions from onions usually make your
 [pet bearded dragon](https://pestpolicy.com/pet-lizards-that-look-like-dragons/)
 to even shed tears (though they dont cry like human beings do).

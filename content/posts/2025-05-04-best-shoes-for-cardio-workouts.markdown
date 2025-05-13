@@ -24,7 +24,7 @@ Explore my selection and make an informed buying choice.
 ## 7 Best Shoes For Cardio Workouts
 ### [1. APL: Athletic Propulsion Labs Women's Techloom Phantom Running Shoe](https://www.amazon.com/dp/B01LX4VO97/tag=p-policy-20)
 The APL: Athletic Propulsion Techloom Phantom is one of the best womens shoes for cardio workouts. Most women love the support, style, comfort, high performance, and durability of these sneakers.
-![](/assets/img/04/Best-Shoes-for-Cardio-Workouts-300x168.png)
+
 The sneakers feature Techloom uppers that deliver a 4-way stretch design that stretches to accommodate the shape of the foot for a comfortable fit. The upper also has a 3D grid pattern that reinforces the top to provide the wearer support.
 
 In addition, This cardio shoe also boasts a Propelium midsole and outsole that provides cushioning for enhanced comfort. The heel section has a pull-tab that makes wearing or removing the shoe easy.

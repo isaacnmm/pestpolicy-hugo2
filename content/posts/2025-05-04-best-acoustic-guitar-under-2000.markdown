@@ -16,7 +16,7 @@ lastmod: 2025-05-07T12:21:23+03:00
 You're here since you're looking for a great acoustic guitar. So, relax, you're right on time for my review best acoustic guitar under 2000 and suitable
 [recording mics](https://pestpolicy.com/best-mics-for-recording-acoustic-guitar/)
 .
-![](/assets/img/12/Pest-Control.jpg)
+
 So, what do you check among the high-end guitars? First, check the body style to ensure that the acoustic guitar doesn' fee too small or too big.
 ext, how's the guitar's projection or a resolution - clear when played loudly? How are the low or high tones? Take no visible physical flaws - even for
 [cheap acoustic guitars](https://pestpolicy.com/best-acoustic-guitar-under-500/)

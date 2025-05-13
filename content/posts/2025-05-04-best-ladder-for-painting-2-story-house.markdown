@@ -16,7 +16,7 @@ lastmod: 2025-05-07T12:21:24+03:00
 Whats the best ladder for painting 2 story house?
 [Painting 2 story house](https://www.wikihow.com/Paint-a-House)
 may be challenging especially when it comes to reaching the roof or ceiling of your house at ease without any accident.
-![](/assets/img/12/Pest-Control.jpg)
+
 Ladders are designed with various features that call for keen selection to suit the job at hand.
 Perhaps youre stuck and wonders which ladder would fit your house-painting task without hassle among many brands in the current market. See Also:
 [Heres how to stain a deck](https://pestpolicy.com/how-to-stain-a-deck-for-the-first-time/)

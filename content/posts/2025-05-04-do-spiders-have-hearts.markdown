@@ -17,7 +17,7 @@ lastmod: 2025-05-07T12:21:26+03:00
 Spiders, being over 48,000  species, are an essential section of the earth ecosystem. These arthropods possess the
 [open circulatory system](https://link.springer.com/chapter/10.1007/978-3-642-33989-9_2)
 that is, they lack "true blood" or veins to transport it. But, do spiders have hearts?
-![](/assets/img/12/Pest-Control.jpg)
+
 **The simple **
 **answer**
 ** is, Yes, spiders have 1 tube-like heart in its abdomen with one artery that carry hemolymph (spiders blood) and ostia (one-way valve) on its sides. However, the spider's heart has no capillaries. **
@@ -29,12 +29,12 @@ The spider's bodies like the
 will be filled with the arthropod's haemolymph that's pumped via arteries into the sinuses (openings) that surround various internal organs. The arthropod's blood would diffuse into the  individual cells and later collected into the spider's heart.
 Related:
 [Do Spiders Have Brains?](https://pestpolicy.com/do-spiders-have-brains/)
-![](/assets/img/img/main-qimg-1b4c8a353c71815b1139232e821503c7)
+
 Therefore, the spiders won't have definite veins that'll transport the arthropod's Haemocyanin (blood) in the body. The Haemolymph has haemocyanin as opposed to the mammalian Haemolymph .
 Haemocyanin has copper molecules compared to hemoglobin that contains iron molecules - the spider's blood have a blue coloration.
 But Haemolymph carry more oxygen - actually 17 times more than Haemocyanin. In addition, Haemocyanin has no cells like those in mammalia blood.
 ## Human Blood Cells Vs Spider Blood Cells
-![](/assets/img/img/main-qimg-9a5c8422006caf4845114a90ad58cf28)
+
 ## BloodCirculationin Spiders
 The heart of the spider is situated in abdomen, not  cephalothorax, which is on the upper section. This is also evident in other species having a abdominal cuticle that's pale-colored. Check the
 [best spider spray for indoors](https://pestpolicy.com/best-spider-spray-for-indoors/)

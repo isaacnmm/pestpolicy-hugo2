@@ -26,7 +26,7 @@ Well, the Hoffman Down-Filled by Stone & Beam will allow you to easily accommoda
 Hoffman Down-Filled Sectional Sofa has a strong design, with a Hardwood frame having tenon and mortise built at the various stress points to increase stability including
 [Ergonomic Sofa](https://pestpolicy.com/best-ergonomic-sofa/)
 .
-![](/assets/img/03/Best-Sectional-Sofa-for-Family-300x169.jpg)
+
 Interestingly, the sofa has a durable construction and a stain-resistant fabric that will give you good service, posh comfort, and provide a highly aesthetic look.
 - With its soft color, the sofa will match perfectly with almost any color in your room.
 - Also, it has very short legs that keep it low on the ground and thus prevent objects and pets from rolling under the sofa.

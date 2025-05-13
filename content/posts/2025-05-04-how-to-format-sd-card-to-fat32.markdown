@@ -26,7 +26,7 @@ Read Also:
 ### 1. How to Format SD card FAT32 in Windows 10
 First, maybe you already know that Windows with an inbuilt format utility. However, this format utility will not format any FAT32 (USB drive or SD card), which is usually bigger than 32GB.
 Notably, if you need to format the FAT32 partition and right-click the SD card in windows on file system format, it only shows just the exFAT and NTFS options.
-![](/assets/img/03/How-to-Format-SD-Card-to-FAT32-from-exFAT-300x200.jpg)
+
 Maybe you love using the command line top covert the 32GB card to FAT32. But this is not possible for anything larger than 32Gb. It'll get to 90% and say it failed.
 Therefore, for our formatting purpose today, well not be going to the windows inbuilt format utility.
 **Step 1:**

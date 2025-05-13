@@ -72,6 +72,6 @@ Like your kitchen drain, the shower drain will clog whenever you pour down greas
 [kitchen sink](https://pestpolicy.com/sink-not-draining-but-pipes-clear/)
 , theyre not good for the shower drain.
 Further, you'll need to have some safe
-![](/assets/img/uploads/default-image.jpg)
+
 [soap dish](https://www.amazon.com/dp/B0051T92C2/?tag=p-policy-20)
 since the soap (dropped down the drain) can help form large hair clogs. It goes without saying too that soap that lies around carelessly could cause slippage accidents.

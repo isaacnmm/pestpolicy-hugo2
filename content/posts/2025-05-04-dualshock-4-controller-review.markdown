@@ -21,7 +21,7 @@ With excellent quality, amazing buttons, and response time, youll find the DualS
 Related:
 [Controller for Rocket League](https://pestpolicy.com/best-controller-for-rocket-league/)
 # Dualshock 4 Controller Review
-![](/assets/img/img/)
+
 ## **Trackpad **
 DualShock 4s touchpad is the small surface that you can swipe and press, akin to the laptop touchpad. The Track in DualShock 4 comes with one general click.
 > However, developers are now able to map the Track to various buttons. For instance, the OWL drone in Shadow Fall can maps different sides to the Track to have varied effects.

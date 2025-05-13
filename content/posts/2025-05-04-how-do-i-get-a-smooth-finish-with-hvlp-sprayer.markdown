@@ -23,7 +23,7 @@ In this comprehensive guide, we will explore the essential steps and techniques 
 Proper surface preparation is crucial for a smooth finish. Clean the surface thoroughly to remove dust, dirt, and any contaminants.
 
 Sand the surface to ensure it is smooth and free from imperfections. Fill any gaps, dents, or holes with suitable fillers and sand again until the surface is uniformly smooth.
-![](/assets/img/03/How-Do-I-Get-A-Smooth-Finish-With-HVLP-Sprayer-300x200.jpg)
+
 ### **2. Choose the Right HVLP Sprayer**
 Selecting the
 [right HVLP sprayer](https://pestpolicy.com/best-hvlp-paint-sprayer-for-latex-paint/)

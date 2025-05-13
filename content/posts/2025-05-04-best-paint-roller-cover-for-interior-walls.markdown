@@ -29,7 +29,7 @@ Purdy 14B863400 is a 9-inch, high-performing, and versatile roller cover that ha
 So, for your lightly-textured and smooth interior wall surfaces, you may use either oil-based or water-based paints - and it's also effective on
 [wood stains](https://pestpolicy.com/best-stain-for-swing-set/)
 .
-![](/assets/img/03/Best-Paint-Roller-Cover-for-Interior-Walls-300x198.jpg)
+
 - An excellent roller cover will work well for painting your rough and drywall - Purdy 14B863400 has a suitable Nap size for revamping your floors, ceilings, and drywall.
 - Purdy 14B863400 produces that even and smooth finish fast and effortlessly. The roller cover prevents dripping and its shed-resistant since its woven-Dralon fabric is also high-density.
 - The woven roller cover allows it t carry more paint, which will improve your painting efficiency and speed. It's made from tiny filaments, and it'll cover your rigid surfaces - smoothly.

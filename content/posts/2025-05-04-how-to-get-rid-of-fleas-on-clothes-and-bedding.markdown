@@ -40,7 +40,7 @@ Further, if you thoroughly wet and lather the pet's fur with dawn soap
 exoskeletons leading to drowning.
 **Wash all clothes & bedding for 10 minutes ( in cold water): **
 - Undertake routine washing and dry clothes and bedding. If there are clothes that can't be washed but can be dried, then you'll need to put them in the dryer and run it on a hot cycle for about 30 minutes - which will[kill the fleas](https://pestpolicy.com/does-the-dryer-kill-fleas/)too.
-![](/assets/img/img/)
+
 - Flea eggs and adults[will not die easily](https://pestpolicy.com/flea-eggs-vs-dandruff/)when immersed in water. Fleas[will survive in water](https://pestpolicy.com/can-cats-get-fleas-in-the-winter/)for about seven days. Further, fleas will only drown in water after 24 hours when submerged as they sit on the water and not break water's surface tension. Fleas have cuticles that are covered with wax, and hence its skin is non-wettable with water.
 - **However**: Dish soap drops have surfactants that reduce water's surface tension and hence make the flea sink in water and drown. Therefore, washing the fabric with your detergent for ~ 10 minutes would make adult fleas drown**but not the pre-adult fleas**.
 - Flea eggs + larvae in your bedding and clothes will require the use of more rigorous laundry methods: This drives us to tactic #2

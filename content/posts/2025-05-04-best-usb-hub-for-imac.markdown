@@ -18,7 +18,7 @@ The best USB hub for iMac will house extra ports for connecting additional perip
 , flash drives,
 [external hard drives](https://pestpolicy.com/best-external-hard-drive-for-music-production/)
 , mouse, or keyboard.
-![](/assets/img/img/)
+
 So, the device will extend your
 [music production iMac's](https://pestpolicy.com/best-mac-for-music-production/)
 capability, and thus you'll gai

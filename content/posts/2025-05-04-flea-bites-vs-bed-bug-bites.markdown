@@ -23,7 +23,7 @@ bites.
 - **Flea bites appear to be red, swollen, and hard. Bedbug bites, on the other hand, seem to have a dark red spot in the center of the bitten and raised area of the skin.**
 - **Fleas tend to bite randomly over the body, and you might notice clusters of three dots together. Bedbugs, however, tend to bite their hosts strategically in a pattern of a linear row, you can find a group of 10 or more together.**
 - **Flea bites can be found on the lower half of the body, in places like ankles, calves, or moist areas such as elbows and knees bends. Whereas, bedbug bites are found in the upper half of the body in areas such as the neck, arms, shoulders, and back.**
-![](/assets/img/img/)
+
 Cat ScratchingLets go into detail about all the things that make the two bites different, as well as how to deal with them.
 ## Flea Bites vs. Bedbug Bites  The Physical Differences
 As both the insects are small in size and feed on blood, the result of their bites look almost the same. However, if you have the right information, you can easily differentiate between the two. Its crucial that you identify them correctly if you want to succeed at the pest control battle against these blood-sucking pests.

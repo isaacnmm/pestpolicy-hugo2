@@ -20,7 +20,7 @@ The good news? Cleaning your bathroom exhaust fan is a
 **simple, 30-minute task**
 that can significantly improve your bathroom's air quality and extend the life of your fan. Follow this comprehensive guide to do it rightthe first time.
 ## **Why Cleaning Your Exhaust Fan Matters **
-![](/assets/img/03/How-To-Clean-a-Bathroom-Exhaust-Vent-Fan-300x218.jpg)
+
 Before we dive in, lets talk about why this maintenance task is so important for your bathroom:
 
 

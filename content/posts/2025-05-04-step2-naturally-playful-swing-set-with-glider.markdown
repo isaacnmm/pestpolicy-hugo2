@@ -21,7 +21,7 @@ This playset combines the excitement of a swing set with the creativity of a pla
 [numerous play options](https://pestpolicy.com/best-swing-set-for-older-kids/)
 that encourage physical activity and imaginative play.
 ## **Why Choose the Step2 Naturally Playful Swing Set? **
-![](/assets/img/03/Step2-Naturally-Playful-Swing-Set-with-Glider-300x200.jpg)
+
 ### **1. A Perfect Blend of Fun and Functionality**
 Unlike basic swing sets, the Step2 Naturally Playful Swing Set offers
 **multiple play areas**

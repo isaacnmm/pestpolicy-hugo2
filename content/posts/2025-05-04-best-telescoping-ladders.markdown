@@ -24,7 +24,7 @@ This versatile edition was designed with homeowners and DIYers in mind because i
 S
 anding at 12.5 ft. and capacity to a collapsible height of 32, the 770P+ is the tallest of the Home Series model.
 This ladder allows you to extend and lock it in place with every foot which gives you unlimited reach over different lengths.
-![](/assets/img/03/Best-Telescoping-Ladders-300x200.jpg)
+
 For improved safety, Xtend+Climb engineers integrated double molded feet to improve traction.
 The aerospace engineered frame constructed using aluminum alloy increases the
 [strength of the tool](https://pestpolicy.com/best-ladder-for-painting-2-story-house/)

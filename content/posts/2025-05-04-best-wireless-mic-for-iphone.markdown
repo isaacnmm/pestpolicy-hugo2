@@ -16,7 +16,7 @@ lastmod: 2025-05-07T12:21:26+03:00
 The best wireless mic for iPhone will help you to easily record your podcasts,
 [youtube videos](https://pestpolicy.com/best-camera-for-youtube/)
 , music, video chatting, and interviews since iPhones have poor quality audio.
-![](/assets/img/img/)
+
 Key considerations, besides the quality of the iPhone mics, ensure to check if the mic uses the lightning port or headphone jack.
 Or maybe the wireless option? Let's get started with the best lightning connector and headphone jack microphones. Read Also:
 [Laptop for Video Editing](https://pestpolicy.com/best-laptop-for-video-editing/)

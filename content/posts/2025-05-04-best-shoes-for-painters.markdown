@@ -24,7 +24,7 @@ Take these precautions - use flexible climb ladders, choose correct paint - eith
 Carhartt CMF6366, besides its approved for men working in electrical-hazards areas, are suitable for painting. Its composite toe will offer protection from harsh impacts.
 C
 arhartt CMF6366 won't slip on paints, chemicals, and oil - which proves their maximum versatility. Despite having a reliable and sturdy construction, these shoes are quite budget-friendly.
-![](/assets/img/03/Best-Shoes-for-Painters-300x212.jpg)
+
 The leather uppers are oil-tanned, water- plus puncture-resistant, and its rubber soles will give you excellent traction. Its 6-inch shaft offers to provide ankle support
 [for professional painting](https://pestpolicy.com/best-professional-airless-paint-sprayer/)
 .

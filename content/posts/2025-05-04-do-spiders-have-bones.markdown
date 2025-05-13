@@ -15,7 +15,7 @@ lastmod: 2025-05-07T12:21:26+03:00
 
 ---
 Your regular spiders are small-bodied insects. So, its not out of the ordinary to imagine how small their bones would be, if they have any at all.
-![](/assets/img/12/Pest-Control.jpg)
+
 In fact some bigger creatures like lobsters, crab, snails, worms and shrimps have no bones.
 *So, do spiders have bones?*
 **Well, spiders don't have bones - and like other arthropods. However, they have an  endoskeleton plus an exoskeleton (external skeleton) that provides primary support for the arachnid's muscles. Its exoskeleton has cuticles plus joints on their surfaces to enable easy movement. **

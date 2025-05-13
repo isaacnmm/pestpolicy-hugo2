@@ -14,7 +14,7 @@ lastmod: 2025-05-07T12:21:28+03:00
 
 ---
 Many professional and DIY painters have asked how to thin oil-based paint for the spray gun. Possibly you got interested in reading this article because you have sought answers to the same question before.
-![](/assets/img/img/)
+
 Well, for their convenience and speed, spray guns are great tools for use in any painting project. However, if you will use oil-based paint, you have to thin it out for the best outcomes.
 Several questions usually linger whenever oil-based paint is mentioned, and these include;
 - What is oil-based paint?

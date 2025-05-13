@@ -15,7 +15,7 @@ lastmod: 2025-05-07T12:21:26+03:00
 
 ---
 Summer times is the perfect time to relax at your balcony or backyard.
-![](/assets/img/img/)
+
 Right? Well, it may not be that peaceful if you have wasps infestation in your home - its time to
 [control these wasps](https://extension.unh.edu/resources/files/Resource000532_Rep554.pdf)
 .

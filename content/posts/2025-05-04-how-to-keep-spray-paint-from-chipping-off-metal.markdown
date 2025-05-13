@@ -19,7 +19,7 @@ from chipping off may be cumbersome, especially if you fail to adhere to the app
 Whether metallic or
 [wooden structure](https://pestpolicy.com/best-stain-for-swing-set/)
 , chipping action affects the outlook impression and primary surface material if not attended.
-![](/assets/img/img/)
+
 *On how to keep spray paint from chipping off the metal - you select tools and materials required, inspect the suspect the painted surface, and clean the metal surface before sanding and polishing to attain a smooth finish.*
 *Further, you will select, prepare, and apply the primer as a way of boosting base coat stickiness action and reducing subsequent chipping occurrences. Select, prepare, and apply the finish paint before sealing the final paint layer as a way of blocking the chipping agents from direct action.*
 ## Details: How to Keep Spray Paint from Chipping off Metal

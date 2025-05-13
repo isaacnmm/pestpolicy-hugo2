@@ -26,7 +26,7 @@ With Sony MDRZX110NC's noise cancellation
 , you can do about 80 hours of great musical entertainment. You won't hear sounds of the plane flying, vehicles on the road, and fan.
 S
 ony MDRZX110NC are budget-friendly headphones suitable for travelers giving them great Noise cancellation to do homework (for college students) or just concentrate on a task like drawing using a suitable laptop.
-![](/assets/img/03/Best-Noise-Cancelling-Headphones-Under-50-300x200.jpg)
+
 They'll produce appropriate sound quality for critical listening, instruments, and vocals (see mics for recording vocals). It'll provide enough bass punch that's also great when you'll be watching your excellent videos.
 - Sony MDRZX110NC willbe easy to store (packaging) and carry since they're foldable. Simple turn the ear cuffs to unfold or also fold your headphones flat and beautiful.
 - TheSony over-ear headphones will readily isolate the surrounding noises. They'll easily plug-in, and hence there's no issue with pairing it - you'll love its long cord-length.

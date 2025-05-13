@@ -17,7 +17,7 @@ Choosing the
 best pop filter for blue yeti
 is easier said than done.
 Pop filters will help with plosives - sounds like 'P' & 'B'. Such plosives may enter the mics and lead to annoying heavy bass/ breath sound.
-![](/assets/img/img/)
+
 The spittle moisture may gather on the microphones diaphragm and could also shorten the condenser capsules - leading to bad music production experience in the recording studio.
 Maybe you already know that close miking has setbacks, including damaging your mic filters. Also, check the
 [headphones for music production](https://pestpolicy.com/best-headphones-for-music-production/)
@@ -26,7 +26,7 @@ Maybe you already know that close miking has setbacks, including damaging your m
 ### [1. Auphonix 6-inch pop filter for Blue Yeti - #1 Pick](https://www.amazon.com/dp/B00HBN6T1I/?tag=p-policy-20)
 The Auphonix 6 inches pop filter will be great is preventing the sound plosives and its large enough to fit the microphone capsules of your Blue Yeti.
 
-![](/assets/img/e/ir)
+
 You can now readily filter various pop sounds from the available screen captures, voiceovers, and podcasts.
 It has a simple clamp that will allow the Pop Filter to easily and safely fit your microphone without requiring drilling of any holes. It also has a double-mesh screen thatll prevent p-pops and harsh air from entering.
 As a sound technician, maybe you've come across singers youd describe as "spitters". This is a real challenge when it comes to using the Blue Yeti microphone due to the moisture created by spittle from the singers mouth. Notably, while still using some

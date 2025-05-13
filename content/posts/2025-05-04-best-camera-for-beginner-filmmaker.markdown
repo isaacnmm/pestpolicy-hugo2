@@ -14,7 +14,7 @@ lastmod: 2025-05-07T12:21:23+03:00
 
 ---
 Are you tired of smartphone photography or filming? Then you should invest in an entry-level camera that gives you high-quality footage.
-![](/assets/img/img/)
+
 It enhances your creativity with limitless controls. But which is the best camera for beginner filmmakers?
 Well, below is a review of seven best cameras to get you started in your film-making career or hobby.
 Related:

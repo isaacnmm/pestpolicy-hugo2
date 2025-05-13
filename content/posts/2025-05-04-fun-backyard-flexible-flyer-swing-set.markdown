@@ -13,13 +13,13 @@ lastmod: 2025-05-07T12:21:26+03:00
 >
 
 ---
-![](/assets/img/e/ir)
+
 The Fun Backyard Flexible Flyer Swing Set offers an excellent
 [healthy play option for kids](https://healthinformatics.uic.edu/healthy-games-and-activities-for-kids/)
 and their friends.
 With the various play activities, the swing set will allow increased fitness and fun. Read Also:
 [Swing Set for Older Kids](https://pestpolicy.com/best-swing-set-for-older-kids/)
-![](/assets/img/img/)
+
 ## Fun Backyard Flexible Flyer Swing Set
 
 The 6-legged frameset will allow multiple kids aged 2-10 years to have fun with their friends or siblings. However, you must provide a safety zone measuring 6 feet.

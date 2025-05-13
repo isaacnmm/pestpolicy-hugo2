@@ -15,7 +15,7 @@ lastmod: 2025-05-07T12:21:25+03:00
 ---
 Are you looking for the best soundbars for the money? Well, modern
 TVs are beautiful and thin but lack room for decent audio suffers and speaker.
-![](/assets/img/img/)
+
 Soundbars
 [make it possible](https://pestpolicy.com/are-soundbars-worth-it/)
 to hear the dialogue and b

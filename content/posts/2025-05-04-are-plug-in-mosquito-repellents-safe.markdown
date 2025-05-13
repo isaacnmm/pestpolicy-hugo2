@@ -15,7 +15,7 @@ lastmod: 2025-05-07T12:21:23+03:00
 
 ---
 Mosquito repellent plugins are the most reliable way of keeping mosquitoes at bay.
-![](/assets/img/img/)
+
 But are they safe for us? I have done a comprehensive research on this topic and have some important facts to share with you!
 **Are mosquito repellent plugins safe? When wrongly applied, mosquito repellent plugins can result to the following; they could cause respiratory disorders to babies, allergic reactions, and can cause a condition called hypospadias for babies and pregnant women. **
 Let's get started!

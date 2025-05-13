@@ -14,7 +14,7 @@ lastmod: 2025-05-07T12:21:27+03:00
 
 ---
 In this post, Ill take you through different cardio workouts planned to assist you to lose weight, even when you have a bad knee - How to exercise with bad knees to lose weight.
-![](/assets/img/img/)
+
 But first, the term
 [bad knees](https://www.health.harvard.edu/pain/moving-away-from-knee-osteoarthritis)
 is way too broad. However, with bad knees, you should work your knees without jarring them to reduce pain and to make them stronger.

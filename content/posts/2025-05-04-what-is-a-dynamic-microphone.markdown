@@ -26,7 +26,7 @@ The coil's motion in this magnetic field helps create an electrical signal that 
 ## What is a Dynamic Microphone?
 The movement of the mic's diaphragm helps create the current. Further, as the speed of the motion increases or decreases, so will the current vary.
 [caption id="" align="aligncenter" width="440"]
-![](/assets/img/images/mic-dynamic.gif)
+
 Dynamic Microphone[/caption]
 Dynamic microphones are considered velocity-sensitive. These mics are considered the all-around particularly for
 [recoding studios equipments](https://pestpolicy.com/best-sound-cards-for-music-production/)

@@ -14,7 +14,7 @@ lastmod: 2025-05-07T12:21:23+03:00
 
 ---
 What's the Best Delay Pedals for Guitar? Ever witnessed a hot debate among guitar players? Well, just make your opinion about the best delay pedal.
-![](/assets/img/img/)
+
 Or make it even worse and specify whether the digital delay or analog delay is the superior one.
 
 The delay pedals for guitar, particularly those for different budgets and tastes. It has three knobs: DELAY,
@@ -24,7 +24,7 @@ However, MXR M169 Carbon Copy will not work for all guitar players. For example,
 .
 ## Reviews: 7 Best Delay Pedals for Guitar in 2025
 ### [1. MXR M169 Carbon Copy Analog Delay (600ms Delay) - #1 Pick](https://www.amazon.com/dp/B0016ZZKJO/?tag=p-policy-20)
-![](/assets/img/e/ir)
+
 There came a time in the guitarist career that I needed warm analog delay, which I found it in the amazing MXR M169 Carbon Copy: the Best Delay Pedals for Guitar.
 
 This pedal is great for analog tones that I would consider as subtle, and full.

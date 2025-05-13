@@ -17,7 +17,7 @@ lastmod: 2025-05-07T12:21:27+03:00
 The first and foremost step in killing
 [ants](https://en.wikipedia.org/wiki/Ant)
 is to identify their nests and try to destroy them. For this purpose, one can use boiling water, by pouring it over the ant colony.
-![](/assets/img/img/)
+
 Another way is to attract the ants with some sugary product and use baking soda which will eventually kill them. Similarly, vinegar spray is also a very helpful method in getting rid of ants.
 
 Related:
@@ -72,7 +72,7 @@ Ants after in taking cornmeal start to face the issue of indigestion. This can b
 Peels from citrus fruits i.e. lemon, lime, oranges, etc. can be used to get rid of ants by forcing them to change their place. To make the spray from fruit peels, boil the peels in water and vinegar in the same portions.
 
 After boiling, keep it aside overnight, strain it spray bottle and then spray it around the entry points of ants. Repeat the activity until the end of every single ant.
-![](/assets/img/img/)
+
 ### 11. Essential oils
 Different types of essential oils i.e. cinnamon oil, tea tree oil, citrus fruits oil, and other types of oils can be used as the pest controls.
 

@@ -14,7 +14,7 @@ lastmod: 2025-05-07T12:21:27+03:00
 
 ---
 If you are a regular paint user, then avoiding paint stain may not be easy. Often, you get paint spots or patches that stain your clothes or garment. Whether its latex or acrylic paint, selecting the wrong cleaning method makes the paint removal process cumbersome.
-![](/assets/img/12/Pest-Control.jpg)
+
 *You can remove paint from clothes using rubbing alcohol/isopropyl alcohol, liquid laundry detergent, blot with turpentine, hairspray, Goo Gone, blot with non-acetone nail polish, or washing machine and warm water.*
 *The application procedure should be adhered to when using each of the stated methods to avoid damaging your clothes. Further, you can opt for commercially available methods like Goo Gone or home-based options highlighted in this article too.*
 > See Also:

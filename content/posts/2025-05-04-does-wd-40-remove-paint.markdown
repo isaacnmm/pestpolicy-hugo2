@@ -16,7 +16,7 @@ lastmod: 2025-05-07T12:21:26+03:00
 Does WD 40 work like a paint cleaner, a lubricant, or a degreaser? How effective is WD 40 when used in automobile service or with
 [sprayer for latex paint](https://pestpolicy.com/best-sprayer-for-latex-paint/)
 ?
-![](/assets/img/12/Pest-Control.jpg)
+
 *So, does WD 40 remove paint? The direct answer is YES. WD 40 is a powerful organic compound with a complex hydrocarbon that'll break the paint molecular bonds instantly, thus allow easier stripping. *
 *WD 40 works effectively on surfaces such as metal, plastic (but not clear polystyrene and polycarbonate), sealed wood, ceramics, leather fabrics, glass, Automotive parts, rubber, laminated paper and painted walls without any problems. *
 See Also:

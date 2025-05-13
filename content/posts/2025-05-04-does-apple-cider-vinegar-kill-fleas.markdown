@@ -45,7 +45,7 @@ and then rinse it with a soapy water and vinegar solution.
 Fill your tub with warm
 **Step 2:**
 Add  to 1 cup of Dawn soap depending on whether you are using a concentrated product and the amount of water in the tub.
-![](/assets/img/img/)
+
 **Step 3:**
 Soak your pet in the solution for at least five minutes
 **Step 4:**

@@ -35,7 +35,7 @@ On design and controls, the full-frame body 5D Mark IV weighs 1.8 pounds plus it
 - *Has a 3:2 Aspect ratio with its versatile CMOS sensor (30.4 MP full-frame)*
 The 5D Mark IV has an optical viewfinder that is both clear and bright (thanks to the glass pentaprism build) plus it'll cover the whole frame. The touchscreen is responsive and fast - you can tape to adjust your focus point when shooting video.
 Many creative videographers say that its versatile and will help shoot highly refined images. It allows digital-to-analog conversion (on-chip) to enhance a sound recording. Also, check the photography drones.
-![](/assets/img/e/ir)
+
 Other features I love are the Dual Pixel RAW with
 phase-detection points
 (fine-tuning shots
@@ -96,7 +96,7 @@ Related:
 ## [3. Nikon D500 DX-Format Digital SLR (Body Only) - #3 Pick](https://www.amazon.com/dp/B01A7Q0J3Y/?tag=p-policy-20)
 This Nikon D500 DSLR will do a great job of recording your high-quality music videos. With the ISO51200 (thats even expandable to ISO1640000), the camera has top light sensitivity in addition to having a DX-format lens (20.9MP).
 
-![](/assets/img/e/ir)
+
 Its body has a rugged build that comes with some tactile button feel  it has dedicated buttons for metering mode, image quality, and ISO. Its highly portable and light  with the included vertical grip.
 **Sneak Peek: **
 - Shoots at10 fps for about 200 Frames

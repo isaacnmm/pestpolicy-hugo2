@@ -17,7 +17,7 @@ lastmod: 2025-05-07T12:21:29+03:00
 Could fruit flies have disturbed you in your place? Do you wonder where they may have come from or
 [how long they live](https://pestpolicy.com/how-long-do-fruit-flies-live/)
 ?
-![](/assets/img/img/)
+
 In this article, I will be answering this question in depth.
 
 Summary:

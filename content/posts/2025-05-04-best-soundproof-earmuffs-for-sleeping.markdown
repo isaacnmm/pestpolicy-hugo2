@@ -16,7 +16,7 @@ lastmod: 2025-05-07T12:21:25+03:00
 Do you need to improve the quality of your sleep? Well, below, Ive reviewed the best
 [soundproof earmuffs](https://patents.google.com/patent/US9585792B2/en)
 for sleeping for a tight sleep and even sweet dreams.
-![](/assets/img/img/)
+
 Notably, a good earmuff will reduce about 15 to 30 dB of noise  just like the top muffs and earplugs, but the earmuffs are best for high-frequency noise.
 I live in downtown Monrovia. Its crowded and sprawling section, but I love the convenience of getting everything just a few meters away.
 Some earmuffs are used for noise cancellation in areas that have substantial and noisy machinery - these are not the type of Earmuff we require for healthy sleep.

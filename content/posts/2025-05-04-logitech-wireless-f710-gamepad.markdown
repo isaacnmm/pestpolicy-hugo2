@@ -29,7 +29,7 @@ Read Also:
 [Controller for Rocket League.](https://pestpolicy.com/best-controller-for-rocket-league/)
 **Logitech Wireless f710 Gamepad Experts review
 **
-![](/assets/img/img/)
+
 ### 1.**Fast Wireless connection - 2.4 GHz**
 With the 2.4 GHz Wireless connection, you now have the freedom to move around and continue with your gaming without worrying about trailing wires disturbing you.
 > Therefore, youll only need to plug the controller and from there you forget!

@@ -28,7 +28,7 @@ This guide explores five proven ways to eradicate bed bugs from your carpet, ens
 Diatomaceous Earth is a safe, affordable and easy to use powder that can be conveniently used to
 [get rid of bed bug in carpets](https://pestpolicy.com/does-diatomaceous-earth-kill-bed-bugs/)
 . Its a natural ingredient mined from decomposed organisms known as diatoms.
-- The microscopic diatoms in the diatomaceous earth are sharp fragments which can easily penetrate into the body of insects including bed bugs. Once in contact with the bed bugs body, DE powder gets through the exoskeleton and dehydrates the insect of its internal fluids causing it to die.![](/assets/img/03/How-to-Remove-Bed-Bugs-from-Carpets-1-1-300x200.jpg)
+- The microscopic diatoms in the diatomaceous earth are sharp fragments which can easily penetrate into the body of insects including bed bugs. Once in contact with the bed bugs body, DE powder gets through the exoskeleton and dehydrates the insect of its internal fluids causing it to die.
 - To use diatomaceous earth, apply a thin layer on the top side of the affected carpet and along the space between the carpet and baseboard. The substance works within a few hours but you can allow a few days to enable more bed bugs to interact with it.
 Vacuum the carpet to remove the dead bed bugs and the remnants of the powder. If you have a large infestation you may have to apply the powder several times.
 

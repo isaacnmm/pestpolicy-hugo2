@@ -14,7 +14,7 @@ lastmod: 2025-05-07T12:21:25+03:00
 
 ---
 Are you wondering how to strip paint with a pressure washer like the mi-t-m? Well, the best pressure washer for paint removal would do the magic! So, remove rust and paint from concrete, metal, or wood - you'd need a pressure washer with roughly 2000 - 4000 PSI (pounds per square inch).
-![](/assets/img/12/Pest-Control.jpg)
+
 The machine's minimum size should be around 1200 - 2000 PSI for simple cleaning different surfaces before doing the paint job.
 The high-pressure DIY power washer will also be effective in cleaning the outer part of your house as it'll peel and
 [flake off the paint](http://www2.ca.uky.edu/hes/fcs/factshts/HF-LRA.051.PDF)

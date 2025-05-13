@@ -23,7 +23,7 @@ The right spider spray can create a protective barrier, eliminate existing infes
 ### [1.**Wondercide Outdoor Pest Control Spray**](https://www.amazon.com/dp/B074HZHPD9/?tag=p-policy-20)
 Wondercide uses plant-based ingredients like cedarwood oil to repel spiders and other insects. This product is safe for use around childr
 en and pets and can be applied with a hose-end sprayer for large outdoor areas. It repels spiders without using harsh chemicals, making it a popular choice for eco-conscious homeowners.
-![](/assets/img/04/Best-Spider-Spray-for-Yard-300x193.jpg)
+
 **Safety for Pets and Children**
 Some products, like
 **Wondercide Outdoor Pest Control**

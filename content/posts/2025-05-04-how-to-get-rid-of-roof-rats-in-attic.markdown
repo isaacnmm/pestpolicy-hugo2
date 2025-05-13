@@ -26,7 +26,7 @@ If you dont get rid of roof rats in the attic immediately, it could result in co
 
 Related:
 [Do Moles Have Eyes? Can Moles See?](https://pestpolicy.com/do-moles-have-eyes/)
-![](/assets/img/img/)
+
 ## How to Identify the Roof Rats
 Getting rid of roof rats in the attic will not be possible if you have no clue what they look like or how they behave.
 

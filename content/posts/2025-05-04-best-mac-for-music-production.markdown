@@ -23,7 +23,7 @@ As a beginner or pro music producer, you'll love the above iMac Pro 27-inch for 
 This portable MacBook Pro 16-inch comes is a beast for audio engineers and musicians. Has improved speakers plus high-quality display - you can upgrade to 8TB of storage plus 64GB Ram.
 M
 acBook Pro 16-inch comes with a 16GB RAMp plus a 6core i7 processor. This gives a pro performance since minimal monitoring and recording projects could choke it.
-![](/assets/img/03/Best-Mac-for-Music-Production-300x200.jpg)
+
 **Sneak Peek:**
 - Processor: 8-core i9 processor
 - Storage:1TB storage (SSD)
@@ -53,7 +53,7 @@ New features include the True Tone display, Hey Siri, and an improved Magic keyb
 - *Design*: 14.9mm thick
 - *Ports*:4 Thunderbolt 3 (USB-C)
 - *Headphone Jack*: 3.5 mm
-![](/assets/img/e/ir)
+
 But with the highly portable 13-inch MacBook Pro (thin and light), I can now work at coffee shops, trains, or planes. This Mac has analog modeled plugins and fabulous mixing headphones to allow fast editing tune vocals and drums while traveling.
 The MacBook Pro has a silicone layer below every key, and thus you won't experience stuck keys. With its 2560 * 1600 pixels' True Tone display is colorful, bright, and sharp in resolution. It has Intel Iris 655 Plus graphics, which are awesomely helpful for video and photo editing.
 https://www.youtube.com/watch?v=V7pce4nrR4c

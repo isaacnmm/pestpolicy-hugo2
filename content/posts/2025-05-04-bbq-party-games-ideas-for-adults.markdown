@@ -22,7 +22,7 @@ These games will ensure that your friends and family have a time of their life. 
 ## 10 Best BBQ Party Games Ideas for Adults
 ### [1. Giant jenga](https://www.amazon.com/dp/B07Y29PQ45/?tag=p-policy-20)
 The Giant jenga is a perfect BBQ party game idea for adults that you can implement right away. It provides immense fun for everyone involved.
-![](/assets/img/03/BBQ-Party-Games-Ideas-for-Adults-300x200.jpg)
+
 Your family and friends will appreciate this super fun BBQ game. It provides loads of entertainment for people of all ages. Youll love the thrill and excitement of all your guests.
 
 The Giant jenga is one of the best party game for adults. The game involves timber blocks that allows you to customize your game easily.

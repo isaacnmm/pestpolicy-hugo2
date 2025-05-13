@@ -26,7 +26,7 @@ Other models include propoxur and Amitraz as the vital active ingredients beside
 The Seresto Flea and Tick Collar are formulated to repel and kill fleas and ticks on dogs immediately on contact.
 - No painful biting is required - thus, many dog owners consider it the best tick collars for dogs.
 - Flumethrin and Imidacloprid, the active ingredients in this collar, are released in low concentrations continuously for eight months.
-![](/assets/img/03/Best-Tick-Collars-for-Dogs-300x196.jpg)
+
 It provides full-body tick protection- no need for additional spot treatment.
 - A vet-recommended tick collar, Seresto also provides year-round chewing lice, and sarcoptic mange protection.
 - The collar does not interfere with your regular dogs collar to be worn simultaneously without any negative impact.

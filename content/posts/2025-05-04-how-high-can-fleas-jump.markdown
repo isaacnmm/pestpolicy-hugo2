@@ -17,7 +17,7 @@ lastmod: 2025-05-07T12:21:27+03:00
 Fact:
 [Fleas (Ctenocephalides felis) don't have wings](https://pestpolicy.com/do-fleas-have-wings/)
 and will move by jumping using their powerful legs.
-![](/assets/img/img/)
+
 [Fleas can only live up to 4 days](https://pestpolicy.com/how-long-can-fleas-live-without-a-host/)
 when removed from their hosts.
 So, fleas jump around looking for a blood meal or move from

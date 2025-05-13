@@ -14,7 +14,7 @@ lastmod: 2025-05-07T12:21:28+03:00
 
 ---
 Living in an urban area has its ups and downs. Among the major downsides of living in an urban area is having to deal with all sorts of noises from the external environment.
-![](/assets/img/img/)
+
 It gets even worse if your home is made of modern walling materials such as drywall that allow more sound to pass through than traditional brick and mortar homes.
 Noise pollution is not something you should ignore especially if it is impossible to relocate to a different house.
 Read Also:

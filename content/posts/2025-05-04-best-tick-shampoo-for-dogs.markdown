@@ -26,7 +26,7 @@ After intense research, I came up with seven products with proven effectiveness 
 Any professional pest exterminator will recommend this shampoo for eradicating ticks from dogs.
 - Grooming your dog with this shampoo will kill ticks and other parasites while removing dirt and dandruff.
 - The main active ingredient in this shampoo is pyrethrin, a very efficient insect killer but you can[combine with collars](https://pestpolicy.com/best-tick-collars-for-dogs/).
-![](/assets/img/03/Best-Tick-Shampoo-for-Dogs-300x200.jpg)
+
 Pyrethrin will readily kill adult ticks, larvae, and eggs. Killing the larvae and eggs gives you a chance to inhibit their development into the next lifecycle stage.
 Other ingredients present in this shampoo include aloe, oatmeal, lanolin, and coconut extract.
 The purpose of aloe is to provide a soothing sensation to ease the irritation and itchiness caused by ticks.

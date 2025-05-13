@@ -20,7 +20,7 @@ Besides deck design, deck materials are the most important feature that affects 
 Any synthetic+organic decking materials will make your pieces durable and beautiful. Compared to the
 [pressure-treated lumber](https://pestpolicy.com/best-deck-stain-for-pressure-treated-wood/)
 , these composite deck will be more expensive.
-![](/assets/img/03/Is-Composite-Decking-Worth-It-300x200.jpg)
+
 Specifically, the composite deck will cost you between $5.00 - $7.00 for each 8-inch board. Thus, for your average 20 * 20 composite deck, you'll need about $5,600.
 In comparison, to build a similar 20 * 20 deck using pine lumber (using pressure-treated), you'll require roughly 3,000. Notably, you can recover the price with routine maintenance in 2 to 3 years.
 ## Benefits of Installing a Composite Deck

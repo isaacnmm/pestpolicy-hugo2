@@ -31,7 +31,7 @@ The bites are usually found on the body parts that are
 while you sleep. These could be the neck, hands, shoulders, legs, arms, and face. Though not the usual case,
 [bed bug bites](https://pestpolicy.com/bed-bug-bites-vs-mosquito-bites/)
 are usually found in small groups.
-![](/assets/img/img/)
+
 In the bitten area, they might be linear or in the form of a zigzag. If you see small, raised, or flat spots that might become itchily inflamed or blistered, then you might be a
 [victim of a bed bug bite](https://pestpolicy.com/how-long-do-bed-bug-bites-last/)
 .
@@ -46,7 +46,7 @@ Related:
 .
 ## Symptoms of Bed Bug Bite-Bite Identification
 Some people will develop itching, and some will develop red welts or swelling the following day after receiving the bite. Still, other people will not show any signs of bites several days after the event.
-![](/assets/img/img/)
+
 Moreover, some people dont react to the bed bug bites; neither do they have any marks after getting bitten. This means the problem will go totally unnoticed.
 Compared to bites of other insects, the
 [bed bug bites will always appear](https://pestpolicy.com/how-to-get-rid-of-bed-bugs-fast/)
@@ -54,7 +54,7 @@ in grouped, small red marks on the areas that have been bitten.
 In the beginning, the victim will encounter a slight burning sensation. This is followed by itchiness, and then the area might turn red and or swell slightly. The duration for the symptoms to appear varies among individuals.
 The red bumps formed after the bites are known as wheals or papules. If the biting was extreme, the swellings might turn into skin inflammations that look like blisters.
 ### Pictures of Bed Bug Bites on the Hand
-![](/assets/img/img/)
+
 Related:
 [Can Bed Bugs Live In Carpet?](https://pestpolicy.com/can-bed-bugs-live-in-carpet/)
 ## Health Risks of Bed Bug Bites

@@ -14,7 +14,7 @@ lastmod: 2025-05-07T12:21:24+03:00
 
 ---
 So, which the best laptops for drawing? With advances in digital technology, artists can now draw directly on their laptops using a digital pen.
-![](/assets/img/img/)
+
 The accuracy and quality of such drawings depend on the quality of the
 [drawing laptop](https://www.snhu.edu/admission/campus-admission/accepted-students/laptop-program)
 you use -

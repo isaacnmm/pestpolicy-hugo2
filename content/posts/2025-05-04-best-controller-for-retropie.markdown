@@ -14,7 +14,7 @@ lastmod: 2025-05-07T12:21:23+03:00
 
 ---
 The "reluctantly" good gamepads lack analog sticks and broader functionality. These include compatibility with 3-D titles and extra buttons, which is unlike the Best Controller for Retropie that I review in this post.
-![](/assets/img/img/)
+
 I conducted an analysis for Best Controller for Retropie using 2D games such as Darkstalkers, Samurai Shodown II, and The Last Blade.
 You can use the Retropie controllers for your
 [Retro-gaming Emulation](https://pestpolicy.com/how-to-build-a-raspberry-pi-retro-game-console/)

@@ -25,7 +25,7 @@ I
 vouch for the Stallion Comfort King recliner for being sturdy and ergonomically designed for of above-average height, about 6 ft. 8 inches. It is characteristically taller compared to other recliners.
 
 It has a wide seat and tall back to accommodate tall people. The full recline position will get a king-size mattress full length. Also, the recliner will support about 500 lbs.
-![](/assets/img/03/Best-Recliner-for-Tall-People-300x169.jpg)
+
 The recliner has enough length to prevent your feet from dangling at the end. Read Also:
 [Ergonomic Sofa](https://pestpolicy.com/best-ergonomic-sofa/)
 .

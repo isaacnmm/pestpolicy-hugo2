@@ -16,7 +16,7 @@ lastmod: 2025-05-07T12:21:25+03:00
 Are you looking to facelift your
 [kitchen cabinets](https://pestpolicy.com/best-paint-for-kitchen-cabinets/)
 ? A primer is used as a preparatory coat on previously unpainted wood, metal, or canvas, mainly to prevent the absorption of subsequent layers of paint or the development of rust.
-![](/assets/img/12/Pest-Control.jpg)
+
 Choosing the best primers for your stained or newly installed kitchen cabinets is therapeutic and gives you a good bonding with your household.
 In this article, I have outlined the most renowned kitchen cabinets primers in the market that will assist you as you do the
 [kitchen remodeling](https://pestpolicy.com/how-much-does-it-cost-to-paint-kitchen-cabinets/)

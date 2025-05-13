@@ -28,7 +28,7 @@ Palmetto bugs are terrifying and can give you the creeps when they appear in fro
 Thats why its important that you learn how to get rid of them immediately.
 
 [caption id="attachment_2042" align="aligncenter" width="1000"]
-![](/assets/img/img/)
+
 A dead palmetto bug on the floor.[/caption]
 
 Related:

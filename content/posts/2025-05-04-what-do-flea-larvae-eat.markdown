@@ -29,7 +29,7 @@ Cat
 [flea larvae](https://pestpolicy.com/what-do-flea-larvae-look-like/)
 have mandibles to chew solid organic matter but won't bite on either cats or dogs.
 As highlighted above, flea larvae primarily feed on flea dirt  which is feces (or pre-digested and dried blood) from adult fleas.
-![](/assets/img/04/What-Do-Flea-Larvae-Eat-300x203.png)
+
 **Undigested cat or dog blood **
 The blood may have originated from various hosts such as cats and dogs or human beings.
 - Therefore, a large quantity of the ingested blood[comes out in feces undigested ready to give the flea](https://pestpolicy.com/where-do-fleas-come-from/)larvae the required nutrients.
