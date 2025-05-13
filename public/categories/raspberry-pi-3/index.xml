@@ -4,7 +4,7 @@
     <title>Raspberry Pi 3 on Insights</title>
     <link>http://localhost:1313/categories/raspberry-pi-3/</link>
     <description>Recent content in Raspberry Pi 3 on Insights</description>
-    <generator>Hugo -- 0.147.1</generator>
+    <generator>Hugo -- 0.147.3</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 07 May 2025 12:21:28 +0300</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/raspberry-pi-3/index.xml" rel="self" type="application/rss+xml" />
@@ -190,9 +190,7 @@ With excellent wear leveling and
 S
 anDisk Extreme Pro 64GB UHS-I i
 s approved by the microSD cards Benchmarks
-for your Raspberry Pi. With the SanDisk Extreme-PRO, you will get reliability and excellent performance in your Raspberry Pi3.
-&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/assets/img/03/Best-SD-card-for-Raspberry-Pi-3-300x185.jpg&#34;&gt;
-You can quickly recover your data using the RescuePRO Deluxe software after any accidental deletion happens.&lt;/p&gt;</description>
+for your Raspberry Pi. With the SanDisk Extreme-PRO, you will get reliability and excellent performance in your Raspberry Pi3.&lt;/p&gt;</description>
     </item>
     <item>
       <title>7 Best Raspberry Pi 3 Starter Kits 2025 Reviewed</title>
@@ -240,22 +238,7 @@ Read Also:
 &lt;/ul&gt;
 &lt;h3 id=&#34;1-how-to-format-sd-card-fat32-in-windows-10&#34;&gt;1. How to Format SD card FAT32 in Windows 10&lt;/h3&gt;
 &lt;p&gt;First, maybe you already know that Windows with an inbuilt format utility. However, this format utility will not format any FAT32 (USB drive or SD card), which is usually bigger than 32GB.
-Notably, if you need to format the FAT32 partition and right-click the SD card in windows on file system format, it only shows just the exFAT and NTFS options.
-&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/assets/img/03/How-to-Format-SD-Card-to-FAT32-from-exFAT-300x200.jpg&#34;&gt;
-Maybe you love using the command line top covert the 32GB card to FAT32. But this is not possible for anything larger than 32Gb. It&amp;rsquo;ll get to 90% and say it failed.
-Therefore, for our formatting purpose today, well not be going to the windows inbuilt format utility.
-&lt;strong&gt;Step 1:&lt;/strong&gt;
-Purchase a compatible Pi 3 SD card, specifically a Micro SD card.
-Further, you may purchase a Raspberry Pi 3 starter kit, which comes with an SD card. Therefore, if the SD card size is larger than 32 GB continue to step 2 where we convert it to FAT32.
-&lt;strong&gt;Step 2:&lt;/strong&gt;
-Format the SDXC Card (64 GB or larger) for Pi 3.
-Note that SDFormatter will not format your SD card whose capacity is bigger than 32GB. Therefore, youll need to download other software such as the
-&lt;a href=&#34;http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm&#34;&gt;fat32format&lt;/a&gt;
-. Other options of the FAT32 Format tool, but not so easy to use, are
-&lt;a href=&#34;http://www.easeus.com/partition-manager/epm-free.html&#34;&gt;EaseUS Partition&lt;/a&gt;
-or the
-&lt;a href=&#34;http://www.minitool.com/partition-manager/partition-wizard-home.html&#34;&gt;MiniTool Partition Wizard&lt;/a&gt;
-.&lt;/p&gt;</description>
+Notably, if you need to format the FAT32 partition and right-click the SD card in windows on file system format, it only shows just the exFAT and NTFS options.&lt;/p&gt;</description>
     </item>
     <item>
       <title>7 Best Raspberry Pi Models 2025 Reviewed</title>
