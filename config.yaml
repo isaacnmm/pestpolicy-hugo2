@@ -91,3 +91,6 @@ menu:
     - name: Guides
       url: /categories/guide/
       weight: 4
+    - name: Contact
+      url: "/contact/" # Add your contact page
+      weight: 4
