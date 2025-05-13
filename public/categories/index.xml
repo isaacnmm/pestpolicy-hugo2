@@ -6,8 +6,22 @@
     <description>Recent content in Categories on Insights</description>
     <generator>Hugo -- 0.147.3</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 May 2025 12:21:29 +0300</lastBuildDate>
+    <lastBuildDate>Tue, 13 May 2025 12:21:23 +0300</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guide</title>
+      <link>http://localhost:1313/categories/guide/</link>
+      <pubDate>Tue, 13 May 2025 11:14:21 +0000</pubDate>
+      <guid>http://localhost:1313/categories/guide/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Swing Sets</title>
+      <link>http://localhost:1313/categories/swing-sets/</link>
+      <pubDate>Tue, 13 May 2025 11:14:21 +0000</pubDate>
+      <guid>http://localhost:1313/categories/swing-sets/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Walking Shoes</title>
       <link>http://localhost:1313/categories/walking-shoes/</link>
@@ -27,13 +41,6 @@
       <link>http://localhost:1313/categories/product-reviews/</link>
       <pubDate>Sun, 04 May 2025 23:55:25 +0000</pubDate>
       <guid>http://localhost:1313/categories/product-reviews/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Guide</title>
-      <link>http://localhost:1313/categories/guide/</link>
-      <pubDate>Sun, 04 May 2025 23:55:10 +0000</pubDate>
-      <guid>http://localhost:1313/categories/guide/</guid>
       <description></description>
     </item>
     <item>
@@ -230,13 +237,6 @@
       <link>http://localhost:1313/categories/everett/</link>
       <pubDate>Sun, 04 May 2025 23:05:29 +0000</pubDate>
       <guid>http://localhost:1313/categories/everett/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Swing Sets</title>
-      <link>http://localhost:1313/categories/swing-sets/</link>
-      <pubDate>Sun, 04 May 2025 23:04:13 +0000</pubDate>
-      <guid>http://localhost:1313/categories/swing-sets/</guid>
       <description></description>
     </item>
     <item>

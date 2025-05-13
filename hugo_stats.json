@@ -46,6 +46,7 @@
       "ul"
     ],
     "classes": [
+      "active",
       "anchor",
       "entry-content",
       "entry-cover",

@@ -73,3 +73,18 @@ sitemap:
   filename: "sitemap.xml"
   taxonomies: []
   disable: false
+
+menu:
+  main:
+    - name: Posts
+      url: /posts/
+      weight: 1
+    - name: Notes
+      url: /notes/
+      weight: 2
+    - name: Newsletter
+      url: /newsletter/
+      weight: 3
+    - name: Archives
+      url: /archives/
+      weight: 4
