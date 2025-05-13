@@ -49,7 +49,7 @@ params:
       >
       - Proper maintenance of sprayers and selecting the right paint formulation can also minimize issues caused by bugs during and after application.
 
-      Visit the [Product Reviews](/categories/product-reviews/) or check out the [DIY Guides](/categories/guides/).
+      Visit the [Product Reviews](/categories/product-reviews/) or check out the [DIY Guides](/categories/guide/).
 
   analytics:
     google:
@@ -86,5 +86,5 @@ menu:
       url: /categories/product-reviews/
       weight: 3
     - name: Guides
-      url: /categories/guides/
+      url: /categories/guide/
       weight: 4
