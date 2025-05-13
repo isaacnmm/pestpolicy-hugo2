@@ -57,6 +57,7 @@
       "first-entry",
       "footer",
       "header",
+      "home-info",
       "list",
       "logo",
       "logo-switches",
@@ -76,6 +77,7 @@
       "post-tags",
       "post-title",
       "prev",
+      "social-icons",
       "tag-entry",
       "terms-tags",
       "top-link"

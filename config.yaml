@@ -1,6 +1,6 @@
 baseURL: "https://pestpolicy.com/"
 languageCode: "en-us"
-title: "Insights" # Updated for SEO
+title: "Insights"
 theme: 'hugo-PaperMod'
 
 outputs:
@@ -17,19 +17,6 @@ outputFormats:
     isPlainText: true
     notAlternative: true
 
-# config.yml example (merge with your existing config)
-theme: PaperMod
-
-params:
-  # Demo-specific settings
-  defaultTheme: auto
-  disableSpecial1stPost: false
-  disableScrollToTop: false
-  homeInfoParams:
-    Title: "Hi, I'm PaperMod"
-    Content: "This is the demo content from PaperMod theme"
-
-# Enable features used in the demo
 buildDrafts: true
 buildFuture: true
 buildExpired: true
@@ -39,51 +26,64 @@ taxonomies:
   category: 'categories'
 
 permalinks:
-  posts: "/:slug/" # Keeping your exact structure
+  posts: "/:slug/"
+
 slug:
-  ugly: false # Preserved
+  ugly: false
 
 params:
   env: 'production'
   defaultTheme: 'auto'
+  disableSpecial1stPost: false
+  disableScrollToTop: false
 
   title: "Insights | Bugs, Paints, Sprayers"
-  description: "Trusted step-by-step DIY Home Improvmeent guides and unbiased product reviews."
+  description: "Trusted step-by-step DIY Home Improvement guides and unbiased product reviews."
   robots: "index, follow"
+
+  homeInfoParams:
+    Title: "Home Improvement | Bugs, Paint, & Shoes"
+    Content: |
+      Welcome to Pestpolicy.
+      - Insights into bugs, paints, and sprayers reveal how pests can affect painted surfaces and the performance of spray equipment. Understanding the interaction between paint types and sprayer technology is essential for achieving smooth, durable finishes. 
+      >
+      - Proper maintenance of sprayers and selecting the right paint formulation can also minimize issues caused by bugs during and after application.
+
+      Visit the [Product Reviews](https://pestpolicy.com/categories/product-reviews/) or check out the [DIY Guides](https://pestpolicy.com/categories/Guide/).
 
   analytics:
     google:
-      SiteVerificationTag: "wcIIamJKWxC3IcPXe02IZlAEWcGk828ZThxeK1w3aUQ" # Nested under analytics.google
-    anonymizeIP: true # This should likely be at the same level as 'google' if it's a general analytics setting
+      SiteVerificationTag: "wcIIamJKWxC3IcPXe02IZlAEWcGk828ZThxeK1w3aUQ"
+
+  anonymizeIP: true
 
   imaging:
     quality: 85
     webp: true
 
-build:
-  errorOnMissingPagePermalinks: true
-  errorOnInvalidPermalinks: true
-  writeStats: true
-  useResourceCacheWhen: "always" # Speeds up builds
-  noChmod: true
-
 sitemap:
   changefreq: "weekly"
   priority: 0.7
   filename: "sitemap.xml"
-  taxonomies: []
   disable: false
+
+build:
+  errorOnMissingPagePermalinks: true
+  errorOnInvalidPermalinks: true
+  writeStats: true
+  useResourceCacheWhen: "always"
+  noChmod: true
 
 menu:
   main:
-    - name: Posts
+    - name: Blog
       url: /posts/
       weight: 1
-    - name: Notes
-      url: /notes/
+    - name: Fleas
+      url: /categories/fleas/
       weight: 2
-    - name: Newsletter
-      url: /newsletter/
+    - name: Painting
+      url: /categories/painting/
       weight: 3
     - name: Archives
       url: /archives/
