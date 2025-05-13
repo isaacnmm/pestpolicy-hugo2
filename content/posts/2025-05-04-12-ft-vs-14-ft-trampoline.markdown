@@ -2,13 +2,13 @@
 author: Isaac
 layout: post
 title: 12 ft. vs-14 ft. Trampoline -The Ultimate Guide
-date: '2025-05-04T11:14:21+00:00'
+date: '2025-05-13T11:14:21+00:00'
 categories:
 - Guide
 - Swing Sets
 tags: []
 slug: /12-ft-vs-14-ft-trampoline/
-lastmod: 2025-05-07T12:21:23+03:00
+lastmod: 2025-05-13T12:21:23+03:00
 ---
 > **We may earn a commission when you click and buy from Amazon.com.**
 >
