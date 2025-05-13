@@ -1,7 +1,10 @@
 baseURL: "https://pestpolicy.com/"
 languageCode: "en-us"
-title: "Insights"
-theme: 'hugo-PaperMod'
+title: "Pest Control & Home Improvement Guides"
+theme: 'hugo-PaperMod' 
+
+enableRobotsTXT: true
+enableSitemap: true
 
 outputs:
   home: ["HTML", "RSS", "JSON"]
@@ -17,9 +20,9 @@ outputFormats:
     isPlainText: true
     notAlternative: true
 
-buildDrafts: true
-buildFuture: true
-buildExpired: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
 
 taxonomies:
   tag: 'tags'
@@ -37,7 +40,7 @@ params:
   disableSpecial1stPost: false
   disableScrollToTop: false
 
-  title: "Insights | Bugs, Paints, Sprayers"
+  title: "Pest Control & Home Improvement Guides"
   description: "Trusted step-by-step DIY Home Improvement guides and unbiased product reviews."
   robots: "index, follow"
 
