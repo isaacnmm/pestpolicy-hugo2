@@ -49,7 +49,7 @@ params:
       >
       - Proper maintenance of sprayers and selecting the right paint formulation can also minimize issues caused by bugs during and after application.
 
-      Visit the [Product Reviews](https://pestpolicy.com/categories/product-reviews/) or check out the [DIY Guides](https://pestpolicy.com/categories/Guide/).
+      Visit the [Product Reviews](/categories/product-reviews/) or check out the [DIY Guides](/categories/guides/).
 
   analytics:
     google:
@@ -82,9 +82,9 @@ menu:
     - name: Fleas
       url: /categories/fleas/
       weight: 2
-    - name: Painting
-      url: /categories/painting/
+    - name: Product Reviews
+      url: /categories/product-reviews/
       weight: 3
-    - name: Archives
-      url: /archives/
+    - name: Guides
+      url: /categories/guides/
       weight: 4
