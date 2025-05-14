@@ -1,6 +1,6 @@
 baseURL: "https://pestpolicy.com/"
 languageCode: "en-us"
-title: "Pest Control & Home Improvement Guides"
+title: "Home Guides"
 theme: 'hugo-PaperMod'
 
 enableRobotsTXT: true
@@ -40,8 +40,9 @@ params:
   disableSpecial1stPost: false
   disableScrollToTop: false
 
-  title: "Pest Control & Home Improvement Guides"
-  description: "Trusted step-by-step DIY Home Improvement guides and unbiased product reviews."
+  title: "Home Guides"
+  description: "Proper maintenance of sprayers and selecting the right paint formulation can also minimize issues caused by bugs during and after application.
+      Visit the [Product Reviews](/categories/product-reviews/) or check out the [DIY Guides](/categories/guide/)"
   robots: "index, follow"
 
   homeInfoParams:
