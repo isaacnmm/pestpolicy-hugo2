@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Insights</title>
+    <title>Pest Control &amp; Home Improvement Guides</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Insights</description>
+    <description>Recent content on Pest Control &amp; Home Improvement Guides</description>
     <generator>Hugo -- 0.147.3</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 May 2025 12:21:23 +0300</lastBuildDate>
+    <lastBuildDate>Tue, 13 May 2025 22:50:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact Us</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Tue, 13 May 2025 22:50:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;h2 id=&#34;get-in-touch&#34;&gt;Get in Touch&lt;/h2&gt;
+&lt;p&gt;We&amp;rsquo;d love to hear from you! Please use the form below to send us your questions, feedback, or email subscription requests.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:isaacnmm@gmail.com&#34;&gt;isaacnmm@gmail.com&lt;/a&gt;
+&lt;strong&gt;Address:&lt;/strong&gt; Federal Way
+&lt;strong&gt;Phone:&lt;/strong&gt; +1 912-54-7642&lt;/p&gt;</description>
+    </item>
     <item>
       <title>12 ft. vs-14 ft. Trampoline -The Ultimate Guide</title>
       <link>http://localhost:1313/12-ft-vs-14-ft-trampoline/</link>
@@ -22493,29 +22505,6 @@ Expert Solutions&lt;/p&gt;
 understand the unique pest challenges that homeowners and businesses face in this region. Our comprehensive pest control services are designed to address these challenges effectively and efficiently.
 &lt;strong&gt;Why Choose Our Pest Removal Company&lt;/strong&gt;
 Choosing our pest removal company means opting for a team of experienced, licensed, and insured professionals dedicated to providing top-notch service. Here’s why we stand out:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
-      <pubDate>Fri, 21 Mar 2025 15:29:13 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
-      <description>&lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
-&lt;p&gt;Explore our services and start your project today.
-&lt;a href=&#34;https://startertemplatecloud.com/e28/#&#34;&gt;&lt;/a&gt;
-&lt;strong&gt;Email&lt;/strong&gt;
-&lt;a href=&#34;mailto:isaacnmm@gmail.com&#34;&gt;isaacnmm@gmail.com&lt;/a&gt;
-&lt;strong&gt;Address&lt;/strong&gt;
-Federal Way
-Phone
-+1 912-54-7642&lt;/p&gt;
-&lt;h2 id=&#34;contact-us&#34;&gt;Contact Us&lt;/h2&gt;
-&lt;p&gt;Reach out to us for professional pest control solutions, DIY painting tips, technology setup advice, and more.
-Your Name
-Email Address
-*
-Message
-*
-Send Message&lt;/p&gt;</description>
     </item>
     <item>
       <title>Vancouver</title>
