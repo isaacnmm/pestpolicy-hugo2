@@ -1,7 +1,7 @@
 ﻿---
 author: Isaac
 layout: post
-title: What Does Raccoon Poop Look Like?
+title: What Does Raccoon Poop Look Like Really?
 date: '2025-05-04T21:59:43+00:00'
 categories:
 - Guide
