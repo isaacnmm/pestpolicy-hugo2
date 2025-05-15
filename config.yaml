@@ -40,8 +40,8 @@ params:
   disableSpecial1stPost: false
   disableScrollToTop: false
 
-  title: "Home Guides"
-  description: "Proper maintenance of sprayers and selecting the right paint formulation can also minimize issues caused by bugs during and after application.
+  title: "Home Improvement Guides"
+  description: "Guides for Pest solutions, sprayers and paint."
       Visit the [Product Reviews](/categories/product-reviews/) or check out the [DIY Guides](/categories/guide/)"
   robots: "index, follow"
 
