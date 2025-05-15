@@ -1,6 +1,6 @@
 baseURL: "https://pestpolicy.com/"
 languageCode: "en-us"
-title: "Home Guides"
+title: "Home Improvement Guides"
 theme: 'hugo-PaperMod'
 
 enableRobotsTXT: true
