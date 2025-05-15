@@ -41,8 +41,7 @@ params:
   disableScrollToTop: false
 
   title: "Home Improvement Guides"
-  description: "Guides for Pest solutions, sprayers and paint."
-      Visit the [Product Reviews](/categories/product-reviews/) or check out the [DIY Guides](/categories/guide/)"
+  description: "Guides for Pest solutions, sprayers and paint. Visit the [Product Reviews](/categories/product-reviews/) or check out the [DIY Guides](/categories/guide/)"
   robots: "index, follow"
 
   homeInfoParams:
